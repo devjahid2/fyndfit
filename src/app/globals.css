@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --black: #1e1e1e;
+  --black: #000000;
   --white:#FFFFFF;
   --gray:#DBDBDB;
 }
@@ -18,4 +18,56 @@
  */
 body {
   background: var(--black);
+  color:var(--white)
+}
+
+.logo-img{
+  width: 88px;
+  height: 88px;
+}
+.css-13cymwt-control:hover,.css-t3ipsp-control:hover{
+    border-color:transparent !important;
+}
+
+.css-2j1kc4-control{
+  background-color: transparent !important;
+}
+.css-1u9des2-indicatorSeparator{
+  display: none;
+}
+.css-13cymwt-control,.css-t3ipsp-control{
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+}
+.css-1jqq78o-placeholder,#react-select-2-input{
+  color: #fff !important;
+}
+.css-b62m3t-container{
+    width: 166px;
+    font-size: 13px;
+}
+.css-1nmdiq5-menu{
+    background-color: #181818 !important;
+    margin-bottom: 0 !important;
+}
+
+.title{
+  font-size: 80px;
+  font-weight: 700;
+  color: #fff;
+  line-height:80px;
+}
+.subtitle{
+  font-size: 24px;
+  font-weight: 500;
+  color:#fff
+}
+.z-down{
+  z-index:-1;
+}
+.position-center{
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%)
 }
