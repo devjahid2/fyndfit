@@ -79,37 +79,37 @@ export const LANGUAGE = {
             equipmentText:'المعدات'
         },
         features:{
-            title:'Features',
-            subtitle:'Got yourself some exercise equipment? Got yourself a gym membership? You’ve probably already realised that having access to good quality exercise equipment is only half of the battle. The Info you Need to Get the Best out of Your Workout',
+            title:'سمات',
+            subtitle:'هل حصلت على بعض معدات التمرين؟ حصلت لنفسك على عضوية صالة الألعاب الرياضية؟ ربما تكون قد أدركت بالفعل أن الوصول إلى معدات تمرينات جيدة النوعية لا يمثل سوى نصف المعركة. المعلومات التي تحتاجها للحصول على أقصى استفادة من التمرين',
             card1:{
-                title:'Log your workout',
-                subtitle:'FyndFit App helps to track and analyze your progress.'
+                title:'سجل التمرين الخاص بك',
+                subtitle:'يساعد تطبيق FyndFit على تتبع وتحليل تقدمك.'
             },
             card2:{
-                title:'Image search',
-                subtitle:'Use FyndFit App to identify an equipment.'
+                title:'بحث في الصور',
+                subtitle:'استخدم تطبيق FyndFit لتحديد الجهاز.'
             },
             card3:{
-                title:'filtering tool',
-                subtitle:'Filter through equipments and muscle targets to find the right exercise for you.'
+                title:'أداة التصفية',
+                subtitle:'قم بالتصفية من خلال المعدات والأهداف العضلية للعثور على التمرين المناسب لك.'
             },
             card4:{
-                title:'Workouts & Library',
-                subtitle:'Save everything and create workout plans that suits your needs.'
+                title:'التدريبات',
+                subtitle:'احفظ كل شيء وقم بإنشاء خطط تمرين تناسب احتياجاتك.'
             }
         },
         exercises:{
-            title:'Access to 100+ equipment and 2500+ exercises',
-            subtitle:'Search for exercises, muscle targets and equipments by text search, image search or by using the filtering tool.',
+            title:'الوصول إلى 100 جهاز و 2500 تمرين',
+            subtitle:'ابحث عن التمارين والعضلات المستهدفة والمعدات عن طريق البحث عن النص أو البحث عن الصور أو باستخدام أداة التصفية.',
             card1:{
-                title:'100+ equipment',
-                subtitle: "Search through different equipment's to find exercise or which muscle can be targeted.",
-                image:'/images/english/exercises-card-1.png'
+                title:'100 معدات',
+                subtitle: "ابحث في المعدات المختلفة للعثور على التمارين أو العضلات التي يمكن استهدافها.",
+                image:'/images/arabic/exercises-card-1.png'
             },
             card2:{
-                title:'2500+ exercises',
-                subtitle:'2500+ exercise to choose from with images and illustrations to help perform the exercise.',
-                image:'/images/english/exercises-card-2.png'
+                title:'2500 تمرين',
+                subtitle:'2500 تمرين للاختيار من بينها مع الصور والرسوم التوضيحية للمساعدة في أداء التمرين.',
+                image:'/images/arabic/exercises-card-2.png'
             }
         },
         filteringTool:{
