@@ -5,10 +5,10 @@ import { createContext, useState } from "react";
 
 const inter = Lexend({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Fyndfit",
-  description: "This is multi language app",
-};
+// export const metadata = {
+//   title: "Fyndfit",
+//   description: "This is multi language app",
+// };
 export const AppContext = createContext({});
 
 export default function RootLayout({children,}: {children: React.ReactNode;}) {
