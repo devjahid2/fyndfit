@@ -5,6 +5,9 @@ import { useContext } from 'react';
 import { AppContext } from './layout';
 import { LANGUAGE } from './../../data';
 import Feature from '@/components/Feature';
+import EquipmentCard from '@/components/headerCard/equipmentCard';
+import ExercisesCard from '@/components/headerCard/exercisesCard';
+import Exercise from '@/components/Exercise';
 
 export default function Home() {
   const [context, setContext]:any = useContext(AppContext);
@@ -24,6 +27,8 @@ export default function Home() {
             </div>
           </div>
           <div className="lg:w-1/2 relative">
+            <EquipmentCard text={Lang[context.language].header.equipmentText}/>
+            <ExercisesCard text={Lang[context.language].header.exerciseText}/>
             <Image className='absolute z-down position-center' width={400} height={400} alt='header img' src={'/images/common/dark-bg.png'}/>
             <Image className='absolute z-down position-center' width={1000} height={1000} alt='header img' src={'/images/common/white-border.png'}/>
             <Image width={1000} height={1000} alt='header img' src={Lang[context.language].header.image}/>
@@ -31,6 +36,7 @@ export default function Home() {
         </div>
       </div>
       <Feature/>
+      <Exercise/>
     </main>
   )
 }

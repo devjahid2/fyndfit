@@ -5,7 +5,9 @@ export const LANGUAGE = {
         header:{
             title:'Looking for an exercise or an equipment?',
             subtitle:'FyndFit App helps you find exercises based on the equipment, muscle target or exercise categories.',
-            image:'/images/english/mobile.png'
+            image:'/images/english/mobile.png',
+            exerciseText:'exercises',
+            equipmentText:'equipment'
         },
         features:{
             title:'Features',
@@ -19,7 +21,7 @@ export const LANGUAGE = {
                 subtitle:'Use FyndFit App to identify an equipment.'
             },
             card3:{
-                title:'filtering tool',
+                title:'Filtering tool',
                 subtitle:'Filter through equipments and muscle targets to find the right exercise for you.'
             },
             card4:{
@@ -72,7 +74,9 @@ export const LANGUAGE = {
         header:{
             title:'هل تبحث عن تمرين أو جهاز؟',
             subtitle:'يساعدك تطبيق FyndFit في العثور على تمارين بناءً على المعدات أو العضلات المستهدفة أو فئات التمارين.',
-            image:'/images/arabic/mobile.png'
+            image:'/images/arabic/mobile.png',
+            exerciseText:'تمارين',
+            equipmentText:'المعدات'
         },
         features:{
             title:'Features',

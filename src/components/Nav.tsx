@@ -75,6 +75,20 @@ const options = [
       </div>
     ),
   },
+  {
+    value: "ITAILIAN",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Itailian</span>
+      </div>
+    ),
+  },
 ];
 
 const Nav = () => {

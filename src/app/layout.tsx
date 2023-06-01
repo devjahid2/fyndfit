@@ -19,6 +19,10 @@ export default function RootLayout({children,}: {children: React.ReactNode;}) {
 
   return (
     <html lang="en">
+      <head>
+        <title>Fyndfit</title>
+        <meta name="description" content="This is multi language app" />
+      </head>
         <AppContext.Provider value={[context, setContext]}>
           <body className={inter.className}>
               {children}
