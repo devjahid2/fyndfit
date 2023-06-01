@@ -35,12 +35,12 @@ export const LANGUAGE = {
             card1:{
                 title:'100+ equipment',
                 subtitle: "Search through different equipment's to find exercise or which muscle can be targeted.",
-                image:'/images/english/exercises-card-1.png'
+                image:'/images/english/exercises-card-2.png'
             },
             card2:{
                 title:'2500+ exercises',
                 subtitle:'2500+ exercise to choose from with images and illustrations to help perform the exercise.',
-                image:'/images/english/exercises-card-2.png'
+                image:'/images/english/exercises-card-1.png'
             }
         },
         filteringTool:{
