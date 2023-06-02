@@ -273,3 +273,31 @@ body {
   bottom: 12%;
   height:75%
 }
+.footer-section ul li{
+  margin-bottom: 10px;
+}
+.footer-section ul li a{
+  font-size:18px;
+  font-weight: 500;
+}
+.contact .img{
+  background-color: #DBDBDB;
+  width:30px;
+  height:30px;
+  padding:7px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center
+}
+.contact li{
+  display:flex;
+  gap:15px;
+  align-items:center
+}
+.copyright{
+  background:#181818;
+  padding:10px 0;
+  font-size:18px;
+  font-weight:500
+}

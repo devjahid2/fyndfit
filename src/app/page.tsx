@@ -13,6 +13,8 @@ import ImageSearch from '@/components/ImageSearch';
 import Workout from '@/components/Workout';
 import WorkoutLibrary from '@/components/WorkoutLibrary';
 import Equipment from '@/components/Equipment';
+import Copyright from '@/components/Copyright';
+import Footer from '@/components/Footer';
 
 export default function Home() {
   const [context, setContext]:any = useContext(AppContext);
@@ -47,6 +49,8 @@ export default function Home() {
       <Workout/>
       <WorkoutLibrary/>
       <Equipment/>
+      <Footer/>
+      <Copyright/>
     </main>
   )
 }
