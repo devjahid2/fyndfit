@@ -89,6 +89,104 @@ const options = [
       </div>
     ),
   },
+  {
+    value: "JAPANES",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Japanes</span>
+      </div>
+    ),
+  },
+  {
+    value: "KOREAN",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Korean</span>
+      </div>
+    ),
+  },
+  {
+    value: "POLISH",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Polish</span>
+      </div>
+    ),
+  },
+  {
+    value: "PORTUGUESE",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Portuguese</span>
+      </div>
+    ),
+  },
+  {
+    value: "PORTUGUESE",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Portuguese</span>
+      </div>
+    ),
+  },
+  {
+    value: "SPANISH",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Spanish</span>
+      </div>
+    ),
+  },
+  {
+    value: "TURKISH",
+    label: (
+      <div className="flex gap-2">
+        <Image
+          width={28}
+          height={18}
+          alt="icon"
+          src={"/images/common/en.png"}
+        />{" "}
+        <span className="text-white">Turkish</span>
+      </div>
+    ),
+  },
 ];
 
 const Nav = () => {

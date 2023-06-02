@@ -24,8 +24,8 @@ const Equipment = () => {
       />
                         <h2 className="title">{Lang[context.language].equipment.title}</h2>
                         <div className="flex items-center gap-3 mt-5">
-                            <Image width={200} height={100} alt="app store" src={'/images/common/play_store.png'}/>
-                            <Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/>
+                        <a href="https://play.google.com/store/apps/details?id=com.appbuildr.fyndfit"><Image width={200} height={100} alt="app store" src={'/images/common/play_store.png'}/></a>
+              <a href="https://apps.apple.com/us/app/fyndfit/id1602758207"><Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/></a>
                         </div>
                     </div>
                 </div>

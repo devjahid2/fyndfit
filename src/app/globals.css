@@ -295,3 +295,33 @@ body {
   font-size:18px;
   font-weight:500
 }
+
+@media (max-width:1024px) {
+  .title,.exercise-section .title,.filtering-tool h2,.image-search .title, .workout .title, .workout-library .title, .equipment-sec .title{
+    font-size: 30px;
+    line-height:40.55px;
+    text-align:center
+  }
+  .subtitle{
+    font-size: 14px;
+    line-height:24px;
+    text-align:center
+  }
+  .filtering-tool img{
+    width:49%;
+    height:auto
+  }
+  .filtering-padding{
+    padding:50px 0;
+  }
+  .image-search::before, .workout::before, .workout-library::before, .equipment-sec::before{
+    height:100%
+  }
+  .subtitle,.feature .subtitle{
+    font-size: 14px;
+  }
+  .equipment-sec::before{
+    top:0;
+    bottom: auto;
+  }
+}

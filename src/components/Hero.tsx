@@ -11,13 +11,13 @@ const Hero = () => {
     return(
         <div className='xl:container mx-auto px-4 xl:px-0'>
         <div className={`lg:flex mt-5 lg:items-center gap-10 ${context.language === 'ARABIC' ? 'flex-row-reverse text-end' : ''}`}>
-          <div className="lg:w-1/2">
+          <div className="lg:w-1/2 mb-10 lg:mb-0">
             <h2 className='title mb-10'>{Lang[context.language].header.title}</h2>
             <p className='subtitle'>{Lang[context.language].header.subtitle}</p>
 
             <div className="flex items-center gap-3 mt-5">
-              <Image width={200} height={100} alt="app store" src={'/images/common/play_store.png'}/>
-              <Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/>
+              <a href="https://play.google.com/store/apps/details?id=com.appbuildr.fyndfit"><Image width={200} height={100} alt="app store" src={'/images/common/play_store.png'}/></a>
+              <a href="https://apps.apple.com/us/app/fyndfit/id1602758207"><Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/></a>
             </div>
           </div>
           <div className="lg:w-1/2 relative">
