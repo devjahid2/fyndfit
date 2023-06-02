@@ -9,12 +9,12 @@ const Equipment = () => {
     return(
         <div className="equipment-section mb-80 xl:container mx-auto px-4 xl:px-0">
             <div className="equipment-sec relative ">
-                <div className="lg:flex items-center">
+                <div className={`lg:flex items-center ${context.language === 'ARABIC' ? 'flex-row-reverse text-end' : ''}`}>
                      <div className="lg:w-1/2 flex justify-center">
                         <Image alt="image search" width={600} height={600} src={Lang[context.language].equipment.image}/>
                     </div>
                    
-                    <div className="lg:w-1/2 filtering-padding">
+                    <div className={`lg:w-1/2 filtering-padding ${context.language === 'ARABIC' ? 'flex flex-col items-end' : ''}`}>
                     <Image
         className="logo-img"
         alt="logo"

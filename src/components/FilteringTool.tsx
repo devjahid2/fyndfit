@@ -9,7 +9,7 @@ const FilteringTool = () => {
     return(
         <div className="xl:container mx-auto px-4 xl:px-0 mb-80">
             <div className="filtering-tool px-4">
-            <div className="lg:flex  gap-5">
+            <div className={`lg:flex  gap-5 ${context.language === 'ARABIC' ? 'flex-row-reverse text-end' : ''}`}>
                 <div className="lg:w-1/2 filtering-padding">
                     <h2 className="title">{Lang[context.language].filteringTool.title}</h2>
                     <p className="subtitle">{Lang[context.language].filteringTool.subtitle}</p>

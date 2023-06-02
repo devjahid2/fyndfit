@@ -9,8 +9,8 @@ const Workout = () => {
     return(
         <div className="workout-section mb-80 xl:container mx-auto px-4 xl:px-0">
             <div className="workout relative ">
-                <div className="lg:flex items-center">
-                    <div className="lg:w-1/2 flex justify-center">
+                <div className={`lg:flex items-center ${context.language === 'ARABIC' ? 'flex-row-reverse text-end' : ''}`}>
+                    <div className="lg:w-1/2 flex justify-center ">
                         <Image alt="image search" width={400} height={400} src={Lang[context.language].workout.image}/>
                     </div>
                     <div className="lg:w-1/2 filtering-padding">

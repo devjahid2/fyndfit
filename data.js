@@ -113,29 +113,29 @@ export const LANGUAGE = {
             }
         },
         filteringTool:{
-            title:'Not willing to search? Try out the filtering tool.',
-            subtitle:'Filter through equipments and muscle targets to find the right exercise for you.',
-            imageTop:'/images/english/filtering-tool-top.png',
-            imageBottom:'/images/english/filtering-tool-bottom.png',
+            title:'لا ترغب في البحث؟ جرب أداة التصفية.',
+            subtitle:'قم بالتصفية من خلال المعدات والأهداف العضلية للعثور على التمرين المناسب لك.',
+            imageTop:'/images/arabic/filtering-tool-top.png',
+            imageBottom:'/images/arabic/filtering-tool-bottom.png',
         },
         imageSearch:{
-            title:'Image search',
-            subtitle:'Use FyndFit App to identify an equipment.',
-            image:'/images/english/img-search.png'
+            title:'بحث في الصور',
+            subtitle:'استخدم تطبيق FyndFit لتحديد الجهاز.',
+            image:'/images/arabic/img-search.png'
         },
         workout:{
-            title:'Log your workout',
-            subtitle:'FyndFit App helps to track and analyze your progress.',
-            image:'/images/english/workout.png'
+            title:'سجل التمرين الخاص بك',
+            subtitle:'يساعد تطبيق FyndFit على تتبع وتحليل تقدمك.',
+            image:'/images/arabic/workout.png'
         },
         workoutLibrary: {
-            title:'Workouts & Library',
-            subtitle:'Save your favourite equipments, muscle targets, exercises and create workout plans that suits your needs.',
-            image:'/images/english/workout-library.png'
+            title:'التدريبات',
+            subtitle:'احفظ معداتك المفضلة وأهدافك العضلية وتمارينك وقم بإنشاء خطط تمرين تناسب احتياجاتك.',
+            image:'/images/arabic/workout-library.png'
         },
         equipment:{
-            title:'Looking for an exercise or an equipment?',
-            image:'/images/english/equipment.png'
+            title:'هل تبحث عن تمرين أو جهاز؟',
+            image:'/images/arabic/equipment.png'
         }
     }
 

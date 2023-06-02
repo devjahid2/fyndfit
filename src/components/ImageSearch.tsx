@@ -9,7 +9,7 @@ const ImageSearch = () => {
     return(
         <div className="image-search-section mb-80 xl:container mx-auto px-4 xl:px-0">
             <div className="image-search relative ">
-                <div className="lg:flex items-center">
+                <div className={`lg:flex items-center ${context.language === 'ARABIC' ? 'flex-row-reverse text-end' : ''}`}>
                     <div className="lg:w-1/2 filtering-padding">
                         <h2 className="title">{Lang[context.language].imageSearch.title}</h2>
                         <h2 className="subtitle">{Lang[context.language].imageSearch.subtitle}</h2>

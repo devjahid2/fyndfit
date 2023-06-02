@@ -164,9 +164,6 @@ body {
   font-size: 18px;
   font-weight:500
 }
-/* .featureCard img{
-  width: 100%;
-} */
 .featureCard .img{
   width: 50px;
   border-radius: 11.2027px;
@@ -223,7 +220,6 @@ body {
 }
 .filtering-tool{
   background: url('../../public/images/common/typographic.png') no-repeat #181818;
-  /* padding: 80px 50px; */
   border-radius: 46px;
 
 }
@@ -238,7 +234,6 @@ body {
   width:100%
 }
 .filtering-tool .img-top{
-  /* position: absolute; */
   top: 0;
 }
 .filtering-padding{
@@ -266,7 +261,6 @@ body {
 }
 .workout::before,.equipment-sec::before{
   background: url('../../public/images/common/topographic-right.png') no-repeat #181818;
-  /* right:0; */
   background-position: right;
 }
 .equipment-sec::before{

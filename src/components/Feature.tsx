@@ -9,8 +9,8 @@ const Feature = () => {
     const Lang:any = LANGUAGE;
     return(
         <div className="feature">
-            <div className=" xl:container mx-auto px-4 xl:px-0">
-                <div className="lg:flex mt-5 lg:items-start gap-5">
+            <div className=" xl:container mx-auto px-4 xl:px-0 ">
+                <div className={`lg:flex mt-5 lg:items-start gap-5 ${context.language === 'ARABIC' ? 'flex-row-reverse text-end' : ''}`}>
                     <div className="lg:w-1/2">
                         <h2 className="title">{Lang[context.language].features.title}</h2>
                         <p className="subtitle">{Lang[context.language].features.subtitle}</p>
