@@ -7,7 +7,7 @@ const Exercise = () => {
     const [context, setContext]:any = useContext(AppContext);
     const Lang:any = LANGUAGE;
     return(
-        <div className="exercise-section">
+        <div className="exercise-section mb-80">
             <div className="xl:container mx-auto px-4 xl:px-0">
                 <div className="text-center">
                     <h2 className="title">{Lang[context.language].exercises.title}</h2>

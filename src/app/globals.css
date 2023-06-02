@@ -188,7 +188,7 @@ body {
   background-color:#E4FFE9;
 
 }
-.exercise-section{
+.mb-80{
   margin-bottom: 80px;
 }
 .exercise-section .title{
@@ -220,4 +220,56 @@ body {
   background-color: #181818;
   z-index:-1;
   border-radius: 55px;
+}
+.filtering-tool{
+  background: url('../../public/images/common/typographic.png') no-repeat #181818;
+  /* padding: 80px 50px; */
+  border-radius: 46px;
+
+}
+.filtering-tool h2{
+  font-size: 63px;
+}
+.filtering-tool p{
+  font-size: 24px;
+}
+.filtering-tool img{
+  height: 450px;
+  width:100%
+}
+.filtering-tool .img-top{
+  /* position: absolute; */
+  top: 0;
+}
+.filtering-padding{
+  padding:80px 50px
+}
+.mt-130{
+  margin-top: 130px;
+}
+.image-search .title,.workout .title,.workout-library .title,.equipment-sec .title{
+  font-size: 56px;
+}
+.image-search .subtitle,.workout .subtitle,.workout-library .subtitle{
+  font-size: 24px;
+}
+.image-search::before,.workout::before,.workout-library::before,.equipment-sec::before{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height:80%;
+  background: url('../../public/images/common/typographic.png') no-repeat #181818;
+  bottom:0;
+  left:0;
+  z-index: -1;
+  border-radius: 46px;
+}
+.workout::before,.equipment-sec::before{
+  background: url('../../public/images/common/topographic-right.png') no-repeat #181818;
+  /* right:0; */
+  background-position: right;
+}
+.equipment-sec::before{
+  bottom: 12%;
+  height:75%
 }

@@ -66,7 +66,7 @@ export const LANGUAGE = {
         },
         equipment:{
             title:'Looking for an exercise or an equipment?',
-            image:'/images/english/'
+            image:'/images/english/equipment.png'
         }
     },
 
@@ -135,7 +135,7 @@ export const LANGUAGE = {
         },
         equipment:{
             title:'Looking for an exercise or an equipment?',
-            image:'/images/english/'
+            image:'/images/english/equipment.png'
         }
     }
 

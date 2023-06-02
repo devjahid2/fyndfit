@@ -8,6 +8,11 @@ import Feature from '@/components/Feature';
 import EquipmentCard from '@/components/headerCard/equipmentCard';
 import ExercisesCard from '@/components/headerCard/exercisesCard';
 import Exercise from '@/components/Exercise';
+import FilteringTool from '@/components/FilteringTool';
+import ImageSearch from '@/components/ImageSearch';
+import Workout from '@/components/Workout';
+import WorkoutLibrary from '@/components/WorkoutLibrary';
+import Equipment from '@/components/Equipment';
 
 export default function Home() {
   const [context, setContext]:any = useContext(AppContext);
@@ -37,6 +42,11 @@ export default function Home() {
       </div>
       <Feature/>
       <Exercise/>
+      <FilteringTool/>
+      <ImageSearch/>
+      <Workout/>
+      <WorkoutLibrary/>
+      <Equipment/>
     </main>
   )
 }
