@@ -145,20 +145,7 @@ const options = [
       </div>
     ),
   },
-  {
-    value: "PORTUGUESE",
-    label: (
-      <div className="flex gap-2">
-        <Image
-          width={28}
-          height={18}
-          alt="icon"
-          src={"/images/common/en.png"}
-        />{" "}
-        <span className="text-white">Portuguese</span>
-      </div>
-    ),
-  },
+  
   {
     value: "SPANISH",
     label: (

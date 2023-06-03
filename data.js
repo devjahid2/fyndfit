@@ -1,6 +1,9 @@
 // all text content provided from here (it will changed on language)
 
 export const LANGUAGE = {
+
+
+
   ENGLISH: {
     header: {
       title: "Looking for an exercise or an equipment?",
@@ -79,6 +82,12 @@ export const LANGUAGE = {
     },
     terms: {},
   },
+
+
+
+
+
+
 
   ARABIC: {
     header: {
@@ -529,20 +538,422 @@ export const LANGUAGE = {
       image: "/images/japanese/img-search.png",
     },
     workout: {
-      title: "Log your workout",
-      subtitle: "FyndFit App helps to track and analyze your progress.",
+      title: "トレーニングを記録する",
+      subtitle: "FyndFit アプリは、進捗状況の追跡と分析に役立ちます。",
       image: "/images/japanese/workout.png",
     },
     workoutLibrary: {
-      title: "Workouts & Library",
+      title: "トレーニング",
       subtitle:
-        "Save your favourite equipments, muscle targets, exercises and create workout plans that suits your needs.",
+        "お気に入りの器具、筋肉ターゲット、エクササイズを保存し、ニーズに合ったワークアウト プランを作成します。",
       image: "/images/japanese/workout-library.png",
     },
     equipment: {
-      title: "Looking for an exercise or an equipment?",
+      title: "エクササイズや器具をお探しですか?",
       image: "/images/japanese/equipment.png",
     },
     terms: {},
   },
+  KOREAN: {
+    header: {
+      title: "운동이나 장비를 찾고 계십니까?",
+      subtitle:
+        "FyndFit 앱은 장비, 근육 목표 또는 운동 범주를 기반으로 운동을 찾는 데 도움이 됩니다.",
+      image: "/images/korean/mobile.png",
+      exerciseText: "수업 과정",
+      equipmentText: "장비",
+    },
+    features: {
+      title: "특징",
+      subtitle:
+        "운동 장비가 있습니까? 체육관 멤버십이 있으십니까? 좋은 품질의 운동 장비를 사용하는 것이 전투의 절반에 불과하다는 사실을 이미 알고 계실 것입니다. 운동을 최대한 활용하는 데 필요한 정보",
+      card1: {
+        title: "운동 기록",
+        subtitle: "FyndFit 앱은 진행 상황을 추적하고 분석하는 데 도움이 됩니다.",
+      },
+      card2: {
+        title: "이미지 검색",
+        subtitle: "FyndFit 앱을 사용하여 장비를 식별합니다.",
+      },
+      card3: {
+        title: "필터링 도구",
+        subtitle:
+          "장비와 근육 목표를 필터링하여 자신에게 맞는 운동을 찾으십시오.",
+      },
+      card4: {
+        title: "운동",
+        subtitle:
+          "모든 것을 저장하고 필요에 맞는 운동 계획을 세우십시오.",
+      },
+    },
+    exercises: {
+      title: "100가지 장비 및 2500가지 운동 이용",
+      subtitle:
+        "텍스트 검색, 이미지 검색 또는 필터링 도구를 사용하여 운동, 근육 타겟 및 장비를 검색합니다.",
+      card1: {
+        title: "100 장비",
+        subtitle:
+          "다른 장비를 검색하여 운동을 찾거나 목표로 삼을 수 있는 근육을 찾으십시오.",
+        image: "/images/korean/exercises-card-2.png",
+      },
+      card2: {
+        title: "2500개의 운동",
+        subtitle:
+          "운동을 수행하는 데 도움이 되는 이미지 및 삽화와 함께 선택할 수 있는 2500개의 운동.",
+        image: "/images/korean/exercises-card-1.png",
+      },
+    },
+    filteringTool: {
+      title: "검색할 의사가 없습니까? 필터링 도구를 사용해 보십시오.",
+      subtitle:
+        "장비와 근육 목표를 필터링하여 자신에게 맞는 운동을 찾으십시오.",
+      imageTop: "/images/korean/filtering-tool-top.png",
+      imageBottom: "/images/korean/filtering-tool-bottom.png",
+    },
+    imageSearch: {
+      title: "이미지 검색",
+      subtitle: "FyndFit 앱을 사용하여 장비를 식별합니다.",
+      image: "/images/korean/img-search.png",
+    },
+    workout: {
+      title: "운동 기록",
+      subtitle: "FyndFit 앱은 진행 상황을 추적하고 분석하는 데 도움이 됩니다.",
+      image: "/images/korean/workout.png",
+    },
+    workoutLibrary: {
+      title: "운동",
+      subtitle:
+        "좋아하는 장비, 근육 목표, 운동을 저장하고 필요에 맞는 운동 계획을 세웁니다.",
+      image: "/images/korean/workout-library.png",
+    },
+    equipment: {
+      title: "운동이나 장비를 찾고 계십니까?",
+      image: "/images/korean/equipment.png",
+    },
+    terms: {},
+  },
+  POLISH: {
+    header: {
+      title: "Szukasz ćwiczeń lub sprzętu?",
+      subtitle:
+        "Aplikacja FyndFit pomaga znaleźć ćwiczenia w oparciu o sprzęt, docelowe mięśnie lub kategorie ćwiczeń.",
+      image: "/images/polish/mobile.png",
+      exerciseText: "ćwiczenia",
+      equipmentText: "urządzenia",
+    },
+    features: {
+      title: "Cechy",
+      subtitle:
+        "Masz jakiś sprzęt do ćwiczeń? Masz karnet na siłownię? Pewnie już zdałeś sobie sprawę, że dostęp do dobrej jakości sprzętu do ćwiczeń to dopiero połowa sukcesu. Informacje, których potrzebujesz, aby jak najlepiej wykorzystać swój trening",
+      card1: {
+        title: "Zapisz swój trening",
+        subtitle: "Aplikacja FyndFit pomaga śledzić i analizować Twoje postępy.",
+      },
+      card2: {
+        title: "Wyszukiwanie obrazka",
+        subtitle: "Użyj aplikacji FyndFit, aby zidentyfikować sprzęt.",
+      },
+      card3: {
+        title: "Narzędzie do filtrowania",
+        subtitle:
+          "Filtruj sprzęt i cele mięśniowe, aby znaleźć odpowiednie ćwiczenie dla siebie.",
+      },
+      card4: {
+        title: "Treningi",
+        subtitle:
+          "Zapisz wszystko i stwórz plany treningowe, które odpowiadają Twoim potrzebom.",
+      },
+    },
+    exercises: {
+      title: "Dostęp do 100 urządzeń i 2500 ćwiczeń",
+      subtitle:
+        "Wyszukaj ćwiczenia, cele mięśniowe i sprzęt za pomocą wyszukiwania tekstowego, wyszukiwania obrazów lub za pomocą narzędzia filtrującego.",
+      card1: {
+        title: "100 urządzeń",
+        subtitle:
+          "Przeszukuj różne urządzenia, aby znaleźć ćwiczenie lub mięsień, który może być celem.",
+        image: "/images/polish/exercises-card-2.png",
+      },
+      card2: {
+        title: "2500 ćwiczeń",
+        subtitle:
+          "2500 ćwiczeń do wyboru z obrazami i ilustracjami, które pomogą wykonać ćwiczenie.",
+        image: "/images/polish/exercises-card-1.png",
+      },
+    },
+    filteringTool: {
+      title: "Nie chcesz szukać? Wypróbuj narzędzie do filtrowania.",
+      subtitle:
+        "Filtruj sprzęt i cele mięśniowe, aby znaleźć odpowiednie ćwiczenie dla siebie.",
+      imageTop: "/images/polish/filtering-tool-top.png",
+      imageBottom: "/images/polish/filtering-tool-bottom.png",
+    },
+    imageSearch: {
+      title: "Wyszukiwanie obrazka",
+      subtitle: "Użyj aplikacji FyndFit, aby zidentyfikować sprzęt.",
+      image: "/images/polish/img-search.png",
+    },
+    workout: {
+      title: "Zapisz swój trening",
+      subtitle: "Aplikacja FyndFit pomaga śledzić i analizować Twoje postępy.",
+      image: "/images/polish/workout.png",
+    },
+    workoutLibrary: {
+      title: "Treningi",
+      subtitle:
+        "Zapisz swój ulubiony sprzęt, cele mięśniowe, ćwiczenia i stwórz plany treningowe, które odpowiadają Twoim potrzebom.",
+      image: "/images/polish/workout-library.png",
+    },
+    equipment: {
+      title: "Szukasz ćwiczeń lub sprzętu?",
+      image: "/images/polish/equipment.png",
+    },
+    terms: {},
+  },
+
+
+  PORTUGUESE: {
+    header: {
+      title: "Procurando um exercício ou um equipamento?",
+      subtitle:
+        "O aplicativo FyndFit ajuda você a encontrar exercícios com base no equipamento, alvo muscular ou categorias de exercícios.",
+      image: "/images/portuguese/mobile.png",
+      exerciseText: "exercícios",
+      equipmentText: "equipamentos",
+    },
+    features: {
+      title: "Características",
+      subtitle:
+        "Tem algum equipamento de exercício? Você se inscreveu em uma academia? Você provavelmente já percebeu que ter acesso a equipamentos de exercícios de boa qualidade é apenas metade da batalha. A informação que você precisa para tirar o máximo proveito do seu treino",
+      card1: {
+        title: "Registre seu exercício",
+        subtitle: "O aplicativo FyndFit ajuda você a acompanhar e analisar seu progresso.",
+      },
+      card2: {
+        title: "Pesquisa de imagem",
+        subtitle: "Use o aplicativo FyndFit para identificar um dispositivo.",
+      },
+      card3: {
+        title: "Ferramenta de filtragem",
+        subtitle:
+          "Filtre por equipamentos e objetivos musculares para encontrar o treino certo para você.",
+      },
+      card4: {
+        title: "Treinos e Biblioteca",
+        subtitle:
+          "Salve tudo e crie planos de exercícios que atendam às suas necessidades.",
+      },
+    },
+    exercises: {
+      title: "Acesso a 100 equipamentos e 2500 exercícios",
+      subtitle:
+        "Pesquise exercícios, alvos musculares e equipamentos por pesquisa de texto, pesquisa de imagens ou usando a ferramenta de filtragem.",
+      card1: {
+        title: "100 equipamentos",
+        subtitle:
+          "Pesquise em diferentes equipamentos para encontrar exercícios ou quais músculos podem ser trabalhados.",
+        image: "/images/portuguese/exercises-card-2.png",
+      },
+      card2: {
+        title: "2500 exercícios",
+        subtitle:
+          "2500 exercícios para escolher com imagens e ilustrações para ajudar na execução do exercício.",
+        image: "/images/portuguese/exercises-card-1.png",
+      },
+    },
+    filteringTool: {
+      title: "Não está disposto a pesquisar? Experimente a ferramenta de filtragem.",
+      subtitle:
+        "Filtre equipamentos e alvos musculares para encontrar o exercício certo para você.",
+      imageTop: "/images/portuguese/filtering-tool-top.png",
+      imageBottom: "/images/portuguese/filtering-tool-bottom.png",
+    },
+    imageSearch: {
+      title: "Pesquisa de imagem",
+      subtitle: "Use FyndFit App para identificar um equipamento.",
+      image: "/images/portuguese/img-search.png",
+    },
+    workout: {
+      title: "Registre seu treino",
+      subtitle: "O aplicativo FyndFit ajuda a rastrear e analisar seu progresso.",
+      image: "/images/portuguese/workout.png",
+    },
+    workoutLibrary: {
+      title: "treinos",
+      subtitle:
+        "Salve seus equipamentos favoritos, alvos musculares, exercícios e crie planos de treino que atendam às suas necessidades.",
+      image: "/images/portuguese/workout-library.png",
+    },
+    equipment: {
+      title: "Procurando um exercício ou um equipamento?",
+      image: "/images/portuguese/equipment.png",
+    },
+    terms: {},
+  },
+
+  
+
+  SPANISH: {
+    header: {
+      title: "¿Buscas un ejercicio o un equipo?",
+      subtitle:
+        "La aplicación FyndFit lo ayuda a encontrar ejercicios según el equipo, el objetivo muscular o las categorías de ejercicios.",
+      image: "/images/spanish/mobile.png",
+      exerciseText: "ejercicios",
+      equipmentText: "equipos",
+    },
+    features: {
+      title: "Características",
+      subtitle:
+        "¿Tienes algún equipo de ejercicio? ¿Tienes una membresía de gimnasio? Probablemente ya te hayas dado cuenta de que tener acceso a equipos de ejercicio de buena calidad es solo la mitad de la batalla. La información que necesita para obtener lo mejor de su entrenamiento",
+      card1: {
+        title: "Registra tu entrenamiento",
+        subtitle: "La aplicación FyndFit ayuda a rastrear y analizar su progreso.",
+      },
+      card2: {
+        title: "Búsqueda de imágenes",
+        subtitle: "Utilice la aplicación FyndFit para identificar un equipo.",
+      },
+      card3: {
+        title: "Herramienta de filtrado",
+        subtitle:
+          "Filtra a través de equipos y objetivos musculares para encontrar el ejercicio adecuado para ti.",
+      },
+      card4: {
+        title: "entrenamientos",
+        subtitle:
+          "Guarda todo y crea planes de entrenamiento que se adapten a tus necesidades.",
+      },
+    },
+    exercises: {
+      title: "Acceso a 100 equipos y 2500 ejercicios",
+      subtitle:
+        "Busque ejercicios, objetivos musculares y equipos mediante búsqueda de texto, búsqueda de imágenes o utilizando la herramienta de filtrado.",
+      card1: {
+        title: "100 equipos",
+        subtitle:
+          "Busque a través de diferentes equipos para encontrar ejercicio o qué músculo puede trabajar.",
+        image: "/images/spanish/exercises-card-2.png",
+      },
+      card2: {
+        title: "2500 ejercicios",
+        subtitle:
+          "2500 ejercicios a elegir con imágenes e ilustraciones para ayudar a realizar el ejercicio.",
+        image: "/images/spanish/exercises-card-1.png",
+      },
+    },
+    filteringTool: {
+      title: "¿No estás dispuesto a buscar? Pruebe la herramienta de filtrado.",
+      subtitle:
+        "Filtra a través de equipos y objetivos musculares para encontrar el ejercicio adecuado para ti.",
+      imageTop: "/images/spanish/filtering-tool-top.png",
+      imageBottom: "/images/spanish/filtering-tool-bottom.png",
+    },
+    imageSearch: {
+      title: "Búsqueda de imágenes",
+      subtitle: "Utilice la aplicación FyndFit para identificar un equipo.",
+      image: "/images/spanish/img-search.png",
+    },
+    workout: {
+      title: "Registra tu entrenamiento",
+      subtitle: "La aplicación FyndFit ayuda a rastrear y analizar su progreso.",
+      image: "/images/spanish/workout.png",
+    },
+    workoutLibrary: {
+      title: "entrenamientos",
+      subtitle:
+        "Guarde sus equipos favoritos, objetivos musculares, ejercicios y cree planes de entrenamiento que se adapten a sus necesidades.",
+      image: "/images/spanish/workout-library.png",
+    },
+    equipment: {
+      title: "¿Buscas un ejercicio o un equipo?",
+      image: "/images/spanish/equipment.png",
+    },
+    terms: {},
+  },
+
+
+
+  TURKISH: {
+    header: {
+      title: "Bir egzersiz veya ekipman mı arıyorsunuz?",
+      subtitle:
+        "FyndFit App, ekipmana, kas hedefine veya egzersiz kategorilerine göre egzersizleri bulmanıza yardımcı olur.",
+      image: "/images/turkish/mobile.png",
+      exerciseText: "egzersizler",
+      equipmentText: "ekipmanlar",
+    },
+    features: {
+      title: "özellikler",
+      subtitle:
+        "Kendine biraz egzersiz ekipmanı aldın mı? Kendine spor salonu üyeliği mi aldın? Kaliteli egzersiz ekipmanlarına erişimin savaşın sadece yarısı olduğunu muhtemelen çoktan fark etmişsinizdir. Antrenmanınızdan En İyi Şekilde Yararlanmanız İçin İhtiyacınız Olan Bilgiler",
+      card1: {
+        title: "Antrenmanınızı günlüğe kaydedin",
+        subtitle: "FyndFit Uygulaması, ilerlemenizi izlemenize ve analiz etmenize yardımcı olur.",
+      },
+      card2: {
+        title: "Görsel arama",
+        subtitle: "Bir ekipmanı tanımlamak için FyndFit Uygulamasını kullanın.",
+      },
+      card3: {
+        title: "Filtreleme aracı",
+        subtitle:
+          "Sizin için doğru egzersizi bulmak için ekipmanları ve kas hedeflerini filtreleyin.",
+      },
+      card4: {
+        title: "Antrenmanlar",
+        subtitle:
+          "Her şeyi kaydedin ve ihtiyaçlarınıza uygun egzersiz planları oluşturun.",
+      },
+    },
+    exercises: {
+      title: "100 ekipmana ve 2500 egzersize erişim",
+      subtitle:
+        "Metin arama, resim arama veya filtreleme aracını kullanarak egzersizleri, kas hedeflerini ve ekipmanları arayın.",
+      card1: {
+        title: "100 ekipman",
+        subtitle:
+          "Egzersizi veya hangi kasın hedeflenebileceğini bulmak için farklı ekipmanlar arasında arama yapın.",
+        image: "/images/turkish/exercises-card-2.png",
+      },
+      card2: {
+        title: "2500 egzersiz",
+        subtitle:
+          "Egzersizi gerçekleştirmeye yardımcı olacak resimler ve çizimlerle birlikte seçebileceğiniz 2500 egzersiz.",
+        image: "/images/turkish/exercises-card-1.png",
+      },
+    },
+    filteringTool: {
+      title: "Aramaya istekli değil misiniz? Filtreleme aracını deneyin.",
+      subtitle:
+        "Sizin için doğru egzersizi bulmak için ekipmanları ve kas hedeflerini filtreleyin.",
+      imageTop: "/images/turkish/filtering-tool-top.png",
+      imageBottom: "/images/turkish/filtering-tool-bottom.png",
+    },
+    imageSearch: {
+      title: "Görsel arama",
+      subtitle: "Bir ekipmanı tanımlamak için FyndFit Uygulamasını kullanın.",
+      image: "/images/turkish/img-search.png",
+    },
+    workout: {
+      title: "Antrenmanınızı günlüğe kaydedin",
+      subtitle: "FyndFit Uygulaması, ilerlemenizi izlemenize ve analiz etmenize yardımcı olur.",
+      image: "/images/turkish/workout.png",
+    },
+    workoutLibrary: {
+      title: "Antrenmanlar",
+      subtitle:
+        "Favori ekipmanlarınızı, kas hedeflerinizi, egzersizlerinizi kaydedin ve ihtiyaçlarınıza uygun egzersiz planları oluşturun.",
+      image: "/images/turkish/workout-library.png",
+    },
+    equipment: {
+      title: "Bir egzersiz veya ekipman mı arıyorsunuz?",
+      image: "/images/turkish/equipment.png",
+    },
+    terms: {},
+  },
+
+
+
+
 };

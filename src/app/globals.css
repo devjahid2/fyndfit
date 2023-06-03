@@ -337,4 +337,7 @@ body {
     width: 35px;
     height: 35px;
   }
+  .footer-section ul li a{
+    font-size: 18px;
+  }
 }
