@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import { LANGUAGE } from "../../data";
 import { AppContext } from "@/app/layout";
 import Image from "next/image";
+import AppStoreButton from "./AppStoreButton";
 
 const Equipment = () => {
     const [context, setContext]:any = useContext(AppContext);
@@ -23,10 +24,7 @@ const Equipment = () => {
         src="/images/common/logo-tranparent.png"
       />
                         <h2 className="title">{Lang[context.language].equipment.title}</h2>
-                        <div className="flex items-center gap-3 mt-5">
-                        <a href="https://play.google.com/store/apps/details?id=com.appbuildr.fyndfit"><Image width={200} height={100} alt="app store" src={'/images/common/play_store.png'}/></a>
-              <a href="https://apps.apple.com/us/app/fyndfit/id1602758207"><Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/></a>
-                        </div>
+                        <AppStoreButton/>
                     </div>
                 </div>
             </div>

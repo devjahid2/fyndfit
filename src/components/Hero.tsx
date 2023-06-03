@@ -4,6 +4,7 @@ import { AppContext } from "@/app/layout";
 import Image from "next/image";
 import EquipmentCard from '@/components/headerCard/equipmentCard';
 import ExercisesCard from '@/components/headerCard/exercisesCard';
+import AppStoreButton from "./AppStoreButton";
 
 const Hero = () => {
     const [context, setContext]:any = useContext(AppContext);
@@ -15,10 +16,7 @@ const Hero = () => {
             <h2 className='title mb-10'>{Lang[context.language].header.title}</h2>
             <p className='subtitle'>{Lang[context.language].header.subtitle}</p>
 
-            <div className="flex items-center gap-3 mt-5">
-              <a href="https://play.google.com/store/apps/details?id=com.appbuildr.fyndfit"><Image width={200} height={100} alt="app store" src={'/images/common/play_store.png'}/></a>
-              <a href="https://apps.apple.com/us/app/fyndfit/id1602758207"><Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/></a>
-            </div>
+            <AppStoreButton/>
           </div>
           <div className="lg:w-1/2 relative">
             <EquipmentCard text={Lang[context.language].header.equipmentText}/>

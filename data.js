@@ -80,6 +80,10 @@ export const LANGUAGE = {
       title: "Looking for an exercise or an equipment?",
       image: "/images/english/equipment.png",
     },
+    buttonImage:{
+      play:'/images/button/google-play/english.png',
+      apple:''
+    },
     terms: {},
   },
 
@@ -164,6 +168,11 @@ export const LANGUAGE = {
       title: "هل تبحث عن تمرين أو جهاز؟",
       image: "/images/arabic/equipment.png",
     },
+    buttonImage:{
+      play:'/images/button/google-play/arabic.png',
+      apple:''
+    },
+    terms:{},
   },
   FRENCH: {
     header: {
@@ -239,6 +248,10 @@ export const LANGUAGE = {
     equipment: {
       title: "A la recherche d'un exercice ou d'un équipement ?",
       image: "/images/franch/equipment.png",
+    },
+    buttonImage:{
+      play:'/images/button/google-play/english.png',
+      apple:''
     },
     terms: {},
   },
@@ -318,6 +331,10 @@ export const LANGUAGE = {
       title: "Auf der Suche nach einer Übung oder einer Ausrüstung?",
       image: "/images/german/equipment.png",
     },
+    buttonImage:{
+      play:'/images/button/google-play/german.png',
+      apple:''
+    },
     terms: {},
   },
   HINDI: {
@@ -395,6 +412,10 @@ export const LANGUAGE = {
     equipment: {
       title: "व्यायाम या उपकरण खोज रहे हैं?",
       image: "/images/hindi/equipment.png",
+    },
+    buttonImage:{
+      play:'/images/button/google-play/hindi.png',
+      apple:''
     },
     terms: {},
   },
@@ -474,6 +495,10 @@ export const LANGUAGE = {
       title: "Cerchi un esercizio o un attrezzo?",
       image: "/images/italian/equipment.png",
     },
+    buttonImage:{
+      play:'/images/button/google-play/italian.png',
+      apple:''
+    },
     terms: {},
   },
   JAPANESE: {
@@ -551,6 +576,10 @@ export const LANGUAGE = {
     equipment: {
       title: "エクササイズや器具をお探しですか?",
       image: "/images/japanese/equipment.png",
+    },
+    buttonImage:{
+      play:'/images/button/google-play/japanese.png',
+      apple:''
     },
     terms: {},
   },
@@ -630,6 +659,10 @@ export const LANGUAGE = {
       title: "운동이나 장비를 찾고 계십니까?",
       image: "/images/korean/equipment.png",
     },
+    buttonImage:{
+      play:'/images/button/google-play/korean.png',
+      apple:''
+    },
     terms: {},
   },
   POLISH: {
@@ -707,6 +740,10 @@ export const LANGUAGE = {
     equipment: {
       title: "Szukasz ćwiczeń lub sprzętu?",
       image: "/images/polish/equipment.png",
+    },
+    buttonImage:{
+      play:'/images/button/google-play/polish.png',
+      apple:''
     },
     terms: {},
   },
@@ -787,6 +824,10 @@ export const LANGUAGE = {
     equipment: {
       title: "Procurando um exercício ou um equipamento?",
       image: "/images/portuguese/equipment.png",
+    },
+    buttonImage:{
+      play:'/images/button/google-play/portuguese.png',
+      apple:''
     },
     terms: {},
   },
@@ -869,6 +910,10 @@ export const LANGUAGE = {
       title: "¿Buscas un ejercicio o un equipo?",
       image: "/images/spanish/equipment.png",
     },
+    buttonImage:{
+      play:'/images/button/google-play/spanish.png',
+      apple:''
+    },
     terms: {},
   },
 
@@ -949,6 +994,10 @@ export const LANGUAGE = {
     equipment: {
       title: "Bir egzersiz veya ekipman mı arıyorsunuz?",
       image: "/images/turkish/equipment.png",
+    },
+    buttonImage:{
+      play:'/images/button/google-play/turkish.png',
+      apple:''
     },
     terms: {},
   },

@@ -13,7 +13,7 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/english.png"}
         />{" "}
         <span className="text-white">English</span>
       </div>
@@ -27,9 +27,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/arabic.png"}
         />{" "}
-        <span className="text-white">Arabic</span>
+        <span className="text-white">اَلْعَرَبِيَّةُ</span>
       </div>
     ),
   },
@@ -41,9 +41,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/french.png"}
         />{" "}
-        <span className="text-white">French</span>
+        <span className="text-white">Français</span>
       </div>
     ),
   },
@@ -55,9 +55,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/german.png"}
         />{" "}
-        <span className="text-white">German</span>
+        <span className="text-white">Deutsch</span>
       </div>
     ),
   },
@@ -69,9 +69,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/hindi.png"}
         />{" "}
-        <span className="text-white">Hindi</span>
+        <span className="text-white">हिन्दी</span>
       </div>
     ),
   },
@@ -83,9 +83,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/italian.png"}
         />{" "}
-        <span className="text-white">Itailian</span>
+        <span className="text-white">Italiano</span>
       </div>
     ),
   },
@@ -97,9 +97,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/japanese.png"}
         />{" "}
-        <span className="text-white">Japanese</span>
+        <span className="text-white">日本語</span>
       </div>
     ),
   },
@@ -111,9 +111,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/korean.png"}
         />{" "}
-        <span className="text-white">Korean</span>
+        <span className="text-white">한국인</span>
       </div>
     ),
   },
@@ -125,9 +125,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/polish.png"}
         />{" "}
-        <span className="text-white">Polish</span>
+        <span className="text-white">Polski</span>
       </div>
     ),
   },
@@ -139,9 +139,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/portuguese.png"}
         />{" "}
-        <span className="text-white">Portuguese</span>
+        <span className="text-white">Português</span>
       </div>
     ),
   },
@@ -154,9 +154,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/spanish.png"}
         />{" "}
-        <span className="text-white">Spanish</span>
+        <span className="text-white">Español</span>
       </div>
     ),
   },
@@ -168,9 +168,9 @@ const options = [
           width={28}
           height={18}
           alt="icon"
-          src={"/images/common/en.png"}
+          src={"/images/flag/turkish.png"}
         />{" "}
-        <span className="text-white">Turkish</span>
+        <span className="text-white">Türkçe</span>
       </div>
     ),
   },
