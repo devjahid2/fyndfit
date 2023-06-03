@@ -477,71 +477,71 @@ export const LANGUAGE = {
       equipmentText: "装置",
     },
     features: {
-      title: "Features",
+      title: "特徴",
       subtitle:
-        "Got yourself some exercise equipment? Got yourself a gym membership? You’ve probably already realised that having access to good quality exercise equipment is only half of the battle. The Info you Need to Get the Best out of Your Workout",
+        "運動器具はありますか？ジムの会員になりましたか？おそらくすでにお気づきかと思いますが、高品質のエクササイズ器具を入手できるだけでは、まだ半分にすぎません。ワークアウトを最大限に活用するために必要な情報",
       card1: {
-        title: "Log your workout",
-        subtitle: "FyndFit App helps to track and analyze your progress.",
+        title: "トレーニングを記録する",
+        subtitle: "FyndFit アプリは、進捗状況の追跡と分析に役立ちます。",
       },
       card2: {
-        title: "Image search",
-        subtitle: "Use FyndFit App to identify an equipment.",
+        title: "画像検索",
+        subtitle: "FyndFit アプリを使用して機器を識別します。",
       },
       card3: {
-        title: "Filtering tool",
+        title: "フィルタリングツール",
         subtitle:
-          "Filter through equipments and muscle targets to find the right exercise for you.",
+          "器具や筋肉のターゲットをフィルタリングして、自分に合ったエクササイズを見つけます。",
       },
       card4: {
-        title: "Workouts & Library",
+        title: "トレーニング",
         subtitle:
-          "Save everything and create workout plans that suits your needs.",
+          "すべてを保存し、ニーズに合ったワークアウト プランを作成します。",
       },
     },
     exercises: {
-      title: "Access to 100+ equipment and 2500+ exercises",
+      title: "100 の機器と 2,500 のエクササイズへのアクセス",
       subtitle:
-        "Search for exercises, muscle targets and equipments by text search, image search or by using the filtering tool.",
+        "テキスト検索、画像検索、またはフィルタリングツールを使用して、エクササイズ、筋肉ターゲット、および器具を検索します。",
       card1: {
-        title: "100+ equipment",
+        title: "100装備",
         subtitle:
-          "Search through different equipment's to find exercise or which muscle can be targeted.",
-        image: "/images/english/exercises-card-2.png",
+          "さまざまな器具を検索して、エクササイズやターゲットにできる筋肉を見つけます。",
+        image: "/images/japanese/exercises-card-2.png",
       },
       card2: {
-        title: "2500+ exercises",
+        title: "2500 の演習",
         subtitle:
-          "2500+ exercise to choose from with images and illustrations to help perform the exercise.",
-        image: "/images/english/exercises-card-1.png",
+          "エクササイズの実行に役立つ画像とイラスト付きの 2500 のエクササイズから選択できます。",
+        image: "/images/japanese/exercises-card-1.png",
       },
     },
     filteringTool: {
-      title: "Not willing to search? Try out the filtering tool.",
+      title: "検索したくないですか?フィルタリングツールを試してみてください。",
       subtitle:
-        "Filter through equipments and muscle targets to find the right exercise for you.",
-      imageTop: "/images/english/filtering-tool-top.png",
-      imageBottom: "/images/english/filtering-tool-bottom.png",
+        "器具や筋肉のターゲットをフィルタリングして、自分に合ったエクササイズを見つけます。",
+      imageTop: "/images/japanese/filtering-tool-top.png",
+      imageBottom: "/images/japanese/filtering-tool-bottom.png",
     },
     imageSearch: {
-      title: "Image search",
-      subtitle: "Use FyndFit App to identify an equipment.",
-      image: "/images/english/img-search.png",
+      title: "画像検索",
+      subtitle: "FyndFit アプリを使用して機器を識別します。",
+      image: "/images/japanese/img-search.png",
     },
     workout: {
       title: "Log your workout",
       subtitle: "FyndFit App helps to track and analyze your progress.",
-      image: "/images/english/workout.png",
+      image: "/images/japanese/workout.png",
     },
     workoutLibrary: {
       title: "Workouts & Library",
       subtitle:
         "Save your favourite equipments, muscle targets, exercises and create workout plans that suits your needs.",
-      image: "/images/english/workout-library.png",
+      image: "/images/japanese/workout-library.png",
     },
     equipment: {
       title: "Looking for an exercise or an equipment?",
-      image: "/images/english/equipment.png",
+      image: "/images/japanese/equipment.png",
     },
     terms: {},
   },

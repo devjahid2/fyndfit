@@ -324,4 +324,17 @@ body {
     top:0;
     bottom: auto;
   }
+  .exercises h2,.equipment h2{
+    font-size: 23px;
+  }
+  .exercises p,.equipment p{
+    font-size: 14.04px;
+  }
+  .exercises{
+    width: 127px;
+  }
+  .exercises .img,.equipment img{
+    width: 35px;
+    height: 35px;
+  }
 }
