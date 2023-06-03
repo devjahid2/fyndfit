@@ -90,7 +90,7 @@ const options = [
     ),
   },
   {
-    value: "JAPANES",
+    value: "JAPANESE",
     label: (
       <div className="flex gap-2">
         <Image
@@ -99,7 +99,7 @@ const options = [
           alt="icon"
           src={"/images/common/en.png"}
         />{" "}
-        <span className="text-white">Japanes</span>
+        <span className="text-white">Japanese</span>
       </div>
     ),
   },
