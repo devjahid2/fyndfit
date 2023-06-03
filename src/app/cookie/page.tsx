@@ -1,11 +1,15 @@
-import React from "react";
-
-const Cooke = () => {
+import React, { useContext } from "react";
+import Nav from '@/components/Nav'
+import { AppContext } from "../layout";
+import { LANGUAGE } from "../../../data";
+const Cookie = () => {
+    const [context, setContext]:any = useContext(AppContext);
+    const Lang:any = LANGUAGE;
     return(
-        <div className="cooke">
-            <h2>Cooke</h2>
+        <div className="cookie">
+            <Nav/>
         </div>
     );
 }
 
-export default Cooke
+export default Cookie

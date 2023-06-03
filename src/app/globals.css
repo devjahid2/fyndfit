@@ -296,6 +296,12 @@ body {
   font-weight:500
 }
 
+.cookie{
+  
+}
+
+
+
 @media (max-width:1024px) {
   .title,.exercise-section .title,.filtering-tool h2,.image-search .title, .workout .title, .workout-library .title, .equipment-sec .title{
     font-size: 30px;
