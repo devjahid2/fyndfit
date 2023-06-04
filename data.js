@@ -301,7 +301,8 @@ export const LANGUAGE = {
       options:{
         one:{
           title:'1. ACCEPTANCE OF TERMS',
-          text:''
+          text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
+          
         }
       }
     },
