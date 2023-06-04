@@ -70,18 +70,18 @@ const Cookie = () => {
             <div className="mb-40">
                 <h3>{Lang[context.language].cookie.points.five.title}</h3>
                 <p>{Lang[context.language].cookie.points.five.text}</p>
-                <p><span className="fw-700 text-white">{Lang[context.language].cookie.points.five.strictlyNecessary.bold}</span>{Lang[context.language].cookie.points.five.strictlyNecessary.normal}</p>
-                <p><span className="fw-700 text-white">{Lang[context.language].cookie.points.five.security.bold}</span>{Lang[context.language].cookie.points.five.security.normal}</p>
-                <p><span className="fw-700 text-white">{Lang[context.language].cookie.points.five.performance.bold}</span>{Lang[context.language].cookie.points.five.performance.normal}</p>
-                <p><span className="fw-700 text-white">{Lang[context.language].cookie.points.five.analytics.bold}</span>{Lang[context.language].cookie.points.five.analytics.normal}</p>
+                <p><span className=" text-white">{Lang[context.language].cookie.points.five.strictlyNecessary.bold}</span>{Lang[context.language].cookie.points.five.strictlyNecessary.normal}</p>
+                <p><span className=" text-white">{Lang[context.language].cookie.points.five.security.bold}</span>{Lang[context.language].cookie.points.five.security.normal}</p>
+                <p><span className=" text-white">{Lang[context.language].cookie.points.five.performance.bold}</span>{Lang[context.language].cookie.points.five.performance.normal}</p>
+                <p><span className=" text-white">{Lang[context.language].cookie.points.five.analytics.bold}</span>{Lang[context.language].cookie.points.five.analytics.normal}</p>
                 
             </div>
 
             <div className="mb-40">
                 <h3>{Lang[context.language].cookie.points.six.title}</h3>
                 <p>{Lang[context.language].cookie.points.six.text}</p>
-                <p className="fw-700 text-white">{Lang[context.language].cookie.points.six.copyright}</p>
-                <p className="fw-700 text-white">{Lang[context.language].cookie.points.six.address}</p>
+                <p><span className=" text-white">{Lang[context.language].cookie.points.six.copyright}</span></p>
+                <p><span className=" text-white">{Lang[context.language].cookie.points.six.address}</span></p>
                 
             </div>
 
