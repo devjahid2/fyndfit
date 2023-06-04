@@ -155,134 +155,134 @@ export const LANGUAGE = {
 
     },
     policy:{
-      title:'PRIVACY POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'(Hereinafter referred to as "FyndFit").',
-      text3:'FyndFit values your privacy and the protection of your data. This privacy policy describes what information we collect from you, how we collect it, how we use it, how we obtain your consent, how long we keep it in our databases and, if necessary, with whom we share it.',
-      text4:'By using the platform, you are accepting the practices described in this privacy policy. Your use of the platform is also subject to our terms of service. In this privacy policy, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
-      text5:'This privacy policy may change from time to time. Your continued use of the platform and website after we make changes to this privacy policy is deemed acceptance of those changes, so please check this policy periodically for updates. This privacy policy has been developed and is maintained following all applicable federal and international laws and regulations, in particular, the Data Protection Act 2018 (UK regulations) and the GDPR (General Data Protection Regulation - European regulations).',
+      title:'سياسة الخصوصية',
+      welcomeText:'مرحبًا بكم في FyndFit!',
+      text:'FyndFit مملوكة وتدار بواسطة شركة AppBuildr Limited ',
+      text2:'(يشار إليها فيما بعد باسم "FyndFit").',
+      text3:'تقدر FyndFit خصوصيتك وحماية بياناتك. تصف سياسة الخصوصية هذه المعلومات التي نجمعها منك ، وكيف نجمعها ، وكيف نستخدمها ، وكيف نحصل على موافقتك ، ومدة الاحتفاظ بها في قواعد بياناتنا ، وإذا لزم الأمر ، مع من نشاركها.',
+      text4:'باستخدام النظام الأساسي ، فأنت تقبل الممارسات الموضحة في سياسة الخصوصية هذه. يخضع استخدامك للمنصة أيضًا لشروط الخدمة الخاصة بنا. في سياسة الخصوصية هذه ، تشير الكلمات "النظام الأساسي" إلى تطبيق FyndFit للهاتف المحمول وموقع الويب معًا ، ويشير "نحن" و "نحن" و "خاصتنا" و "FyndFit" إلى FyndFit ويشير "أنت" و "المستخدم" إليك ، مستخدم FyndFit.',
+      text5:'قد تتغير سياسة الخصوصية هذه من وقت لآخر. يعتبر استمرار استخدامك للمنصة والموقع الإلكتروني بعد إجراء تغييرات على سياسة الخصوصية هذه بمثابة قبول لهذه التغييرات ، لذا يرجى مراجعة هذه السياسة بشكل دوري للحصول على التحديثات. تم تطوير سياسة الخصوصية هذه والحفاظ عليها باتباع جميع القوانين واللوائح الفيدرالية والدولية المعمول بها ، على وجه الخصوص ، قانون حماية البيانات 2018 (لوائح المملكة المتحدة) و GDPR (اللائحة العامة لحماية البيانات - اللوائح الأوروبية).',
       points:{
         one:{
-          title:'1. GENERAL INFORMATION',
-          text:'The personal data of users collected and processed through:',
-          li:'FyndFit mobile application (Available on Google Play and App Store).',
+          title:'. معلومات عامة',
+          text:'يتم جمع البيانات الشخصية للمستخدمين ومعالجتها من خلال:',
+          li:'●	تطبيق الهاتف المحمول FyndFit (متوفر على Google Play و App Store).',
           li2:'https://fyndfit.com',
-          text2:'Will be under the responsibility and in charge of:',
+          text2:'سيكون تحت مسؤولية ومسؤول عن:',
           li3:'AppBuildr Limited. ',
           li4:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
         },
         two:{
-          title:'2. HOW DO YOU OBTAIN MY CONSENT?',
-          text:'By downloading and using the mobile application, using the functionalities available on the platform, contacting us through our contact information, and providing us with personal information to communicate with you, you consent to our collection, storage and use of your information on the terms contained in this privacy policy. You may withdraw your consent at any time by sending us your request through our contact information.'
+          title:'. كيف تحصل على موافقتي؟',
+          text:'عن طريق تنزيل تطبيق الهاتف المحمول واستخدامه ، واستخدام الوظائف المتاحة على المنصة ، والاتصال بنا من خلال معلومات الاتصال الخاصة بنا ، وتزويدنا بالمعلومات الشخصية للتواصل معك ، فإنك توافق على جمعنا لمعلوماتك وتخزينها واستخدامها وفقًا للشروط الواردة في سياسة الخصوصية هذه. يمكنك سحب موافقتك في أي وقت عن طريق إرسال طلبك إلينا من خلال معلومات الاتصال الخاصة بنا.'
         },
         three:{
-          title:'3. TYPES OF INFORMATION COLLECTED',
-          text:"Information you provide to us. You provide information when you use the functionalities available on the platform and/or communicate with us through our contact information or contact forms. As a result of those actions, you may provide us with the following information:",
-          li:'Name',
-          li2:'E-mail address',
-          li3:'Any additional information related to you that you provide to us directly or indirectly through our platform.',
-          text2:'FyndFit will not collect any personally identifiable information about you unless you provide it.',
-          text3:'Information Collected Automatically: By accessing and using the platform, you automatically provide us with the following information:',
-          li4:"Your IP address ",
-          li5:'Your operating system',
-          li6:'Referrer URLs',
+          title:'. أنواع المعلومات التي تم جمعها',
+          text:"تساعدنا المعلومات التي نجمعها من مستخدمينا على التحسين المستمر لتجربة المستخدم على المنصة. هذه هي أنواع المعلومات التي نجمعها: المعلومات التي تقدمها لنا. أنت تقدم معلومات عندما تستخدم الوظائف المتاحة على المنصة و / أو تتواصل معنا من خلال معلومات الاتصال أو نماذج الاتصال الخاصة بنا. نتيجة لهذه الإجراءات ، يمكنك تزويدنا بالمعلومات التالية:",
+          li:'●	الإسم',
+          li2:'●	عنوان البريد الإلكترونى',
+          li3:'●	أي معلومات إضافية تتعلق بك تقدمها لنا بشكل مباشر أو غير مباشر من خلال منصتنا.',
+          text2:'لن تقوم FyndFit بجمع أي معلومات شخصية عنك إلا إذا قمت بتقديمها.',
+          text3:'  المعلومات التي يتم جمعها تلقائيًا: من خلال الوصول إلى النظام الأساسي واستخدامه ، فإنك تزودنا تلقائيًا بالمعلومات التالية:',
+          li4:"●	عنوان IP الخاص بك ",
+          li5:'●	نظام التشغيل الخاص بك',
+          li6:'●	عناوين URL المرجعية',
           app:{
-            bold:' Firebase (Mobile app):' ,
-          normal:' We use Firebase Crashlytics and Firebase Analytics provided by Google, Inc. of the United States ("Google") and certain functionalities such as Firebase Crashlytics, Firebase Analytics, Google Analytics, Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication, etc. These tools and technologies collect and analyse certain types of information, such as feature usage metrics and statistics, usage history, unique device identifiers and other similar information. The information generated by Firebase may be transmitted to and stored by Google on servers in the United States. We use Firebase to improve our platform. '
+            bold:' Firebase (تطبيق جوال): ' ,
+          normal:' نستخدم Firebase Crashlytics و Firebase Analytics التي تقدمها شركة Google، Inc. بالولايات المتحدة ("Google") وبعض الوظائف مثل Firebase Crashlytics و Firebase Analytics و Google Analytics و Cloud Firestore ومراقبة أداء Firebase و Firebase Dynamic Links و Firebase Authentication ، وما إلى ذلك ، تقوم هذه الأدوات والتقنيات بجمع وتحليل أنواع معينة من المعلومات ، مثل مقاييس وإحصاءات استخدام الميزات ، وسجل الاستخدام ، ومعرفات الجهاز الفريدة وغيرها من المعلومات المماثلة قد يتم نقل المعلومات التي تم إنشاؤها بواسطة Firebase إلى Google وتخزينها على خوادم في الولايات المتحدة. نحن نستخدم Firebase لتحسين نظامنا الأساسي. '
         },
-        text4:"Please refer to Firebase's privacy policy: ",
+        text4:"يرجى الرجوع إلى سياسة خصوصية Firebase:  ",
         link:'https://firebase.google.com/support/privacy.',
-        contact:{bold:'Contact information: ',normal:'We may access some personal information about the user, such as name and email address when the user or any third party communicates with us through our contact information. Personal information provided through our contact information is not stored on any FyndFit server and will be stored on the respective server of our email service.'},
+        contact:{bold:' ',normal:'معلومات الاتصال: قد نصل إلى بعض المعلومات الشخصية الخاصة بالمستخدم ، مثل الاسم وعنوان البريد الإلكتروني عندما يتواصل معنا المستخدم أو أي طرف ثالث من خلال معلومات الاتصال الخاصة بنا. لا يتم تخزين المعلومات الشخصية المقدمة من خلال معلومات الاتصال الخاصة بنا على أي خادم FyndFit وسيتم تخزينها على الخادم المعني لخدمة البريد الإلكتروني الخاصة بنا.'},
 
         },
         four:{
-          title:'4. HOW LONG WE KEEP YOUR DATA',
-          text:'Personal data provided by users through the platform and our services will be retained for as long as necessary to provide our plans and the functionalities available on the platform or until the user requests the deletion of his data. FyndFit may retain personal data for a longer period provided that the user has consented to such processing, as long as such consent is not withdrawn. In addition, FyndFit may be obliged to retain personal data for a longer period provided that this is required for compliance with a legal obligation or by order of an authority. Once the retention period has expired, the personal data will be deleted. Therefore, the right to access, the right of deletion, the right of rectification and the right to data portability cannot be asserted after the retention period has expired.'
+          title:'كم من الوقت نحافظ على بياناتك',
+          text:'البيانات الشخصية التي يقدمها المستخدمون من خلال المنصة وسيتم الاحتفاظ بخدماتنا طالما كان ذلك ضروريًا لتوفير خططنا والوظائف المتاحة على المنصة أو حتى يطلب المستخدم حذف بياناته. قد تحتفظ FyndFit بالبيانات الشخصية لفترة أطول بشرط أن يكون المستخدم قد وافق على هذه المعالجة ، طالما لم يتم سحب هذه الموافقة. بالإضافة إلى ذلك ، قد تكون FyndFit ملزمة بالاحتفاظ بالبيانات الشخصية لفترة أطول بشرط أن يكون ذلك مطلوبًا للامتثال لالتزام قانوني أو بأمر من سلطة. بمجرد انتهاء فترة الاحتفاظ ، سيتم حذف البيانات الشخصية. لذلك ، لا يمكن تأكيد الحق في الوصول وحق الحذف وحق التصحيح والحق في إمكانية نقل البيانات بعد انتهاء فترة الاحتفاظ.'
         },
         five:{
-          title:'5. HOW WE USE YOUR INFORMATION. ',
-          text:"In general, we use the information we collect primarily to provide, maintain, protect and improve our platform and our current services. We use personal information collected through our platform as described below:",
-          li:'Provide the mobile application (Available on Google Play and App Store).',
-          li2:'Provide the functionalities available on the platform.',
-          li3:'Understand and improve your experience using our platform.',
-          li4:'Respond to your comments or questions through our contact information.',
-          li5:'Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.',
-          li6:'Communicate with you about upcoming events and news about FyndFit.',
-          li6:'FyndFit marketing purposes.',
-          li7:'Link or combine your information with other data we obtain from third parties to help us understand your needs and provide you with better service.',
-          li8:'Protect, investigate and deter fraudulent, unauthorised or illegal activities.',
+          title:'. كيف نستخدم معلوماتك. ',
+          text:"بشكل عام ، نستخدم المعلومات التي نجمعها في المقام الأول لتوفير وصيانة وحماية وتحسين منصتنا وخدماتنا الحالية. نحن نستخدم المعلومات الشخصية التي تم جمعها من خلال منصتنا كما هو موضح أدناه:",
+          li:'●	قم بتوفير تطبيق الهاتف المحمول (متوفر على Google Play و App Store).',
+          li2:'●	قم بتوفير الوظائف المتاحة على المنصة.',
+          li3:'●	فهم وتحسين تجربتك باستخدام منصتنا.',
+          li4:'●	قم بالرد على تعليقاتك أو أسئلتك من خلال معلومات الاتصال الخاصة بنا.',
+          li5:'●	إرسال المعلومات ذات الصلة إليك ، بما في ذلك التأكيدات والفواتير والإشعارات الفنية والتحديثات وتنبيهات الأمان ورسائل الدعم والرسائل الإدارية.',
+          li6:'●	التواصل معك حول الأحداث القادمة والأخبار حول FyndFit.',
+          li6:'●	أغراض تسويق FyndFit.',
+          li7:'●	قم بربط أو دمج معلوماتك مع البيانات الأخرى التي نحصل عليها من جهات خارجية لمساعدتنا على فهم احتياجاتك وتزويدك بخدمة أفضل.',
+          li8:'●	الحماية والتحقيق وردع الأنشطة الاحتيالية أو غير المصرح بها أو غير القانونية.',
 
         },
         six:{
-          title:'6. HOW WE SHARE INFORMATION',
-          text:'Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.',
+          title:' كيف نشارك المعلومات',
+          text:'تعتبر المعلومات المتعلقة بعملائنا جزءًا مهمًا من أعمالنا ، ولا نقوم ببيعها للآخرين. نحن نشارك معلومات العملاء فقط كما هو موضح أدناه.',
           providers:{
-          bold:'Third-Party Service Providers.',
-          normal:' We use third-party services to perform certain functions on our platform. Some of these functions and services are: Building and hosting the platform, performing tracking and analytics functions on the platform (Firebase Crashlytics, Firebase Analytics, Google Analytics), providing storage services (Cloud Firestore), providing authentication services (Firebase Authentication), providing performance and dynamic linking services (Firebase Performance Monitoring, Firebase Dynamic Links), displaying and personalising advertisements (Facebook, AppLovin), and providing CDN services (bunny.net). These third-party services and tools may have access to personal information needed to perform their functions, but may not use that information for other purposes. Information shared with these third-party services will be treated and stored by their respective privacy policies and our privacy policy.'
+          bold:'مقدمو خدمات الطرف الثالث. ',
+          normal:' . نحن نستخدم خدمات الطرف الثالث لأداء وظائف معينة على منصتنا. بعض هذه الوظائف والخدمات هي: بناء واستضافة المنصة ، وأداء وظائف التتبع والتحليلات على النظام الأساسي (Firebase Crashlytics ، Firebase Analytics ، Google Analytics) ، وتوفير خدمات التخزين (Cloud Firestore) ، وتوفير خدمات المصادقة (مصادقة Firebase) ، وتوفير الأداء وخدمات الربط الديناميكي (أداء Firebase المراقبة ، روابط Firebase الديناميكية) ، عرض الإعلانات وتخصيصها (Facebook ، AppLovin) ، وتقديم خدمات CDN (bunny.net).'
         },
           business:{
-            bold:'Business Transfers. ',
-            normal:'In the event FyndFit creates, merges with, or is acquired by another entity, your information will likely be transferred. FyndFit will send you an email or post a prominent notice on our platform before your information becomes subject to another privacy policy.'
+            bold:' ',
+            normal:'قد تتمكن خدمات وأدوات الطرف الثالث هذه من الوصول إلى المعلومات الشخصية اللازمة لأداء وظائفها ، ولكن لا يجوز لها استخدام هذه المعلومات لأغراض أخرى. سيتم التعامل مع المعلومات التي تتم مشاركتها مع خدمات الجهات الخارجية هذه وتخزينها من خلال سياسات الخصوصية الخاصة بكل منها وسياسة الخصوصية الخاصة بنا. '
           },
           protection:{
-            bold:'Protection of FyndFit and Others. ',
-            normal:'We release personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and conditions and other agreements, or protect the rights, property, or safety of FyndFit, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.'
+            bold:'',
+            normal:'تحويلات الأعمال. في حالة قيام FyndFit بإنشاء أو دمج أو الحصول على كيان آخر ، فمن المحتمل أن يتم نقل معلوماتك. سوف ترسل لك FyndFit رسالة بريد إلكتروني أو تنشر إشعارًا بارزًا على منصتنا قبل أن تخضع معلوماتك لسياسة خصوصية أخرى. حماية FyndFit وغيرها. نقوم بالإفراج عن المعلومات الشخصية عندما نعتقد أن الإفراج عنها مناسب للامتثال للقانون ، أو لفرض أو تطبيق الشروط والأحكام الخاصة بنا والاتفاقيات الأخرى ، أو حماية حقوق أو ممتلكات أو سلامة FyndFit أو مستخدمينا أو غيرهم. ويشمل ذلك تبادل المعلومات مع الشركات والمؤسسات الأخرى للحماية من الاحتيال والحد من مخاطر الائتمان. '
           } ,
           anonymous:{
-            bold:'Anonymous Information. ',
-            normal:'FyndFit uses anonymous browsing information collected automatically by our servers primarily to help us administer and improve the platform. We may also use aggregated anonymous information to provide information about the Platform to potential business partners and other unaffiliated entities. This information is not personally identifiable.'
+            bold:' ',
+            normal:'معلومات مجهولة المصدر. يستخدم FyndFit معلومات التصفح المجهولة التي يتم جمعها تلقائيًا بواسطة خوادمنا في المقام الأول لمساعدتنا في إدارة النظام الأساسي وتحسينه. قد نستخدم أيضًا معلومات مجمعة مجهولة المصدر لتوفير معلومات حول المنصة لشركاء الأعمال المحتملين والكيانات الأخرى غير المنتسبة. هذه المعلومات ليست شخصية.'
           } ,
         },
         seven:{
-          title:'7. PROTECTION OF YOUR INFORMATION',
-          text:'We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you provide through the website and platform. If transactions are processed on the website, transaction information is transmitted to and from the platform in encrypted form using industry-standard SSL connections to help protect such information from interception. We restrict authorised access to your personal information to those persons who have a legitimate need to know that information and to those persons you have authorised to have access to that information. FyndFit follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once FyndFit receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while FyndFit strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.',
+          title:'. حماية معلوماتك',
+          text:'نعمل على حماية أمن معلوماتك أثناء الإرسال باستخدام برنامج Secure Sockets Layer (SSL) ، الذي يشفر المعلومات التي تقدمها عبر الموقع الإلكتروني والنظام الأساسي. في حالة معالجة المعاملات على موقع الويب ، يتم نقل معلومات المعاملة من وإلى النظام الأساسي في شكل مشفر باستخدام اتصالات SSL القياسية في الصناعة للمساعدة في حماية هذه المعلومات من الاعتراض. نحن نقصر الوصول المصرح به إلى معلوماتك الشخصية على الأشخاص الذين لديهم حاجة مشروعة لمعرفة تلك المعلومات وعلى الأشخاص الذين سمحت لهم بالوصول إلى تلك المعلومات. تتبع FyndFit معايير الصناعة المقبولة عمومًا لحماية المعلومات الشخصية المقدمة إلينا ، أثناء الإرسال وبمجرد استلام FyndFit لها. لا توجد طريقة نقل عبر الإنترنت أو طريقة تخزين إلكتروني آمنة بنسبة 100٪. لذلك ، بينما تسعى FyndFit جاهدة لاستخدام وسائل مقبولة تجاريًا لحماية معلوماتك الشخصية ، لا يمكننا ضمان أمنها المطلق. لن نبيع أو نوزع أو نؤجر معلوماتك الشخصية لأطراف ثالثة ما لم نحصل على إذن منك أو يطلب منا القانون القيام بذلك.',
 
         },
         eight:{
-          title:'8. RIGHTS ',
-          text:'Users who provide information through our platform, as data subjects, have the right to access, rectify, download or delete their information, as well as to restrict and oppose certain processing of their information. While some of these rights apply generally, others only apply in certain limited circumstances. These rights are described below:',
+          title:' الحقوق  ',
+          text:'يحق للمستخدمين الذين يقدمون المعلومات من خلال منصتنا بصفتهم موضوعات بيانات ، الوصول إلى معلوماتهم أو تصحيحها أو تنزيلها أو حذفها ، فضلاً عن تقييد ومعارضة معالجة معينة لمعلوماتهم. في حين أن بعض هذه الحقوق تنطبق بشكل عام ، إلا أن البعض الآخر لا ينطبق إلا في ظروف محدودة معينة. هذه الحقوق موضحة أدناه:',
           li:{
-            bold:'Access and portability: ',
-            normal:'to access and know what information is stored on our servers, you can send us your request through our contact information.'
+            bold:'',
+            normal:'●	الوصول وقابلية النقل: للوصول ومعرفة المعلومات المخزنة على خوادمنا ، يمكنك إرسال طلبك إلينا من خلال معلومات الاتصال الخاصة بنا.'
           },
           li2:{
-            bold:'to access and know what information is stored on our servers, you can send us your request through our contact information.',
-            normal:'You may also rectify, restrict, limit or delete much of your information.'
+            bold:'',
+            normal:'●	التصحيح والتقييد والحذف: يمكنك أيضًا تصحيح الكثير من معلوماتك أو تقييدها أو تقييدها أو حذفها'
           },
           li3:{
-            bold:'Right to be informed: ',
-            normal:'Users of our platform will be informed, upon request, about what data we collect, how it is used, how long it is kept and whether it is shared with third parties.'
+            bold:'',
+            normal:'لحق في الحصول على المعلومات: سيتم إبلاغ مستخدمي منصتنا ، عند الطلب ، بالبيانات التي نجمعها ، وكيفية استخدامها ، ومدة الاحتفاظ بها ، وما إذا كانت تتم مشاركتها مع جهات خارجية.'
           },
           li4:{
-            bold:'Object: ',
-            normal:'Where we process your data based on our legitimate interests, as explained above, or in the public interest, you may object to this processing in certain circumstances. In such cases, we will stop processing your information unless we have legitimate grounds to continue processing it or where necessary for legal reasons.'
+            bold:'',
+            normal:'●	هدف: عندما نعالج بياناتك بناءً على اهتماماتنا المشروعة ، كما هو موضح أعلاه ، أو للمصلحة العامة ، يمكنك الاعتراض على هذه المعالجة في ظروف معينة. في مثل هذه الحالات ، سنتوقف عن معالجة معلوماتك ما لم تكن لدينا أسباب مشروعة لمواصلة معالجتها أو عند الضرورة لأسباب قانونية.'
           },
           li5:{
-            bold:'Withdraw consent: ',
-            normal:'Where you have previously given your consent, for example, to allow us to process and store your personal information, you have the right to withdraw your consent to the processing and storage of your information at any time. For example, you can withdraw your consent by updating your settings. In certain cases, we may continue to process your information after you have withdrawn your consent if we have a lawful basis for doing so or if your withdrawal of consent was limited to certain processing activities.'
+            bold:' ',
+            normal:'●	سحب الموافقة: إذا أعطيت موافقتك مسبقًا ، على سبيل المثال ، للسماح لنا بمعالجة معلوماتك الشخصية وتخزينها ، فيحق لك سحب موافقتك على معالجة معلوماتك وتخزينها في أي وقت. على سبيل المثال ، يمكنك سحب موافقتك عن طريق تحديث إعداداتك. في حالات معينة ، قد نستمر في معالجة معلوماتك بعد أن تسحب موافقتك إذا كان لدينا أساس قانوني للقيام بذلك أو إذا كان سحب موافقتك مقصورًا على أنشطة معالجة معينة.'
           },
           li6:{
-            bold:'Complaint: ',
-            normal:'If you wish to complain about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority. Users may exercise all of these rights by contacting us via the contact information or contact page.'
+            bold:'',
+            normal:'●	شكوى: إذا كنت ترغب في تقديم شكوى بشأن استخدامنا لمعلوماتك (ودون المساس بأي حقوق أخرى قد تكون لديك) ، فيحق لك القيام بذلك مع السلطة الإشرافية المحلية الخاصة بك. يمكن للمستخدمين ممارسة جميع هذه الحقوق عن طريق الاتصال بنا عبر معلومات الاتصال أو صفحة الاتصال.'
           },
           li7:{
-            bold:'Rights related to automated decision-making, including profiling: ',
-            normal:'Users may request that we provide them with a copy of the automated processing activities we conduct if they believe that data is being unlawfully processed.'
+            bold:'',
+            normal:'●	الحقوق المتعلقة باتخاذ القرار الآلي ، بما في ذلك التنميط: قد يطلب المستخدمون أن نوفر لهم نسخة من أنشطة المعالجة الآلية التي نقوم بها إذا كانوا يعتقدون أن البيانات تتم معالجتها بشكل غير قانوني.'
           },
-          text2:'Users or owners of the personal data they provide through the platform can exercise these rights over their data at any time and without any limitation by sending us their requests through our contact information.'
+          text2:'يمكن لمستخدمي أو مالكي البيانات الشخصية التي يقدمونها من خلال المنصة ممارسة هذه الحقوق على بياناتهم في أي وقت ودون أي قيود عن طريق إرسال طلباتهم إلينا من خلال معلومات الاتصال الخاصة بنا.'
         },
         nine:{
-          title:"9. PROTECTION OF CHILDREN'S ONLINE PRIVACY ",
-          text:"We comply with national and international regulations regarding the protection of children's personal information. We do not collect information from children under the age of 13. If we learn that a child under 13 has provided us with personal information, we will take immediate steps to delete that information."
+          title:"حماية خصوصية الأطفال عبر الإنترنت  ",
+          text:"نحن نلتزم باللوائح الوطنية والدولية فيما يتعلق بحماية المعلومات الشخصية للأطفال. نحن لا نجمع معلومات من الأطفال الذين تقل أعمارهم عن 13 عامًا. إذا علمنا أن طفلًا أقل من 13 عامًا قد زودنا بمعلومات شخصية ، فسنتخذ خطوات فورية لحذف تلك المعلومات"
         },
         ten:{
-          title:"10. THIRD PARTIES",
-          text:"Except as expressly included in this privacy policy, this document addresses only the use and disclosure of information FyndFit collects from you. If you disclose your information to others, whether other users or FyndFit vendors, different rules may apply to their use or disclosure of the information you disclose to them. FyndFit does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. FyndFit is not responsible for the privacy or security practices of other Internet platforms, including those linked to or from the FyndFit platform. FyndFit encourages you to ask questions before disclosing your personal information to others."
+          title:". الأطراف الثالثة",
+          text:"باستثناء ما تم تضمينه صراحةً في سياسة الخصوصية هذه ، يتناول هذا المستند فقط استخدام والكشف عن المعلومات التي تجمعها FyndFit منك. إذا كشفت عن معلوماتك للآخرين ، سواء كانوا مستخدمين آخرين أو بائعي FyndFit ، فقد تنطبق قواعد مختلفة على استخدامهم أو الكشف عن المعلومات التي تكشف لهم. لا تتحكم FyndFit في سياسات الخصوصية الخاصة بأطراف ثالثة ، وأنت تخضع لسياسات الخصوصية لتلك الأطراف الثالثة عند الاقتضاء. FyndFit ليست مسؤولة عن ممارسات الخصوصية أو الأمان لمنصات الإنترنت الأخرى ، بما في ذلك تلك المرتبطة بمنصة FyndFit أو منها. تشجعك FyndFit على طرح الأسئلة قبل الكشف عن معلوماتك الشخصية للآخرين."
         },
         eleven:{
-          title:"11. CONTACT ",
-          text:"If you have questions or concerns about this privacy policy and the treatment and security of your data, please contact us using the contact information below:",
+          title:". اتصال  ",
+          text:"إذا كانت لديك أسئلة أو مخاوف بشأن سياسة الخصوصية هذه ومعالجة بياناتك وأمانها ، فيرجى الاتصال بنا باستخدام معلومات الاتصال أدناه:",
           copyright:'AppBuildr Limited - FyndFit.',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
@@ -703,7 +703,125 @@ export const LANGUAGE = {
         }
       }
     },
-    terms:{},
+    terms: {
+      title:'الأحكام والشروط',
+      welcomeText:'مرحبا بكم في FyndFit!',
+      text:'FyndFit مملوكة وتدار بواسطة شركة AppBuildr Limited .',
+      text2:'هذه هي الشروط والأحكام الخاصة بـ: ',
+      li:'●	تطبيق الهاتف المحمول FyndFit (متوفر على Google Play و App Store).',
+      li2:'https://fyndfit.com',
+      text3:'باستخدام المنصة ، فإنك توافق على الالتزام بهذه الشروط والأحكام وسياسة الخصوصية الخاصة بنا. في هذه الشروط والأحكام ، تشير الكلمات "المنصة" إلى تطبيق FyndFit للهاتف المحمول وموقع الويب معًا ، ويشير "نحن" و "نحن" و "خاصتنا" و "FyndFit" إلى FyndFit وكلمة  "أنت" و "المستخدم" تشير إليك ، مستخدم FyndFit.',
+      text4:'تنطبق الشروط والأحكام التالية على استخدامك للمنصة. يتضمن ذلك إصدارات الهاتف المحمول والكمبيوتر اللوحي ، بالإضافة إلى أي إصدار آخر من FyndFit يمكن الوصول إليه عبر سطح المكتب أو الهاتف المحمول أو الجهاز اللوحي أو الوسائط الاجتماعية أو الأجهزة الأخرى.',
+      text5:'يرجى قراءة هذه الشروط بعناية قبل التنزيل واستخدام الوظائف المتوفرة على المنصة.',
+      
+
+    points:{
+      one:{
+        title:'. قبول الشروط',
+        text:'باستخدام المنصة ، فإنك توافق على الالتزام بهذه الاتفاقية. إذا كنت لا تقبل شروط هذه الاتفاقية ، فلا يجب عليك استخدام المنصة والتوقف عن استخدام المنصة على الفور. يجوز لنا تعديل هذه الاتفاقية من وقت لآخر ، ويكون هذا التعديل ساريًا عند نشره على المنصة. أنت توافق على الالتزام بأي تعديل على هذه الشروط والأحكام عندما تستخدم FyndFit بعد نشر أي تعديل من هذا القبيل ؛ لذلك ، من المهم أن تقوم بمراجعة هذه الاتفاقية بانتظام.',
+        text2:'يحظر استخدام المنصة للأطفال دون سن 13 عامًا. في حالة الأطفال الذين تقل أعمارهم عن 18 عامًا وأكثر من 13 عامًا ، تقع على عاتق الوالدين والأوصياء القانونيين مسؤولية تحديد ما إذا كان استخدام المنصة أو أي من المحتوى والوظائف المتوفرة على المنصة مناسبًا لطفلهم أو قاصرهم في الحضانة. ',
+          text3:'باستخدام المنصة ، فإنك تقر وتضمن أن لديك الحق الكامل والسلطة للدخول في هذه الاتفاقية وتنفيذ جميع التزاماتك الواردة أدناه بموجب هذه الاتفاقية . أنت تقر وتتعهد أيضًا بأنك لست خاضعًا لإعاقة قانونية أو قيود تعاقدية تمنعك من الدخول في هذه الاتفاقية.'
+      },
+      two:{
+          title:'. إخلاء مسئولية ',
+          text:"من خلال الوصول إلى المنصة والوظائف المتاحة على المنصة ، يقبل المستخدم المسؤولية الشخصية عن نتائج استخدام المعلومات والمحتوى المتاح على المنصة. يوافق المستخدم ويقر بأن FyndFit لا تضمن أي فائدة أو نتيجة إيجابية من استخدام المعلومات التي يحصل عليها المستخدم من خلال استخدام المنصة. يوفر FyndFit المحتوى لأغراض إعلامية وتعليمية فقط. أنت تقر بأن نجاحك أو فشلك النهائي سيكون نتيجة لجهودك الخاصة ، ووضعك الخاص ، ومجموعة متنوعة من الظروف الخارجة عن سيطرة FyndFit. إن استخدامك أو إساءة استخدام أي محتوى أو معلومات تم الحصول عليها من خلال استخدام المنصة هو على مسؤوليتك الخاصة. لا تقبل FyndFit أي مطالبات باستخدام أو إساءة استخدام المعلومات التي تم الحصول عليها من خلال استخدام النظام الأساسي.",
+          text2:'باستخدام المنصة ، فإنك تقر بأنك تدرك أن التمارين البدنية تحتوى على حركات جسدية شاقة قد تتسبب فى مخاطر الإصابة الجسدية. أنت تدرك أنه من مسؤوليتك الحكم على قدراتك البدنية لمثل هذه الأنشطة. تقع على عاتقك مسؤولية التأكد من أنك ، عند المشاركة في الأنشطة المدرجة في المحتوى ، لن تتجاوز حدودك في أداء مثل هذه الأنشطة ، وسوف تختار مستوى الجهد المناسب لقدراتك وقدراتك ، وكذلك أي ظروف مادية أو عقليه  و / أو الحدود التي قد تكون لديك. أنت تدرك أنه من وقت لآخر ، قد تقترح FyndFit تمارين وإجراءات لياقة بدنية أو استخدام معدات ، وتقع على عاتقك وحدك مسؤولية تحديد ما إذا كانت هذه التمارين أو المعدات المقترحة مناسبة لمستوى قدرتك الجسدية والعقلية وحالتك. FyndFit ليست مسؤولة عن أي ضرر جسدي قد تتعرض له نتيجة استخدامك للمحتوى المتاح على المنصة. أنت تتنازل بشكل صريح وتعفي FyndFit من أي وجميع المسؤوليات أو المطالبات في حالة حدوث الضرر نتيجة لاستخدامك للمعلومات والمحتوى المتاح على المنصة. يوصى باستشارة أخصائي رعاية صحية لتقييم حالتك البدنية قبل الانخراط في أي تمرين بدني مقترح في المحتوى المتاح من خلال منصتنا.',
+          text3:'يرجى ملاحظة أن FyndFit لا تقدم المشورة الطبية. المعلومات والمحتوى المتاح على المنصة ليس مقصودًا أو مفهوم ضمنيًا أن يكون بديلاً عن الاستشارة الطبية المهنية أو التشخيص أو العلاج. لا تهدف المعلومات والمحتوى المتاح على المنصة إلى تشخيص أي مرض أو علاجه أو علاجه أو الوقاية منه.',
+  
+      },
+      three:{
+          title:'. ترخيص لاستخدام المنصة',
+          text:'يمنحك FyndFit ترخيصًا شخصيًا وعالميًا وخاليًا من حقوق الملكية وغير قابل للتنازل عنه وغير حصري لاستخدام المنصة. الغرض الوحيد من هذا الترخيص هو السماح لك باستخدام الميزات المتاحة على المنصة بالطريقة التي تسمح بها هذه الشروط. لا يجوز لك نسخ أو تعديل أو توزيع أو بيع أو تأجير أي جزء من منصتنا أو البرامج المضمنة ، ولا يجوز لك إجراء هندسة عكسية أو محاولة استخراج الكود المصدري لمثل هذه البرامج ، ما لم تكن هذه القيود محظورة بموجب القانون ، أو لديك إذن مكتوب مننا.',
+          text2:"يوافق المستخدم على عدم استخدام المنصة والخدمات بإهمال أو لأغراض احتيالية أو بطريقة غير قانونية. وبالمثل ، يوافق المستخدم على عدم المشاركة في أي سلوك أو إجراء من شأنه الإضرار بصورة أو مصالح أو حقوق منصة FyndFit أو الأطراف الثالثة.  تحتفظ FyndFit بالحق في إنهاء وصولك على الفور ، بإخطار أو بدون إشعار ، ودون مسؤولية تجاهك ، إذا اعتقدت FyndFit أنك انتهكت أيًا من هذه الشروط أو تدخلت في استخدام النظام الأساسي من قبل الآخرين.  ",
+  
+      },
+      four:{
+          title:'إعلان ',
+          text:'من خلال محتوى المنصة ، قد تتيح FyndFit المعلومات التجارية والإعلانية للمستخدمين ، سواء من تلقاء نفسها أو من أطراف ثالثة ، وفقًا للممارسات التجارية الجيدة. في هذه الحالات ، لا تؤيد FyndFit أو تضمن أو تتعهد بالاستجابة للخدمات و / أو المنتجات التي يتم تسويقها من قبل الأطراف الثالثة المذكورة ، حيث تعمل المنصة كقناة إعلانية ، ولكن ليس كأداة لتوفير الخدمات. وبالتالي ، تقع على عاتق المستخدمين المسؤولية الكاملة للوصول إلى مواقع الطرف الثالث ، مع الالتزام بالتحقق من ومعرفة شروط الخدمات والمنتجات التي تقدمها الأطراف الثالثة المذكورة.',
+          
+      },
+      five:{
+          title:'حقوق النشر',
+          text:"جميع المواد الموجودة على FyndFit ، بما في ذلك ، على سبيل المثال لا الحصر ، الأسماء والشعارات والعلامات التجارية والألعاب والصور والنصوص والأعمدة والرسومات ومقاطع الفيديو والصور الفوتوغرافية والرسوم التوضيحية والبرامج والعناصر الأخرى محمية بحقوق النشر والعلامات التجارية و / أو حقوق الملكية الفكرية الأخرى المملوكة وتتحكم فيها FyndFit أو جهات خارجية قامت بترخيص أو توفير موادها للمنصة. أنت تقر وتوافق على أن جميع المواد الموجودة على FyndFit متاحة للاستخدام الشخصي المحدود وغير التجاري فقط. باستثناء ما هو منصوص عليه تحديدا هنا. لا يجوز نسخ أي مادة أو إعادة إنتاجها أو إعادة نشرها أو بيعها أو تنزيلها أو نشرها أو نقلها أو توزيعها بأي شكل من الأشكال ، أو استخدامها بأي شكل من الأشكال لأي غرض ، من قبل أي شخص أو كيان ، دون إذن كتابي صريح مسبق من FyndFit. لا يجوز لك إضافة المواد أو حذفها أو تشويهها أو تعديلها بأي طريقة أخرى. يُحظر تمامًا أي محاولة غير مصرح بها لتعديل أي مادة ، أو للتغلب على أي ميزات أمنية أو التحايل عليها ، أو لاستخدام FyndFit أو أي جزء من المواد لأي غرض بخلاف الأغراض المقصودة.",
+         
+      },
+      six:{
+          title:'. انتهاك حقوق الملكية ',
+          text:'سترد FyndFit على جميع الاستفسارات والشكاوى والمطالبات المتعلقة بالانتهاك المزعوم عن طريق خرق أو انتهاك الأحكام الواردة في قوانين ولوائح حقوق النشر الدولية والملكية الفكرية في المملكة المتحدة . تحترم FyndFit الملكية الفكرية للآخرين وتتوقع من المستخدمين أن يفعلوا الشيء نفسه. إذا كنت تعتقد ، بحسن نية ، أن أي مادة يتم توفيرها على موقع FyndFit الإلكتروني تنتهك حقوق الطبع والنشر الخاصة بك أو حقوق الملكية الفكرية الأخرى ، فيرجى إرسال طلبك عبر معلومات الاتصال الخاصة بنا ، مع المعلومات التالية:  ',
+          li:'●	تحديد حق الملكية الفكرية المزعوم انتهاكها. يجب تضمين جميع أرقام التسجيل ذات الصلة أو بيان بشأن ملكية العمل.',
+          li2:'●	بيان يحدد على وجه التحديد موقع المواد المخالفة ، بتفاصيل كافية بحيث يمكن لـ FyndFit العثور عليها على المنصة. ',
+          li3:"●	اسمك وعنوانك ورقم هاتفك وعنوان بريدك الإلكتروني.",
+          li4:"●	بيان من جانبك بأن لديك اعتقاد حسن النية بأن استخدام المواد التي يُزعم أنها منتهِكة غير مصرح به من قبل مالك حقوق الطبع والنشر أو وكلائه أو بموجب القانون.",
+          li5:"●	تصريح من جانبك ، تحت طائلة عقوبة الحنث باليمين ، بأن المعلومات الواردة في إخطارك دقيقة ، وأنك مالك حقوق الطبع والنشر أو مخول بالتصرف نيابة عنها.",
+          li6:"●	توقيع إلكتروني أو مادي لمالك حقوق الطبع والنشر أو الشخص المخول بالتصرف نيابة عن مالك حقوق الطبع والنشر."
+      },
+      seven:{
+          title:". الأنشطة المحظورة",
+          text:"المحتوى والمعلومات المتوفرة على المنصة (بما في ذلك ، على سبيل المثال لا الحصر ، البيانات أو المعلومات أو النصوص أو الموسيقى أو الصوت أو الصور أو الرسومات أو الفيديو أو الخرائط أو الرموز أو المواد الأخرى) ، بالإضافة إلى البنية التحتية المستخدمة لتوفير مثل هذا المحتوى والمعلومات ، مملوكة لـ FyndFit أو مرخصة لـ FyndFit من قبل أطراف ثالثة. بالنسبة إلى جميع المحتويات بخلاف المحتوى الخاص بك ، فإنك توافق على عدم تعديل أو نسخ أو توزيع أو إرسال أو عرض أو تنفيذ أو إعادة إنتاج أو نشر أو ترخيص أو إنشاء أعمال مشتقة من أو نقل أو بيع أو إعادة بيع أي معلومات أو برامج أو خدمات. تم الحصول عليها من أو من خلال المنصة. بالإضافة إلى ذلك ، تحظر الأنشطة التالية:",
+          li:"●	الوصول إلى أي محتوى من الخدمات أو مراقبته أو إعادة إنتاجه أو توزيعه أو إرساله أو بثه أو عرضه أو بيعه أو ترخيصه أو نسخه أو استغلاله بأي طريقة أخرى ، بما في ذلك على سبيل المثال لا الحصر ، استخدام أي روبوت أو عنكبوت أو مكشطة أو أي وسيلة آلية أخرى أو أي عملية يدوية أي غرض لا يتوافق مع هذه الاتفاقية أو بدون إذن كتابي صريح منا.",
+          li2:"●	انتهاك القيود الموجودة في أي رؤوس استبعاد روبوت على الخدمات أو تجاوز أو التحايل على الإجراءات الأخرى المستخدمة لمنع أو تقييد الوصول إلى الخدمات.",
+          li3:"●	اتخاذ أي إجراء يفرض ، أو قد يفرض ، وفقًا لتقديرنا ، عبئًا كبيرًا غير معقول أو غير متناسب على بنيتنا التحتية.",
+          li4:"●	ربط عميق بأي جزء من الخدمات لأي غرض دون إذن كتابي صريح منا.",
+          li5:`●	"تأطير" أو "انعكاس" أو دمج أي جزء من النظام الأساسي بأي طريقة أخرى في أي مواقع أو خدمة أخرى دون الحصول على إذن كتابي مسبق منا.`,
+          li6:'●	محاولة تعديل أو ترجمة أو تكييف أو تحرير أو إلغاء ترجمة أو تفكيك أو عكس هندسة أي برامج يستخدمها FyndFit فيما يتعلق بالخدمات.',
+          li7:'●	التحايل أو تعطيل أو التدخل بأي شكل من الأشكال في الميزات المتعلقة بالأمان للنظام الأساسي أو الميزات التي تمنع أو تقيد استخدام أو نسخ أي محتوى.'
+      },
+      eight:{
+          title:"التنصل من الضمانات  ",
+          text:`نظرًا لطبيعة الإنترنت ، يوفر FyndFit النظام الأساسي ويحافظ عليه على أساس "كما هو" و "كما هو متاح" ولا يقدم أي وعد بأن استخدام النظام الأساسي لن ينقطع أو يكون خاليًا تمامًا من الأخطاء. نحن لسنا مسؤولين تجاهك إذا لم نتمكن من تقديم خدمات الإنترنت الخاصة بنا لأي سبب خارج عن إرادتنا`,
+          text2:"باستثناء ما هو منصوص عليه أعلاه ، لا يمكننا تقديم أي ضمانات أو شروط أو شروط أخرى ، صريحة أو ضمنية ، قانونية أو غير ذلك ، وجميع هذه الشروط مستثناة بموجب هذا إلى أقصى حد يسمح به القانون.",
+          text3:"ستكون مسؤولاً عن أي خرق لهذه الشروط من جانبك ، وإذا كنت تستخدم النظام الأساسي في انتهاك لهذه الشروط ، فستكون مسؤولاً وستقوم بتعويض FyndFit عن أي خسارة أو ضرر ناتج عن ذلك. لن تكون FyndFit مسؤولة عن أي إخفاق في أداء أي التزام بموجب هذه الاتفاقية إذا كان هذا الفشل ناتجًا عن حدوث أي حدث غير متوقع خارج عن سيطرتها المعقولة ، بما في ذلك ، على سبيل المثال لا الحصر ، انقطاع الإنترنت ، وانقطاع الاتصالات ، والحرائق ، والفيضانات ، أو أي فعل طبيعي لا يمكن السيطرة عليه. ",
+          text4:"لا تؤثر هذه الشروط على حقوقك القانونية كمستهلك المتاحة لك.  مع مراعاة ما ذُكر أعلاه ، إلى أقصى حد يسمح به القانون ، تستبعد FyndFit المسؤولية عن أي خسارة أو ضرر من أي نوع مهما كان ، بما في ذلك على سبيل المثال لا الحصر أي خسارة مباشرة أو غير مباشرة أو تبعية سواء نشأت أو لم تنشأ عن أي مشكلة تخطرها لـ FyndFit و لا تتحمل FyndFit أي مسؤولية لدفع أي أموال عن طريق التعويض ، بما في ذلك على سبيل المثال لا الحصر ، جميع المسؤوليات المتعلقة بما يلي:",
+          li:"●	أي معلومات غير صحيحة أو غير دقيقة على المنصة.",
+          li2:'●	التعدي من قبل أي شخص على أي حقوق ملكية فكرية لأي طرف ثالث بسبب استخدامه للمنصة.',
+          li3:"●	أي خسارة أو ضرر ناتج عن استخدامك أو عدم القدرة على استخدام المنصة أو ناتج عن الوصول غير المصرح به إلى عمليات الإرسال أو البيانات الخاصة بك أو تغييرها في ظروف خارجة عن إرادتنا.",
+          li4:"●	أي خسارة في الربح أو إهدار في النفقات أو فساد أو إتلاف للبيانات أو أي خسارة أخرى لا تنتج مباشرة عن خطأ ارتكبناه.",
+          li5:"●	أي مبلغ أو نوع من الخسارة أو الضرر الناجم عن الفيروسات أو البرامج الضارة الأخرى التي قد تصيب أجهزة الكمبيوتر أو البرامج أو البيانات أو الممتلكات الأخرى للمستخدم بسبب وصول الأشخاص إلى المحتوى أو استخدامه من النظام الأساسي أو من عمليات الإرسال عبر رسائل البريد الإلكتروني أو المرفقات الواردة من FyndFit.",
+          li6:"●	جميع الإقرارات والضمانات والشروط والأحكام الأخرى التي سيكون لها تأثير ما عدا هذا الإشعار."
+      },
+      nine:{
+          title:'الاتصالات الإلكترونية',
+          text:"لن تتحمل FyndFit أي مسؤولية عن عمليات إرسال الكمبيوتر الفاشلة أو المغرضة أو المشوشة ، أو عن أي عطل أو فشل أو اتصال أو توفر جهاز كمبيوتر أو هاتف أو شبكة أو أجهزة أو برامج إلكترونية أو الإنترنت ، لإمكانية الوصول إلى الإنترنت أو توفره أو ازدحام حركة المرور أو عن أي الأعمال البشرية غير المصرح بها ، بما في ذلك أي أخطاء أو أخطاء."
+      },
+      ten:{
+          title:' التعويض',
+          text:"أنت توافق على الدفاع عن FyndFit وتعويضها من وضد أي مطالبات أو أسباب الدعوى أو الطلبات أو المبالغ المستردة أو الخسائر أو الأضرار أو الغرامات أو التكاليف أو النفقات الأخرى من أي نوع أو طبيعة بما في ذلك على سبيل المثال لا الحصر الرسوم القانونية والمحاسبية المعقولة ، المقدمة من قبل أطراف ثالثة نتيجة:",
+          li:"●	خرقك لهذه الاتفاقية أو المستندات المشار إليها هنا.",
+          li2:"●	انتهاكك لأي قانون أو حقوق طرف ثالث.",
+          li3:"●	استخدامك لمنصة FyndFit."
+      },
+      eleven:{
+          title:'التغييرات والإنهاء',
+          text:"يجوز لنا تغيير النظام الأساسي وهذه الشروط في أي وقت ، وفقًا لتقديرنا الخاص ودون إخطارك. أنت مسؤول عن البقاء على اطلاع دائم بهذه الشروط. استمرار استخدامك للمنصة يشكل موافقتك على أي تغييرات على هذه الشروط وأي تغييرات ستحل محل جميع الإصدارات السابقة من الشروط. ما لم ينص على خلاف ذلك هنا ، فإن جميع التغييرات على هذه الشروط تنطبق على جميع المستخدمين وتصبح نافذة المفعول. علاوة على ذلك ، يجوز لنا إنهاء هذه الاتفاقية معك بموجب هذه الشروط في أي وقت عن طريق إخطارك كتابيًا (بما في ذلك عبر البريد الإلكتروني) أو دون أي تحذير."
+      },
+      twelve: {
+          title:'بند التكامل',
+          text:"تشكل هذه الاتفاقية جنبًا إلى جنب مع سياسة الخصوصية وأي إشعارات قانونية أخرى تنشرها FyndFit ، الاتفاقية الكاملة بينك وبين FyndFit فيما يتعلق باستخدامك للمنصة وتحكمها."
+      },
+      thirteen:{
+          title:' النزاعات',
+          text:"يوافق المستخدم على أن أي نزاع أو مطالبة أو خلاف ينشأ عن هذه الشروط والأحكام أو يتعلق بها ، أو انتهاكها أو إنهاؤها أو تنفيذها أو تفسيرها أو صلاحيتها أو استخدام النظام الأساسي ، يجب حله عن طريق التحكيم الملزم بين المستخدم و FyndFit ، بشرط أن يحتفظ كل طرف بالحق في رفع دعوى فردية في محكمة مختصة.",
+          text2:"في حالة نشوء نزاع فيما يتعلق باستخدام المنصة أو خرق هذه الشروط والأحكام ، يتفق الطرفان على تقديم نزاعهما إلى تسوية التحكيم أمام منظمة تحكيم مرموقة على النحو المتفق عليه بين الطرفين ووفقًا للأحكام التجارية المعمول بها. قواعد التحكيم.",
+          text3:"أنت توافق على بدء إجراء نزاع رسمي عن طريق إرسال رسالة إلينا من خلال معلومات الاتصال الخاصة بنا. قد تختار FyndFit إرسال عرض مكتوب إليك بعد تلقي اتصالك الأولي. إذا قدمنا لك عرضًا للتسوية وأرسلناه إليك ولم تقبل العرض ، أو لم نتمكن من حل نزاعك بشكل مرض وترغب في متابعة عملية النزاع ، فيجب عليك بدء عملية تسوية المنازعات قبل منظمة تحكيم وملف معتمد طلب منفصل للتحكيم. يجب أن يكون أي قرار صادر عن هيئة التحكيم نهائيًا وقاطعًا على الأطراف. ",
+          text4:"إلى أقصى حد يسمح به القانون ، توافق على أنك لن ترفع أو تنضم أو تشارك في أي دعوى قضائية جماعية فيما يتعلق بأي مطالبة أو نزاع أو خلاف قد ينشأ فيما يتعلق باستخدامك للمنصة.",
+          text5:"تتمتع محاكم المملكة المتحدة بسلطة قضائية على أي نزاع أو خلاف أو مطالبة تتعلق بـ FyndFit وعملياتها التجارية.  يتم رفع أي نزاع أو خلاف وتسويته في محاكم المملكة المتحدة. "
+      },
+      fourteen:{
+          title:'مراجعة  نهائية',
+          text:"تخضع هذه الشروط والأحكام لقوانين المملكة المتحدة. استخدام منصة FyndFit غير مصرح به في أي ولاية قضائية لا تطبق جميع أحكام هذه الشروط والأحكام.",
+          text2:"يخضع أداؤنا لهذه الشروط للقوانين والعمليات القانونية القائمة ، ولا يوجد شيء وارد في هذه الشروط يحد من حقنا في الامتثال أمام القانون أو الطلبات الحكومية أو القانونية الأخرى أو المتطلبات المتعلقة باستخدامك لمنصتنا أو المعلومات المقدمة إلى أو التي تم جمعها بواسطة لنا فيما يتعلق بهذا الاستخدام.",
+          text3:"إذا تبين أن أي جزء من هذه الشروط غير صالح أو غير قانوني أو غير قابل للتنفيذ ، فلن تتأثر صحة الأحكام المتبقية وشرعيتها وإمكانية إنفاذها بأي شكل من الأشكال. إن فشلنا أو تأخيرنا في تنفيذ أي شرط من هذه الشروط في أي وقت لا نتنازل عن حقنا في تنفيذ نفس الأحكام أو أي حكم (أحكام) أخرى واردة في المستقبل.  أى حقوق لم تعطى بشكل معبر وصريح هنا تعتبر محظورة  "
+      },
+      fifteen:{
+          title:'معلومات الاتصال',
+          text:"إذا كانت لديك أسئلة أو مخاوف بشأن هذه الشروط ، فيرجى الاتصال بنا باستخدام معلومات الاتصال أدناه:",
+          copyright:"AppBuildr Limited - FyndFit.",
+          address:"(Anthony Shittu, supoort@appbuildr.tech, +447557519129)"
+      }
+    }
+  
+  
+    },
   },
   FRENCH: {
     header: {
@@ -784,139 +902,158 @@ export const LANGUAGE = {
       play:'/images/button/google-play/english.png',
       apple:''
     },
-    policy:{
-      title:'PRIVACY POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'(Hereinafter referred to as "FyndFit").',
-      text3:'FyndFit values your privacy and the protection of your data. This privacy policy describes what information we collect from you, how we collect it, how we use it, how we obtain your consent, how long we keep it in our databases and, if necessary, with whom we share it.',
-      text4:'By using the platform, you are accepting the practices described in this privacy policy. Your use of the platform is also subject to our terms of service. In this privacy policy, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
-      text5:'This privacy policy may change from time to time. Your continued use of the platform and website after we make changes to this privacy policy is deemed acceptance of those changes, so please check this policy periodically for updates. This privacy policy has been developed and is maintained following all applicable federal and international laws and regulations, in particular, the Data Protection Act 2018 (UK regulations) and the GDPR (General Data Protection Regulation - European regulations).',
-      points:{
-        one:{
-          title:'1. GENERAL INFORMATION',
-          text:'The personal data of users collected and processed through:',
-          li:'FyndFit mobile application (Available on Google Play and App Store).',
-          li2:'https://fyndfit.com',
-          text2:'Will be under the responsibility and in charge of:',
-          li3:'AppBuildr Limited. ',
-          li4:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+    policy: {
+      title: "POLITIQUE DE CONFIDENTIALITÉ",
+      welcomeText: "Bienvenue à FyndFit !",
+      text: "FyndFit est détenu et exploité par AppBuildr Limited.",
+      text2: '(ci-après dénommée "FyndFit").',
+      text3:
+        "FyndFit attache une grande importance à votre vie privée et à la protection de vos données. Cette politique de confidentialité décrit les informations que nous recueillons auprès de vous, comment nous les recueillons, comment nous les utilisons, comment nous obtenons votre consentement, combien de temps nous les conservons dans nos bases de données et, si nécessaire, avec qui nous les partageons.",
+  
+      text4: `En utilisant la plateforme, vous acceptez les pratiques décrites dans la présente politique de confidentialité. Votre utilisation de la plateforme est également soumise à nos conditions de service. Dans cette politique de confidentialité, les mots "plateforme" font référence à l'application mobile et au site web de FyndFit, "nous", "notre" et "FyndFit" font référence à FyndFit et "vous" et "utilisateur" font référence à vous, l'utilisateur de FyndFit.`,
+  
+      text5:
+        "La présente politique de confidentialité peut être modifiée de temps à autre. Votre utilisation continue de la plateforme et du site Web après que nous ayons apporté des modifications à cette politique de confidentialité est considérée comme une acceptation de ces modifications, veuillez donc vérifier périodiquement cette politique pour les mises à jour. Cette politique de confidentialité a été élaborée et est maintenue en suivant toutes les lois et réglementations fédérales et internationales applicables, en particulier la loi sur la protection des données 2018 (réglementation britannique) et le RGPF (Règlement Général sur la Protection des Données - réglementation européenne).",
+      points: {
+        one: {
+          title: "INFORMATIONS GÉNÉRALES",
+          text: "Les données personnelles des utilisateurs collectées et traitées par l'intermédiaire de :",
+          li: "●	Application mobile FyndFit (disponible sur Google Play et App Store).",
+          li2: "https://fyndfit.com",
+          text2: "Il sera sous la responsabilité et en charge de :",
+          li3: "AppBuildr Limited. ",
+          li4: "(Anthony Shittu, supoort@appbuildr.tech, +447557519129)",
         },
-        two:{
-          title:'2. HOW DO YOU OBTAIN MY CONSENT?',
-          text:'By downloading and using the mobile application, using the functionalities available on the platform, contacting us through our contact information, and providing us with personal information to communicate with you, you consent to our collection, storage and use of your information on the terms contained in this privacy policy. You may withdraw your consent at any time by sending us your request through our contact information.'
+        two: {
+          title: "COMMENT OBTENEZ-VOUS MON CONSENTEMENT ?",
+          text: `En téléchargeant et en utilisant l'application mobile, en utilisant les fonctionnalités disponibles sur la plateforme, en nous contactant par le biais de nos coordonnées et en nous fournissant des informations personnelles pour communiquer avec vous, vous consentez à ce que nous collections, stockions et utilisions vos informations selon les conditions contenues dans la présente politique de confidentialité. Vous pouvez retirer votre consentement à tout moment en nous envoyant votre demande par l'intermédiaire de nos coordonnées.`,
         },
-        three:{
-          title:'3. TYPES OF INFORMATION COLLECTED',
-          text:"Information you provide to us. You provide information when you use the functionalities available on the platform and/or communicate with us through our contact information or contact forms. As a result of those actions, you may provide us with the following information:",
-          li:'Name',
-          li2:'E-mail address',
-          li3:'Any additional information related to you that you provide to us directly or indirectly through our platform.',
-          text2:'FyndFit will not collect any personally identifiable information about you unless you provide it.',
-          text3:'Information Collected Automatically: By accessing and using the platform, you automatically provide us with the following information:',
-          li4:"Your IP address ",
-          li5:'Your operating system',
-          li6:'Referrer URLs',
-          app:{
-            bold:' Firebase (Mobile app):' ,
-          normal:' We use Firebase Crashlytics and Firebase Analytics provided by Google, Inc. of the United States ("Google") and certain functionalities such as Firebase Crashlytics, Firebase Analytics, Google Analytics, Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication, etc. These tools and technologies collect and analyse certain types of information, such as feature usage metrics and statistics, usage history, unique device identifiers and other similar information. The information generated by Firebase may be transmitted to and stored by Google on servers in the United States. We use Firebase to improve our platform. '
-        },
-        text4:"Please refer to Firebase's privacy policy: ",
-        link:'https://firebase.google.com/support/privacy.',
-        contact:{bold:'Contact information: ',normal:'We may access some personal information about the user, such as name and email address when the user or any third party communicates with us through our contact information. Personal information provided through our contact information is not stored on any FyndFit server and will be stored on the respective server of our email service.'},
-
-        },
-        four:{
-          title:'4. HOW LONG WE KEEP YOUR DATA',
-          text:'Personal data provided by users through the platform and our services will be retained for as long as necessary to provide our plans and the functionalities available on the platform or until the user requests the deletion of his data. FyndFit may retain personal data for a longer period provided that the user has consented to such processing, as long as such consent is not withdrawn. In addition, FyndFit may be obliged to retain personal data for a longer period provided that this is required for compliance with a legal obligation or by order of an authority. Once the retention period has expired, the personal data will be deleted. Therefore, the right to access, the right of deletion, the right of rectification and the right to data portability cannot be asserted after the retention period has expired.'
-        },
-        five:{
-          title:'5. HOW WE USE YOUR INFORMATION. ',
-          text:"In general, we use the information we collect primarily to provide, maintain, protect and improve our platform and our current services. We use personal information collected through our platform as described below:",
-          li:'Provide the mobile application (Available on Google Play and App Store).',
-          li2:'Provide the functionalities available on the platform.',
-          li3:'Understand and improve your experience using our platform.',
-          li4:'Respond to your comments or questions through our contact information.',
-          li5:'Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.',
-          li6:'Communicate with you about upcoming events and news about FyndFit.',
-          li6:'FyndFit marketing purposes.',
-          li7:'Link or combine your information with other data we obtain from third parties to help us understand your needs and provide you with better service.',
-          li8:'Protect, investigate and deter fraudulent, unauthorised or illegal activities.',
-
-        },
-        six:{
-          title:'6. HOW WE SHARE INFORMATION',
-          text:'Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.',
-          providers:{
-          bold:'Third-Party Service Providers.',
-          normal:' We use third-party services to perform certain functions on our platform. Some of these functions and services are: Building and hosting the platform, performing tracking and analytics functions on the platform (Firebase Crashlytics, Firebase Analytics, Google Analytics), providing storage services (Cloud Firestore), providing authentication services (Firebase Authentication), providing performance and dynamic linking services (Firebase Performance Monitoring, Firebase Dynamic Links), displaying and personalising advertisements (Facebook, AppLovin), and providing CDN services (bunny.net). These third-party services and tools may have access to personal information needed to perform their functions, but may not use that information for other purposes. Information shared with these third-party services will be treated and stored by their respective privacy policies and our privacy policy.'
-        },
-          business:{
-            bold:'Business Transfers. ',
-            normal:'In the event FyndFit creates, merges with, or is acquired by another entity, your information will likely be transferred. FyndFit will send you an email or post a prominent notice on our platform before your information becomes subject to another privacy policy.'
+        three: {
+          title: "TYPES D'INFORMATIONS COLLECTÉES",
+          text: "Les informations que nous recueillons auprès de nos utilisateurs nous aident à améliorer continuellement l'expérience de l'utilisateur sur la plateforme. Voici les types d'informations que nous recueillons : Informations que vous nous fournissez. Vous fournissez des informations lorsque vous utilisez les fonctionnalités disponibles sur la plateforme et/ou lorsque vous communiquez avec nous par l'intermédiaire de nos coordonnées ou de nos formulaires de contact. À la suite de ces actions, vous pouvez nous fournir les informations suivantes :",
+          li: "●	Nom",
+          li2: "●	Adresse électronique",
+          li3: "●	Toute autre information vous concernant que vous nous fournissez directement ou indirectement par l'intermédiaire de notre plateforme.",
+          text2:
+            "FyndFit ne recueillera aucune information personnelle identifiable vous concernant à moins que vous ne la fournissiez.",
+          text3:
+            "Informations Collectées Automatiquement : En accédant à la plate-forme et en l'utilisant, vous nous fournissez automatiquement les informations suivantes :",
+          li4: "●	Votre adresse IP  ",
+          li5: "●	Votre système d'exploitation",
+          li6: "●	URL de référence",
+          app: {
+            bold: " Firebase (application mobile) :",
+            normal:` Nous utilisons Firebase Crashlytics et Firebase Analytics fournis par Google, Inc. des États-Unis ("Google") et certaines fonctionnalités telles que Firebase Crashlytics, Firebase Analytics, Google Analytics, Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication, etc. Ces outils et technologies collectent et analysent certains types d'informations, tels que les métriques et statistiques d'utilisation des fonctionnalités, l'historique d'utilisation, les identifiants uniques des appareils et d'autres informations similaires. Les informations générées par Firebase peuvent être transmises et stockées par Google sur des serveurs situés aux États-Unis. Nous utilisons Firebase pour améliorer notre plateforme`,
           },
-          protection:{
-            bold:'Protection of FyndFit and Others. ',
-            normal:'We release personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and conditions and other agreements, or protect the rights, property, or safety of FyndFit, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.'
-          } ,
-          anonymous:{
-            bold:'Anonymous Information. ',
-            normal:'FyndFit uses anonymous browsing information collected automatically by our servers primarily to help us administer and improve the platform. We may also use aggregated anonymous information to provide information about the Platform to potential business partners and other unaffiliated entities. This information is not personally identifiable.'
-          } ,
+          text4: "Veuillez consulter la politique de confidentialité de Firebase :  ",
+          link: "https://firebase.google.com/support/privacy.",
+          contact: {
+            bold: "Informations de contact : ",
+            normal:
+              "Nous pouvons accéder à certaines informations personnelles concernant l'utilisateur, telles que le nom et l'adresse électronique, lorsque l'utilisateur ou un tiers communique avec nous par le biais de nos informations de contact. Les informations personnelles fournies par le biais de nos informations de contact ne sont stockées sur aucun serveur de FyndFit et seront stockées sur le serveur respectif de notre service de courrier électronique.",
+          },
         },
-        seven:{
-          title:'7. PROTECTION OF YOUR INFORMATION',
-          text:'We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you provide through the website and platform. If transactions are processed on the website, transaction information is transmitted to and from the platform in encrypted form using industry-standard SSL connections to help protect such information from interception. We restrict authorised access to your personal information to those persons who have a legitimate need to know that information and to those persons you have authorised to have access to that information. FyndFit follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once FyndFit receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while FyndFit strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.',
-
+        four: {
+          title: " DURÉE DE CONSERVATION DES DONNÉES",
+          text: "Les données personnelles fournies par les utilisateurs par l'intermédiaire de la plateforme et de nos services seront conservées aussi longtemps que nécessaire pour fournir nos plans et les fonctionnalités disponibles sur la plateforme ou jusqu'à ce que l'utilisateur demande la suppression de ses données. FyndFit peut conserver les données personnelles pendant une période plus longue à condition que l'utilisateur ait consenti à un tel traitement, tant que ce consentement n'est pas retiré. En outre, FyndFit peut être obligée de conserver les données à caractère personnel pendant une période plus longue si cela est nécessaire pour se conformer à une obligation légale ou sur ordre d'une autorité. À l'expiration de la période de conservation, les données à caractère personnel seront supprimées. Par conséquent, le droit d'accès, le droit d'effacement, le droit de rectification et le droit à la portabilité des données ne peuvent être exercés après l'expiration du délai de conservation.",
         },
-        eight:{
-          title:'8. RIGHTS ',
-          text:'Users who provide information through our platform, as data subjects, have the right to access, rectify, download or delete their information, as well as to restrict and oppose certain processing of their information. While some of these rights apply generally, others only apply in certain limited circumstances. These rights are described below:',
-          li:{
-            bold:'Access and portability: ',
-            normal:'to access and know what information is stored on our servers, you can send us your request through our contact information.'
-          },
-          li2:{
-            bold:'to access and know what information is stored on our servers, you can send us your request through our contact information.',
-            normal:'You may also rectify, restrict, limit or delete much of your information.'
-          },
-          li3:{
-            bold:'Right to be informed: ',
-            normal:'Users of our platform will be informed, upon request, about what data we collect, how it is used, how long it is kept and whether it is shared with third parties.'
-          },
-          li4:{
-            bold:'Object: ',
-            normal:'Where we process your data based on our legitimate interests, as explained above, or in the public interest, you may object to this processing in certain circumstances. In such cases, we will stop processing your information unless we have legitimate grounds to continue processing it or where necessary for legal reasons.'
-          },
-          li5:{
-            bold:'Withdraw consent: ',
-            normal:'Where you have previously given your consent, for example, to allow us to process and store your personal information, you have the right to withdraw your consent to the processing and storage of your information at any time. For example, you can withdraw your consent by updating your settings. In certain cases, we may continue to process your information after you have withdrawn your consent if we have a lawful basis for doing so or if your withdrawal of consent was limited to certain processing activities.'
-          },
-          li6:{
-            bold:'Complaint: ',
-            normal:'If you wish to complain about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority. Users may exercise all of these rights by contacting us via the contact information or contact page.'
-          },
-          li7:{
-            bold:'Rights related to automated decision-making, including profiling: ',
-            normal:'Users may request that we provide them with a copy of the automated processing activities we conduct if they believe that data is being unlawfully processed.'
-          },
-          text2:'Users or owners of the personal data they provide through the platform can exercise these rights over their data at any time and without any limitation by sending us their requests through our contact information.'
+        five: {
+          title: "COMMENT NOUS UTILISONS VOS INFORMATIONS.  ",
+          text: "En général, nous utilisons les informations que nous recueillons principalement pour fournir, maintenir, protéger et améliorer notre plateforme et nos services actuels. Nous utilisons les informations personnelles collectées par le biais de notre plateforme de la manière décrite ci-dessous :",
+          li: "●	Fournir l'application mobile (disponible sur Google Play et App Store).",
+          li2: "●	Fournir les fonctionnalités disponibles sur la plateforme.",
+          li3: "●	Comprendre et améliorer votre expérience d'utilisation de notre plateforme.",
+          li4: "●	Répondre à vos commentaires ou questions par le biais de nos coordonnées.",
+          li5: "●	vous envoyer des informations connexes, notamment des confirmations, des factures, des avis techniques, des mises à jour, des alertes de sécurité et des messages d'assistance et d'administration.",
+          li6: "●	Communiquer avec vous au sujet des événements à venir et des nouvelles concernant FyndFit.",
+          li6: "●	FyndFit à des fins de marketing.",
+          li7: "●	Relier ou combiner vos informations avec d'autres données obtenues auprès de tiers pour nous aider à comprendre vos besoins et à vous fournir un meilleur service.",
+          li8: "●	Protéger, enquêter et décourager les activités frauduleuses, non autorisées ou illégales.",
         },
-        nine:{
-          title:"9. PROTECTION OF CHILDREN'S ONLINE PRIVACY ",
-          text:"We comply with national and international regulations regarding the protection of children's personal information. We do not collect information from children under the age of 13. If we learn that a child under 13 has provided us with personal information, we will take immediate steps to delete that information."
+        six: {
+          title: "COMMENT NOUS PARTAGEONS LES INFORMATIONS",
+          text: "Les informations relatives à nos clients constituent une part importante de notre activité et nous n'avons pas vocation à les vendre à des tiers. Nous ne partageons les informations relatives à nos clients que dans les conditions décrites ci-dessous.",
+          providers: {
+            bold: "Fournisseurs de Services Tiers.",
+            normal:
+              ` Nous utilisons des services tiers pour exécuter certaines fonctions sur notre plateforme. Certaines de ces fonctions et certains de ces services sont les suivants : La construction et l'hébergement de la plateforme, l'exécution de fonctions de suivi et d'analyse sur la plateforme (Firebase Crashlytics, Firebase Analytics, Google Analytics), la fourniture de services de stockage (Cloud Firestore), la fourniture de services d'authentification (Firebase Authentication), la fourniture de services de performance et de liens dynamiques (Firebase Performance Monitoring, Firebase Dynamic Links), l'affichage et la personnalisation de publicités (Facebook, AppLovin), et la fourniture de services CDN (bunny.net). Ces services et outils tiers peuvent avoir accès aux informations personnelles nécessaires à l'exécution de leurs fonctions, mais ne peuvent pas utiliser ces informations à d'autres fins. Les informations partagées avec ces services tiers seront traitées et stockées conformément à leurs politiques de confidentialité respectives et à notre politique de confidentialité. `,
+          },
+          business: {
+            bold: " Transferts d'Entreprise.",
+            normal:
+              " Dans le cas où FyndFit crée, fusionne ou est acquis par une autre entité, vos informations seront probablement transférées. FyndFit vous enverra un courrier électronique ou affichera un avis bien visible sur notre plateforme avant que vos informations ne soient soumises à une autre politique de confidentialité.",
+          },
+          protection: {
+            bold: "Protection de FyndFit et des autres.",
+            normal:
+              " Nous divulguons des informations personnelles lorsque nous pensons qu'il est approprié de le faire pour se conformer à la loi, pour faire respecter ou appliquer nos conditions générales et autres accords, ou pour protéger les droits, la propriété ou la sécurité de FyndFit, de nos utilisateurs ou d'autres personnes. Cela inclut l'échange d'informations avec d'autres sociétés et organisations à des fins de protection contre la fraude et de réduction du risque de crédit.",
+          },
+          anonymous: {
+            bold: "Informations Anonymes. ",
+            normal:
+              " FyndFit utilise des informations de navigation anonymes collectées automatiquement par nos serveurs, principalement pour nous aider à administrer et à améliorer la plate-forme. Nous pouvons également utiliser des informations anonymes agrégées pour fournir des informations sur la plate-forme à des partenaires commerciaux potentiels et à d'autres entités non affiliées. Ces informations ne sont pas personnellement identifiables.",
+          },
         },
-        ten:{
-          title:"10. THIRD PARTIES",
-          text:"Except as expressly included in this privacy policy, this document addresses only the use and disclosure of information FyndFit collects from you. If you disclose your information to others, whether other users or FyndFit vendors, different rules may apply to their use or disclosure of the information you disclose to them. FyndFit does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. FyndFit is not responsible for the privacy or security practices of other Internet platforms, including those linked to or from the FyndFit platform. FyndFit encourages you to ask questions before disclosing your personal information to others."
+        seven: {
+          title: "PROTECTION DE VOS INFORMATIONS",
+          text: "Nous nous efforçons de protéger la sécurité de vos informations pendant leur transmission en utilisant le logiciel Secure Sockets Layer (SSL), qui crypte les informations que vous fournissez par l'intermédiaire du site web et de la plateforme. Si des transactions sont traitées sur le site web, les informations relatives aux transactions sont transmises vers et depuis la plateforme sous forme cryptée en utilisant des connexions SSL standard afin de protéger ces informations contre toute interception. Nous limitons l'accès autorisé à vos informations personnelles aux personnes qui ont un besoin légitime de connaître ces informations et aux personnes que vous avez autorisées à accéder à ces informations. FyndFit suit les normes industrielles généralement acceptées pour protéger les informations personnelles qui lui sont soumises, à la fois pendant leur transmission et une fois que FyndFit les a reçues. Aucune méthode de transmission sur Internet ou de stockage électronique n'est sûre à 100 %. Par conséquent, bien que FyndFit s'efforce d'utiliser des moyens commercialement acceptables pour protéger vos informations personnelles, nous ne pouvons pas garantir leur sécurité absolue. Nous ne vendrons pas, ne distribuerons pas et ne louerons pas vos informations personnelles à des tiers, sauf si nous avons votre autorisation ou si nous sommes tenus par la loi de le faire.",
         },
-        eleven:{
-          title:"11. CONTACT ",
-          text:"If you have questions or concerns about this privacy policy and the treatment and security of your data, please contact us using the contact information below:",
-          copyright:'AppBuildr Limited - FyndFit.',
-          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
-        }
-      }
+        eight: {
+          title: "DROITS ",
+          text: "Les utilisateurs qui fournissent des informations par l'intermédiaire de notre plateforme, en tant que personnes concernées, ont le droit d'accéder à leurs informations, de les rectifier, de les télécharger ou de les supprimer, ainsi que de restreindre et de s'opposer à certains traitements de leurs informations. Si certains de ces droits s'appliquent de manière générale, d'autres ne s'appliquent que dans certaines circonstances limitées. Ces droits sont décrits ci-dessous :",
+          li: {
+            bold: "●	Accès et portabilité :  ",
+            normal:
+              "  Pour accéder aux informations stockées sur nos serveurs et les connaître, vous pouvez nous envoyer votre demande par l'intermédiaire de nos coordonnées.",
+          },
+          li2: {
+            bold: "●	Rectification, restriction, limitation et suppression : ",
+            normal:
+              "Vous pouvez également rectifier, restreindre, limiter ou supprimer une grande partie de vos informations",
+          },
+          li3: {
+            bold: "●	Droit d'être informé : ",
+            normal:
+              "Les utilisateurs de notre plateforme seront informés, sur demande, des données que nous collectons, de la manière dont elles sont utilisées, de leur durée de conservation et de leur éventuel partage avec des tiers.",
+          },
+          li4: {
+            bold: "●	Opposition :",
+            normal:
+              " Lorsque nous traitons vos données sur la base de nos intérêts légitimes, comme expliqué ci-dessus, ou dans l'intérêt public, vous pouvez vous opposer à ce traitement dans certaines circonstances. Dans ce cas, nous cesserons de traiter vos informations, sauf si nous avons des motifs légitimes de continuer à les traiter ou si cela est nécessaire pour des raisons juridiques.",
+          },
+          li5: {
+            bold: "●	Retirer son consentement :",
+            normal:
+              " Si vous avez déjà donné votre consentement, par exemple pour nous permettre de traiter et de stocker vos informations personnelles, vous avez le droit de retirer votre consentement au traitement et au stockage de vos informations à tout moment. Par exemple, vous pouvez retirer votre consentement en mettant à jour vos paramètres. Dans certains cas, nous pouvons continuer à traiter vos informations après que vous avez retiré votre consentement si nous avons une base légale pour le faire ou si votre retrait de consentement était limité à certaines activités de traitement.",
+          },
+          li6: {
+            bold: "●	Réclamation : ",
+            normal:
+              " Si vous souhaitez vous plaindre de l'utilisation que nous faisons de vos informations (et sans préjudice de tout autre droit dont vous pourriez disposer), vous avez le droit de le faire auprès de votre autorité de surveillance locale. Les utilisateurs peuvent exercer tous ces droits en nous contactant via les informations de contact ou la page de contact.",
+          },
+          li7: {
+            bold: "●	Droits relatifs à la prise de décision automatisée, y compris le profilage :",
+            normal:
+              " Les utilisateurs peuvent nous demander de leur fournir une copie des activités de traitement automatisé que nous menons s'ils estiment que les données sont traitées de manière illégale.",
+          },
+          text2:
+            "Les utilisateurs ou les propriétaires des données personnelles qu'ils fournissent par l'intermédiaire de la plateforme peuvent exercer ces droits sur leurs données à tout moment et sans limitation en nous envoyant leurs demandes par l'intermédiaire de nos coordonnées.",
+        },
+        nine: {
+          title: "PROTECTION DE LA VIE PRIVÉE DES ENFANTS EN LIGNE ",
+          text: "Nous respectons les réglementations nationales et internationales relatives à la protection des informations personnelles des enfants. Si nous apprenons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous prendrons immédiatement des mesures pour supprimer ces informations.",
+        },
+        ten: {
+          title: "TROISIÈME PARTIE",
+          text: "Sauf mention expresse dans la présente politique de confidentialité, ce document ne traite que de l'utilisation et de la divulgation des informations que FyndFit recueille auprès de vous. Si vous divulguez vos informations à d'autres personnes, qu'il s'agisse d'autres utilisateurs ou de fournisseurs de FyndFit, des règles différentes peuvent s'appliquer à l'utilisation ou à la divulgation des informations que vous leur communiquez. FyndFit ne contrôle pas les politiques de confidentialité des tiers, et vous êtes soumis aux politiques de confidentialité de ces tiers le cas échéant. FyndFit n'est pas responsable des pratiques de confidentialité ou de sécurité des autres plateformes Internet, y compris celles qui sont liées à ou depuis la plateforme FyndFit. FyndFit vous encourage à poser des questions avant de divulguer vos informations personnelles à d'autres personnes.",
+        },
+        eleven: {
+          title: "",
+          text: "Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité et le traitement et la sécurité de vos données, veuillez nous contacter en utilisant les coordonnées ci-dessous :",
+          copyright: "AppBuildr Limited - FyndFit.",
+          address: "(Anthony Shittu, supoort@appbuildr.tech, +447557519129)",
+        },
+      },
     },
     
     cookie:{
