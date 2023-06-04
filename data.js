@@ -291,8 +291,19 @@ export const LANGUAGE = {
     terms: {
       title:'TERMS AND CONDITIONS',
       welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.'
-      
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'These are the terms and conditions for: ',
+      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'●	https://fyndfit.com',
+      text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
+      text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
+      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      options:{
+        one:{
+          title:'1. ACCEPTANCE OF TERMS',
+          text:''
+        }
+      }
     },
   },
 
