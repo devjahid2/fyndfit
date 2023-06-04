@@ -206,7 +206,38 @@ export const LANGUAGE = {
           li:'●	Provide the mobile application (Available on Google Play and App Store).',
           li2:'●	Provide the functionalities available on the platform.',
           l3:'●	Understand and improve your experience using our platform.',
-          
+          li4:'●	Respond to your comments or questions through our contact information.',
+          li5:'●	Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.',
+          li6:'●	Communicate with you about upcoming events and news about FyndFit.',
+          li6:'●	FyndFit marketing purposes.',
+          li7:'●	Link or combine your information with other data we obtain from third parties to help us understand your needs and provide you with better service.',
+          li8:'●	Protect, investigate and deter fraudulent, unauthorised or illegal activities.',
+
+        },
+        six:{
+          title:'6. HOW WE SHARE INFORMATION',
+          text:'Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.',
+          text2:'Third-Party Service Providers. We use third-party services to perform certain functions on our platform. Some of these functions and services are: Building and hosting the platform, performing tracking and analytics functions on the platform (Firebase Crashlytics, Firebase Analytics, Google Analytics), providing storage services (Cloud Firestore), providing authentication services (Firebase Authentication), providing performance and dynamic linking services (Firebase Performance Monitoring, Firebase Dynamic Links), displaying and personalising advertisements (Facebook, AppLovin), and providing CDN services (bunny.net). These third-party services and tools may have access to personal information needed to perform their functions, but may not use that information for other purposes. Information shared with these third-party services will be treated and stored by their respective privacy policies and our privacy policy. ',
+          business:{
+            bold:'Business Transfers. ',
+            normal:'In the event FyndFit creates, merges with, or is acquired by another entity, your information will likely be transferred. FyndFit will send you an email or post a prominent notice on our platform before your information becomes subject to another privacy policy.'
+          },
+          protection:{
+            bold:'Protection of FyndFit and Others. ',
+            normal:'We release personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and conditions and other agreements, or protect the rights, property, or safety of FyndFit, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.'
+          } ,
+          anonymous:{
+            bold:'Anonymous Information. ',
+            normal:'FyndFit uses anonymous browsing information collected automatically by our servers primarily to help us administer and improve the platform. We may also use aggregated anonymous information to provide information about the Platform to potential business partners and other unaffiliated entities. This information is not personally identifiable.'
+          } ,
+        },
+        seven:{
+          title:'7. PROTECTION OF YOUR INFORMATION',
+          text:'We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you provide through the website and platform. If transactions are processed on the website, transaction information is transmitted to and from the platform in encrypted form using industry-standard SSL connections to help protect such information from interception. We restrict authorised access to your personal information to those persons who have a legitimate need to know that information and to those persons you have authorised to have access to that information. FyndFit follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once FyndFit receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while FyndFit strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.',
+
+        },
+        eight:{
+          title:'8. RIGHTS '
         }
       }
     },
