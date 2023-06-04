@@ -3,11 +3,14 @@ import React, { useContext } from "react";
 import Nav from '@/components/Nav'
 import { AppContext } from "../layout";
 import { LANGUAGE } from "../../../data";
+import Footer from "@/components/Footer";
+import Copyright from "@/components/Copyright";
 const Cookie = () => {
     const [context, setContext]:any = useContext(AppContext);
     const Lang:any = LANGUAGE;
     return(
-        <div className="cookie mb-80 xl:container mx-auto px-4 xl:px-0">
+        <>
+            <div className="cookie mb-80 xl:container mx-auto px-4 xl:px-0">
             <Nav/>
             <div className="header mt-10 mb-80">
                 <h2>{Lang[context.language].cookie.title}</h2>
@@ -85,8 +88,10 @@ const Cookie = () => {
                 
             </div>
 
-
         </div>
+            <Footer/>
+        <Copyright/>
+        </>
     );
 }
 
