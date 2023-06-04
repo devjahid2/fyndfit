@@ -242,6 +242,77 @@ export const LANGUAGE = {
       play:'/images/button/google-play/arabic.png',
       apple:''
     },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
+    },
     terms:{},
   },
   FRENCH: {
@@ -322,6 +393,77 @@ export const LANGUAGE = {
     buttonImage:{
       play:'/images/button/google-play/english.png',
       apple:''
+    },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
     },
     terms: {},
   },
@@ -405,6 +547,77 @@ export const LANGUAGE = {
       play:'/images/button/google-play/german.png',
       apple:''
     },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
+    },
     terms: {},
   },
   HINDI: {
@@ -486,6 +699,77 @@ export const LANGUAGE = {
     buttonImage:{
       play:'/images/button/google-play/hindi.png',
       apple:''
+    },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
     },
     terms: {},
   },
@@ -569,6 +853,77 @@ export const LANGUAGE = {
       play:'/images/button/google-play/italian.png',
       apple:''
     },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
+    },
     terms: {},
   },
   JAPANESE: {
@@ -650,6 +1005,77 @@ export const LANGUAGE = {
     buttonImage:{
       play:'/images/button/google-play/japanese.png',
       apple:''
+    },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
     },
     terms: {},
   },
@@ -733,6 +1159,77 @@ export const LANGUAGE = {
       play:'/images/button/google-play/korean.png',
       apple:''
     },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
+    },
     terms: {},
   },
   POLISH: {
@@ -814,6 +1311,77 @@ export const LANGUAGE = {
     buttonImage:{
       play:'/images/button/google-play/polish.png',
       apple:''
+    },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
     },
     terms: {},
   },
@@ -898,6 +1466,77 @@ export const LANGUAGE = {
     buttonImage:{
       play:'/images/button/google-play/portuguese.png',
       apple:''
+    },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
     },
     terms: {},
   },
@@ -984,6 +1623,77 @@ export const LANGUAGE = {
       play:'/images/button/google-play/spanish.png',
       apple:''
     },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
+    },
     terms: {},
   },
 
@@ -1068,6 +1778,77 @@ export const LANGUAGE = {
     buttonImage:{
       play:'/images/button/google-play/turkish.png',
       apple:''
+    },
+    
+    cookie:{
+      title:'COOKIE POLICY',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.',
+      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      link:'https://fyndfit.com',
+      text3:'(Hereinafter referred to as “FyndFit”).',
+      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      li:'AppBuildr Limited.',
+      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
+      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      points:{
+        one:{
+          title:'1. WHAT ARE COOKIES?',
+          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+        },
+        two:{
+          title:'2. COOKIE SETTINGS',
+          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
+          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          link1:{
+            text:'Microsoft Edge:',
+            link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
+          },
+          link2:{text:'Firefox: ',link:'https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox'},
+          link3:{text:'Chrome: : ',link:': https://support.google.com/chrome/answer/95647?hl=en'},
+          link4:{text:'Safari: : ',link:'https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac'},
+          link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
+          link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
+          link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+        },
+        three:{
+          title:'3. FIRST-PARTY COOKIES',
+          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+        },
+        fore:{
+          title:'4. THIRD-PARTY COOKIES',
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+        },
+        five:{
+          title:'5. PURPOSES OF OUR COOKIES',
+          text:'Our cookies are used for the following purposes:',
+          strictlyNecessary:{
+            bold:'Strictly Necessary: ',
+            normal:'These cookies are essential for the website to perform its basic functions.'
+          } ,
+          security:{
+            bold:'Security: ',
+            normal:'We use these cookies to help identify and prevent potential security risks.'
+          } ,
+          performance:{
+            bold:'Performance: ',
+            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+          },
+          analytics:{
+            bold:'Analytics. ',
+            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+          }
+        },
+        six:{
+          title:'6. CONTACT US',
+          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          copyright:'AppBuildr Limited - FyndFit.',
+          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+        }
+      }
+
     },
     terms: {},
   },

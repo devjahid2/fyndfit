@@ -360,10 +360,13 @@ font-size: 20px;
     top:0;
     bottom: auto;
   }
-  .exercises h2,.equipment h2{
+  .exercises h2,.equipment h2,.cookie .header h2{
     font-size: 23px;
   }
-  .exercises p,.equipment p{
+  .cookie h3{
+    font-size: 19px;
+  }
+  .exercises p,.equipment p,.cookie p{
     font-size: 14.04px;
   }
   .exercises{
