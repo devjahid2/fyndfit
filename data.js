@@ -288,7 +288,12 @@ export const LANGUAGE = {
         }
       }
     },
-    terms: {},
+    terms: {
+      title:'TERMS AND CONDITIONS',
+      welcomeText:'Welcome to FyndFit!',
+      text:'FyndFit is owned and operated by AppBuildr Limited.'
+      
+    },
   },
 
 
