@@ -10,7 +10,7 @@ const Cookie = () => {
     const Lang:any = LANGUAGE;
     return(
         <>
-            <div className="cookie mb-80 xl:container mx-auto px-4 xl:px-0">
+            <div className={`cookie mb-80 xl:container mx-auto px-4 xl:px-0 ${context.language === "ARABIC" ? 'text-end':''}`}>
             <Nav/>
             <div className="header mt-10 mb-80">
                 <h2>{Lang[context.language].cookie.title}</h2>

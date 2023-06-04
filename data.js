@@ -293,14 +293,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -333,23 +333,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -359,12 +359,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -373,9 +373,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -497,27 +497,28 @@ export const LANGUAGE = {
       apple:''
     },
     
+    
     cookie:{
-      title:'COOKIE POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      title:'سياسة ملفات الإرتباط',
+      welcomeText:'مرحبًا بكم في FyndFit!',
+      text:'FyndFit مملوكة ويتم تشغيلها بواسطة شركة AppBuildr Limited',
+      text2:' تشرح سياسة ملفات تعريف الإرتباط هذه كيف ولماذا يمكن تخزين ملفات تعريف الإرتباط والتقنيات المماثلة الأخرى على جهازك والوصول إليها منه عند استخدامك أو زيارتك:',
       link:'https://fyndfit.com',
-      text3:'(Hereinafter referred to as “FyndFit”).',
-      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      text3:'(يشار إليها فيما بعد باسم "FyndFit").',
+      text4:'ستكون المعلومات التي يتم جمعها من خلال ملفات تعريف الإرتباط تحت مسؤولية وتحكم:',
       li:'AppBuildr Limited.',
       li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
-      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
-      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      text5:'يجب قراءة سياسة ملفات تعريف الإرتباط هذه جنبًا إلى جنب مع سياسة الخصوصية والبنود والشروط الخاصة بنا.',
+      text6:'باستخدام موقع الويب ، فإنك تقبل استخدام ملفات تعريف الإرتباط بواسطة FyndFit ، في الشروط الواردة في هذه السياسة',
       points:{
         one:{
-          title:'1. WHAT ARE COOKIES?',
-          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+          title:'. ما هي ملفات تعريف الإرتباط؟',
+          text:'ملفات تعريف الإرتباط هي ملفات نصية صغيرة يتم تخزينها على جهاز الكمبيوتر أو الجهاز المحمول الخاص بك عند زيارة أحد مواقع الويب. إنها تسمح لموقع الويب بالتعرف على جهازك وتذكر ما إذا كنت قد زرت موقع الويب من قبل. ملفات تعريف الإرتباط هي تقنية ويب شائعة جدًا ؛ تستخدم معظم مواقع الويب ملفات تعريف الإرتباط وقد فعلت ذلك لسنوات. تُستخدم ملفات تعريف الإرتباط على نطاق واسع لجعل موقع الويب يعمل بكفاءة أكبر. تُستخدم ملفات تعريف الإرتباط لقياس أجزاء موقع الويب التي يزورها المستخدمون وتخصيص تجربتهم. توفر ملفات تعريف الإرتباط أيضًا معلومات تساعدنا في مراقبة أداء الموقع وتحسينه.'
         },
         two:{
-          title:'2. COOKIE SETTINGS',
-          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
-          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          title:'. إعدادات ملفات تعريف الإرتباط',
+          text:'إذا كنت لا تريد أن يتم إسقاط ملفات تعريف الإرتباط على جهازك ، فيمكنك ضبط إعداد متصفح الإنترنت الخاص بك لرفض إعداد كل أو بعض ملفات تعريف الإرتباط وتنبيهك عند وضع ملف تعريف ارتباط على جهازك. لمزيد من المعلومات حول كيفية القيام بذلك ، يرجى الرجوع إلى قسم "المساعدة" أو "الأداة" أو "التعديل" في المتصفح. يرجى ملاحظة أنه إذا كنت تستخدم إعدادات المستعرض الخاص بك لحظر جميع ملفات تعريف الإرتباط ، بما في ذلك ملفات تعريف الإرتباط الضرورية للغاية ، فقد لا تتمكن من الوصول إلى أو استخدام جميع وظائف موقع الويب أو أجزاء منها.',
+          text2:'إذا كنت تريد إزالة ملفات تعريف الإرتباط المخزنة مسبقًا ، فيمكنك حذف ملفات تعريف الإرتباط يدويًا في أي وقت. ومع ذلك ، فإن هذا لن يمنع موقع الويب من وضع المزيد من ملفات تعريف الإرتباط على جهازك ما لم وحتى تقوم بضبط إعداد متصفح الإنترنت الخاص بك كما هو موضح أعلاه. نحن نقدم روابط لإدارة وحظر ملفات تعريف الإرتباط اعتمادًا على المتصفح الذي تستخدمه:',
           link1:{
             text:'Microsoft Edge:',
             link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
@@ -528,45 +529,46 @@ export const LANGUAGE = {
           link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
           link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
           link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
-          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+          text3:'في الحالات التي تصل فيها إلى موقع الويب من خلال جهاز محمول يعمل بنظام iOS أو Android ، يرجى اتباع الإرشادات أدناه لحذف ملفات تعريف الإرتباط أو حظرها على جهازك:'
         },
         three:{
-          title:'3. FIRST-PARTY COOKIES',
-          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+          title:'. ملفات تعريف الإرتباط الخاصة بالطرف الأول',
+          text:'نحن نستخدم ملفات تعريف الإرتباط لتحسين أداء موقعنا وتخصيص تجربتك على الإنترنت. تساعدنا ملفات تعريف الإرتباط في جمع معلومات حول كيفية استخدام الأشخاص لموقعنا والصفحات التي يزورونها. إنها تمكننا من مراقبة عدد الزوار وتحليل أنماط واتجاهات استخدام الموقع. نقوم بجمع هذه المعلومات بشكل مجهول ، لذلك لا تحدد هوية أي شخص كفرد ولا يتم تخزين أي معلومات شخصية في ملفات تعريف الإرتباط الخاصة بنا. نحن دائمًا مسؤولون عن إستخدام ملفات الإرتباط.'
         },
         fore:{
-          title:'4. THIRD-PARTY COOKIES',
-          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+          title:'. ملفات تعريف الإرتباط الخاصة بطرف ثالث',
+          text:'قد تأتي ملفات تعريف الإرتباط للجهات الخارجية من شركاء أو شركات تابعة لجهات خارجية تقدم خدمات أو أدوات ويب وظيفية لموقعنا على الويب والتشغيل الأمثل لخدماتنا وتشغيلها. نحن نستخدم ملفات تعريف الإرتباط للجهات الخارجية بشكل مسؤول ولغرض وحيد هو توفير الأداء الأمثل للمنصة والخدمات. يمكنك إلغاء الاشتراك في ملفات تعريف الإرتباط هذه باتباع معلومات إزالة ملفات تعريف الإرتباط الواردة في هذا المستند أو المعلومات الفنية للمتصفح الذي تصل من خلاله إلى موقعنا وخدماتنا.'
         },
         five:{
-          title:'5. PURPOSES OF OUR COOKIES',
-          text:'Our cookies are used for the following purposes:',
+          title:'. أغراض ملفات تعريف الإرتباط الخاصة بنا',
+          text:'تُستخدم ملفات تعريف الإرتباط الخاصة بنا للأغراض التالية:',
           strictlyNecessary:{
-            bold:'Strictly Necessary: ',
-            normal:'These cookies are essential for the website to perform its basic functions.'
+            bold:'',
+            normal:'ضروري للغاية: ملفات تعريف الإرتباط هذه ضرورية للموقع لأداء وظائفه الأساسية'
           } ,
           security:{
-            bold:'Security: ',
-            normal:'We use these cookies to help identify and prevent potential security risks.'
+            bold:' ',
+            normal:'حماية: نستخدم ملفات تعريف الإرتباط هذه للمساعدة في تحديد مخاطر الأمان المحتملة ومنعها.'
           } ,
           performance:{
-            bold:'Performance: ',
-            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+            bold:'',
+            normal:'أداء: تجمع ملفات تعريف الإرتباط الخاصة بالأداء معلومات حول كيفية تفاعل المستخدمين مع موقعنا ، بما في ذلك الصفحات الأكثر زيارة ، بالإضافة إلى البيانات التحليلية الأخرى. نستخدم هذه التفاصيل لتحسين كيفية عمل موقعنا وفهم كيفية تفاعل المستخدمين معها'
           },
           analytics:{
-            bold:'Analytics. ',
-            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+            bold:'',
+            normal:'تحليلات. نحن نستخدم Google Analytics كأداة لتحليل البيانات. تجمع هذه الأدوات والتقنيات أنواعًا معينة من المعلومات وتحللها ، مثل عناوين IP ، ومعرفات الأجهزة والبرامج ، وعناوين URL للإحالة والخروج ، ومقاييس وإحصاءات استخدام الميزات ، وعناوين التحكم في الوصول إلى الوسائط (عنوان MAC) ، ومعرفات الأجهزة المحمولة الفريدة وغيرها من  المعلومات المماثلة من خلال استخدام ملفات تعريف الإرتباط. نستخدم جمع بيانات GOOGLE Analytics لتحسين منصاتنا وخدماتنا'
           }
         },
         six:{
-          title:'6. CONTACT US',
-          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          title:'. اتصل بنا',
+          text:'إذا كانت لديك أي أسئلة أو مخاوف بشأن سياسة ملفات تعريف الإرتباط هذه ومعالجة بياناتك وأمانها ، فيرجى الاتصال بنا باستخدام معلومات الاتصال أدناه:',
           copyright:'AppBuildr Limited - FyndFit.',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
       }
 
     },
+
     policy:{
       title:'PRIVACY POLICY',
       welcomeText:'Welcome to FyndFit!',
@@ -993,14 +995,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -1033,23 +1035,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -1059,12 +1061,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -1073,9 +1075,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -1401,14 +1403,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -1441,23 +1443,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -1467,12 +1469,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -1481,9 +1483,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -1809,14 +1811,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -1849,23 +1851,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -1875,12 +1877,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -1889,9 +1891,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -2217,14 +2219,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -2257,23 +2259,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -2283,12 +2285,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -2297,9 +2299,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -2625,14 +2627,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -2665,23 +2667,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -2691,12 +2693,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -2705,9 +2707,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -3033,14 +3035,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -3073,23 +3075,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -3099,12 +3101,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -3113,9 +3115,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -3441,14 +3443,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -3481,23 +3483,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -3507,12 +3509,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -3521,9 +3523,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -3851,14 +3853,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -3891,23 +3893,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -3917,12 +3919,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -3931,9 +3933,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -4262,14 +4264,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -4302,23 +4304,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -4328,12 +4330,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -4342,9 +4344,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
@@ -4673,14 +4675,14 @@ export const LANGUAGE = {
       welcomeText:'Welcome to FyndFit!',
       text:'FyndFit is owned and operated by AppBuildr Limited.',
       text2:'These are the terms and conditions for: ',
-      li:'●	FyndFit mobile application (Available on Google Play and App Store).',
-      li2:'●	https://fyndfit.com',
+      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      li2:'https://fyndfit.com',
       text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
       text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text4:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
       
 
-    options:{
+    points:{
       one:{
         title:'1. ACCEPTANCE OF TERMS',
         text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
@@ -4713,23 +4715,23 @@ export const LANGUAGE = {
       six:{
           title:'6. COPYRIGHT INFRINGEMENT ',
           text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'●	Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'●	A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"●	Your name, address, telephone number and email address.",
-          li4:"●	A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"●	A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"●	An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
+          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
+          li3:"Your name, address, telephone number and email address.",
+          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
+          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
+          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
       },
       seven:{
           title:"7. PROHIBITED ACTIVITIES",
           text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"●	Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"●	Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"●	Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"●	Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`●	"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'●	Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'●	Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
+          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
+          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
+          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
+          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
+          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
+          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
       },
       eight:{
           title:"8. DISCLAIMER OF WARRANTIES ",
@@ -4739,12 +4741,12 @@ export const LANGUAGE = {
           text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
           text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
           text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"●	Any incorrect or inaccurate information on the platform.",
-          li2:'●	The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"●	Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"●	Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"●	Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"●	All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          li:"Any incorrect or inaccurate information on the platform.",
+          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
+          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
+          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
+          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
+          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
           title:'9. ELECTRONIC COMMUNICATIONS',
@@ -4753,9 +4755,9 @@ export const LANGUAGE = {
       ten:{
           title:'10. INDEMNIFICATION',
           text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"●	Your breach of this agreement or the documents referenced herein.",
-          li2:"●	Your violation of any law or the rights of a third party",
-          li3:"●	Your use of the FyndFit platform."
+          li:"Your breach of this agreement or the documents referenced herein.",
+          li2:"Your violation of any law or the rights of a third party",
+          li3:"Your use of the FyndFit platform."
       },
       eleven:{
           title:'11. CHANGES AND TERMINATION',
