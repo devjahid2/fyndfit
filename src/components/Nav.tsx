@@ -185,13 +185,13 @@ const Nav = () => {
   return (
     <div className="xl:container mx-auto px-4 xl:px-0">
         <div className="flex items-center justify-between">
-      <Image
+      <a href="/"><Image
         className="logo-img"
         alt="logo"
         width={88}
         height={88}
         src="/images/common/logo.png"
-      />
+      /></a>
       <Select
         defaultValue={options[0]}
         onChange={(lang) => handelLanguage(lang?.value)}

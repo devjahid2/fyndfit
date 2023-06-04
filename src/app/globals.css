@@ -295,11 +295,41 @@ body {
   font-size:18px;
   font-weight:500
 }
-
-.cookie{
-  
+.mb-40{
+  margin-bottom: 40px;
 }
-
+.fw-700{
+  font-weight:700
+}
+.cookie h3{
+  font-weight: 600;
+font-size: 32px;
+}
+.cookie .header{
+  padding: 30px 10px;
+  background: url('../../public/images/common/topographic-line.png') #181818 no-repeat;
+border-radius: 30px;
+}
+.cookie .header h2{
+  font-size: 56px;
+  text-align: center;
+  font-weight: 600;
+}
+.cookie p{
+  color:#B1B1B1;
+  font-weight: 500;
+font-size: 20px;
+}
+.cookie a{
+  color:#B1B1B1;
+  text-decoration:underline
+}
+.cookie ul{
+  padding-left:30px
+}
+.cookie ul li{
+  list-style-type: disc;
+}
 
 
 @media (max-width:1024px) {

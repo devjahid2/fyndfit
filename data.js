@@ -115,7 +115,7 @@ export const LANGUAGE = {
           link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
           link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
           link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
-          text:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
         },
         three:{
           title:'3. FIRST-PARTY COOKIES',
@@ -123,7 +123,7 @@ export const LANGUAGE = {
         },
         fore:{
           title:'4. THIRD-PARTY COOKIES',
-          title:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
         },
         five:{
           title:'5. PURPOSES OF OUR COOKIES',
