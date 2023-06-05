@@ -1,6 +1,7 @@
 "use client";
 import { AppContext } from "@/app/layout";
 import Image from "next/image";
+import Link from "next/link";
 import React, { useContext } from "react";
 import Select from "react-select";
 
@@ -9,7 +10,7 @@ const options = [
     // 0
     value: "ENGLISH",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/en'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -17,14 +18,14 @@ const options = [
           src={"/images/flag/english.png"}
         />{" "}
         <span className="text-white">English</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 1
     value: "ARABIC",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/ar'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -32,14 +33,14 @@ const options = [
           src={"/images/flag/arabic.png"}
         />{" "}
         <span className="text-white">اَلْعَرَبِيَّةُ</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 2
     value: "FRENCH",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/fr'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -47,14 +48,14 @@ const options = [
           src={"/images/flag/french.png"}
         />{" "}
         <span className="text-white">Français</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 3
     value: "GERMAN",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/gr'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -62,14 +63,14 @@ const options = [
           src={"/images/flag/german.png"}
         />{" "}
         <span className="text-white">Deutsch</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 4
     value: "HINDI",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/in'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -77,14 +78,14 @@ const options = [
           src={"/images/flag/hindi.png"}
         />{" "}
         <span className="text-white">हिन्दी</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 5
     value: "ITAILIAN",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/it'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -92,7 +93,7 @@ const options = [
           src={"/images/flag/italian.png"}
         />{" "}
         <span className="text-white">Italiano</span>
-      </div>
+      </Link>
     ),
   },
   {
@@ -160,7 +161,7 @@ const options = [
     // 10
     value: "SPANISH",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/es'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -168,14 +169,14 @@ const options = [
           src={"/images/flag/spanish.png"}
         />{" "}
         <span className="text-white">Español</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 11
     value: "TURKISH",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/tr'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -183,7 +184,7 @@ const options = [
           src={"/images/flag/turkish.png"}
         />{" "}
         <span className="text-white">Türkçe</span>
-      </div>
+      </Link>
     ),
   },
 ];

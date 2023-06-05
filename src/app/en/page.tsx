@@ -1,3 +1,4 @@
+'use client'
 import React, { useContext, useEffect } from 'react'
 import Home from '../page'
 import { AppContext } from '../layout';

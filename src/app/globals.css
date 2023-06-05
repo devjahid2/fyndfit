@@ -348,8 +348,8 @@ font-size: 20px;
   background:#000;
   z-index:100
 }
-.w-55{
-  width:55px
+.h-55{
+  height:55px
 }
 @media (max-width:1024px) {
   .title,.exercise-section .title,.filtering-tool h2,.image-search .title, .workout .title, .workout-library .title, .equipment-sec .title{
