@@ -1,15 +1,13 @@
-'use client'
+'use client';
 import { AppContext } from '@/app/layout';
-import React, { useContext, useEffect } from 'react'
+import React, { useContext, useEffect } from 'react';
 import Cookie from '../page';
 
 export default function page() {
-  const [context, setContext]:any = useContext(AppContext);
-    useEffect(() => {
-        setContext({...context,language:'KOREAN'})
-    },[])
+  const [context, setContext]: any = useContext(AppContext);
+  useEffect(() => {
+    setContext({ ...context, language: 'KOREAN' });
+  }, []);
 
-  return (
-    <Cookie select={7}/>
-  )
+  return <Cookie select={7} />;
 }
