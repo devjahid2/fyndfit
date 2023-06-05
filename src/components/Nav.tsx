@@ -100,7 +100,7 @@ const options = [
     // 6
     value: "JAPANESE",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/jp'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -108,14 +108,14 @@ const options = [
           src={"/images/flag/japanese.png"}
         />{" "}
         <span className="text-white">日本語</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 7
     value: "KOREAN",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/kp'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -123,14 +123,14 @@ const options = [
           src={"/images/flag/korean.png"}
         />{" "}
         <span className="text-white">한국인</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 8
     value: "POLISH",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/pf'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -138,14 +138,14 @@ const options = [
           src={"/images/flag/polish.png"}
         />{" "}
         <span className="text-white">Polski</span>
-      </div>
+      </Link>
     ),
   },
   {
     // 9
     value: "PORTUGUESE",
     label: (
-      <div className="flex gap-2">
+      <Link href={'/pt'} className="flex gap-2">
         <Image
           width={28}
           height={18}
@@ -153,7 +153,7 @@ const options = [
           src={"/images/flag/portuguese.png"}
         />{" "}
         <span className="text-white">Português</span>
-      </div>
+      </Link>
     ),
   },
   

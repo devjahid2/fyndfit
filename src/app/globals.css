@@ -348,6 +348,9 @@ font-size: 20px;
   background:#000;
   z-index:100
 }
+.sticky-top a{
+  text-decoration:none;
+}
 .h-55{
   height:55px
 }
