@@ -1173,23 +1173,23 @@ export const LANGUAGE = {
       six:{
           title:"VIOLATION DES DROITS D'AUTEUR ",
           text:"FyndFit répondra à toutes les demandes, plaintes et réclamations relatives à une prétendue infraction ou violation des dispositions contenues dans les lois et réglementations britanniques et internationales sur les droits d'auteur et la propriété intellectuelle. FyndFit respecte la propriété intellectuelle d'autrui et attend des utilisateurs qu'ils fassent de même. Si vous pensez, en toute bonne foi, que tout matériel fourni sur le site web de FyndFit enfreint vos droits d'auteur ou autres droits de propriété intellectuelle, veuillez soumettre votre demande par le biais de nos coordonnées, avec les informations suivantes : ",
-          li:"●	Une identification du droit de propriété intellectuelle prétendument enfreint. Tous les numéros d'enregistrement pertinents ou une déclaration concernant la propriété de l'œuvre doivent être inclus.",
-          li2:"●	Une déclaration qui identifie spécifiquement l'emplacement du matériel en infraction, avec suffisamment de détails pour que FyndFit puisse le trouver sur la plate-forme. ",
-          li3:"●	Votre nom, votre adresse, votre numéro de téléphone et votre adresse électronique.",
-          li4:"●	Une déclaration de votre part indiquant que vous pensez de bonne foi que l'utilisation du matériel prétendument contrefait n'est pas autorisée par le détenteur des droits d'auteur, ses agents ou la loi.",
-          li5:"●	Une déclaration de votre part, sous peine de parjure, selon laquelle les informations contenues dans votre notification sont exactes et que vous êtes le titulaire des droits d'auteur ou autorisé à agir en son nom.",
-          li6:"●	Une signature électronique ou physique du titulaire du droit d'auteur ou de la personne autorisée à agir au nom du titulaire du droit d'auteur."
+          li:"Une identification du droit de propriété intellectuelle prétendument enfreint. Tous les numéros d'enregistrement pertinents ou une déclaration concernant la propriété de l'œuvre doivent être inclus.",
+          li2:"Une déclaration qui identifie spécifiquement l'emplacement du matériel en infraction, avec suffisamment de détails pour que FyndFit puisse le trouver sur la plate-forme. ",
+          li3:"Votre nom, votre adresse, votre numéro de téléphone et votre adresse électronique.",
+          li4:"Une déclaration de votre part indiquant que vous pensez de bonne foi que l'utilisation du matériel prétendument contrefait n'est pas autorisée par le détenteur des droits d'auteur, ses agents ou la loi.",
+          li5:"Une déclaration de votre part, sous peine de parjure, selon laquelle les informations contenues dans votre notification sont exactes et que vous êtes le titulaire des droits d'auteur ou autorisé à agir en son nom.",
+          li6:"Une signature électronique ou physique du titulaire du droit d'auteur ou de la personne autorisée à agir au nom du titulaire du droit d'auteur."
       },
       seven:{
           title:"ACTIVITÉS INTERDITES",
           text:"Le contenu et les informations disponibles sur la plate-forme (y compris, mais sans s'y limiter, les données, les informations, les textes, la musique, les sons, les photos, les graphiques, les vidéos, les cartes, les icônes ou tout autre matériel), ainsi que l'infrastructure utilisée pour fournir ce contenu et ces informations, sont la propriété de FyndFit ou font l'objet d'une licence accordée à FyndFit par des tiers. Pour tout contenu autre que le vôtre, vous acceptez de ne pas modifier, copier, distribuer, transmettre, afficher, exécuter, reproduire, publier, concéder sous licence, créer des œuvres dérivées, transférer, vendre ou revendre toute information, tout logiciel ou tout service obtenu à partir ou par l'intermédiaire de la plate-forme. En outre, les activités suivantes sont interdites :",
-          li:"●	Accéder, surveiller, reproduire, distribuer, transmettre, diffuser, afficher, vendre, concéder sous licence, copier ou exploiter de toute autre manière tout contenu des services, y compris, mais sans s'y limiter, en utilisant un robot, une araignée, un scraper ou d'autres moyens automatisés ou un processus manuel à toute fin non conforme au présent accord ou sans notre autorisation écrite expresse.",
-          li2:"●	Violer les restrictions contenues dans les en-têtes d'exclusion des robots sur les services ou contourner les autres mesures employées pour empêcher ou limiter l'accès aux services.",
-          li3:"●	Prendre des mesures qui imposent ou peuvent imposer, à notre discrétion, une charge déraisonnable ou disproportionnée sur notre infrastructure.",
-          li4:"●	Créer des liens profonds vers toute partie des services à quelque fin que ce soit sans notre autorisation écrite expresse.",
-          li5:`●	"Encadrer", "refléter" ou incorporer de quelque manière que ce soit toute partie de la plate-forme dans d'autres sites web ou services sans notre autorisation écrite préalable.`,
-          li6:"●	Tenter de modifier, traduire, adapter, éditer, décompiler, désassembler ou faire de l'ingénierie inverse de tout programme logiciel utilisé par FyndFit en relation avec les services.",
-          li7:"●	Contourner, désactiver ou interférer de toute autre manière avec les fonctions de sécurité de la plate-forme ou les fonctions qui empêchent ou limitent l'utilisation ou la copie de tout contenu."
+          li:"Accéder, surveiller, reproduire, distribuer, transmettre, diffuser, afficher, vendre, concéder sous licence, copier ou exploiter de toute autre manière tout contenu des services, y compris, mais sans s'y limiter, en utilisant un robot, une araignée, un scraper ou d'autres moyens automatisés ou un processus manuel à toute fin non conforme au présent accord ou sans notre autorisation écrite expresse.",
+          li2:"Violer les restrictions contenues dans les en-têtes d'exclusion des robots sur les services ou contourner les autres mesures employées pour empêcher ou limiter l'accès aux services.",
+          li3:"Prendre des mesures qui imposent ou peuvent imposer, à notre discrétion, une charge déraisonnable ou disproportionnée sur notre infrastructure.",
+          li4:"Créer des liens profonds vers toute partie des services à quelque fin que ce soit sans notre autorisation écrite expresse.",
+          li5:`"Encadrer", "refléter" ou incorporer de quelque manière que ce soit toute partie de la plate-forme dans d'autres sites web ou services sans notre autorisation écrite préalable.`,
+          li6:"Tenter de modifier, traduire, adapter, éditer, décompiler, désassembler ou faire de l'ingénierie inverse de tout programme logiciel utilisé par FyndFit en relation avec les services.",
+          li7:"Contourner, désactiver ou interférer de toute autre manière avec les fonctions de sécurité de la plate-forme ou les fonctions qui empêchent ou limitent l'utilisation ou la copie de tout contenu."
       },
       eight:{
           title:"EXCLUSION DE GARANTIE ",
@@ -1199,12 +1199,12 @@ export const LANGUAGE = {
           text4:`FyndFit ne peut être tenu responsable d'aucun montant en cas de manquement à une obligation en vertu du présent accord si ce manquement est dû à la survenue d'un événement imprévu échappant à son contrôle raisonnable, y compris, sans s'y limiter, les pannes d'Internet, les pannes de communication, les incendies, les inondations ou tout acte naturel incontrôlable. Les présentes conditions n'affectent pas les droits statutaires dont vous disposez en tant que consommateur.
           Sous réserve de ce qui précède, dans la mesure maximale autorisée par la loi, FyndFit exclut toute responsabilité pour toute perte ou tout dommage de quelque nature que ce soit, y compris, sans s'y limiter, toute perte directe, indirecte ou consécutive, qu'elle découle ou non d'un problème que vous avez notifié à FyndFit, et FyndFit n'est pas tenu de verser de l'argent à titre de compensation, y compris, sans s'y limiter, toute responsabilité en rapport avec :
           `,
-          li:"●	Toute information incorrecte ou inexacte sur la plateforme.",
-          li2:`●	La violation par toute personne de tout droit de propriété intellectuelle d'un tiers causée par son utilisation de la plate-forme.`,
-          li3:"●	Toute perte ou tout dommage résultant de votre utilisation ou de l'impossibilité d'utiliser la plate-forme ou résultant d'un accès non autorisé à vos transmissions ou données ou de leur altération dans des circonstances indépendantes de notre volonté.",
-          li4:"●	Toute perte de profit, dépenses inutiles, corruption ou destruction de données ou toute autre perte qui ne résulte pas directement d'une faute de notre part.",
-          li5:"●	Tout montant ou type de perte ou de dommage dû à des virus ou autres logiciels malveillants susceptibles d'infecter l'équipement informatique, les logiciels, les données ou autres biens d'un utilisateur, causé par des personnes accédant ou utilisant le contenu de la plate-forme ou par des transmissions via des e-mails ou des pièces jointes reçues de FyndFit.",
-          li6:"●	Toutes les déclarations, garanties, conditions et autres termes qui, en l'absence du présent avis, auraient un effet."
+          li:"Toute information incorrecte ou inexacte sur la plateforme.",
+          li2:`La violation par toute personne de tout droit de propriété intellectuelle d'un tiers causée par son utilisation de la plate-forme.`,
+          li3:"Toute perte ou tout dommage résultant de votre utilisation ou de l'impossibilité d'utiliser la plate-forme ou résultant d'un accès non autorisé à vos transmissions ou données ou de leur altération dans des circonstances indépendantes de notre volonté.",
+          li4:"Toute perte de profit, dépenses inutiles, corruption ou destruction de données ou toute autre perte qui ne résulte pas directement d'une faute de notre part.",
+          li5:"Tout montant ou type de perte ou de dommage dû à des virus ou autres logiciels malveillants susceptibles d'infecter l'équipement informatique, les logiciels, les données ou autres biens d'un utilisateur, causé par des personnes accédant ou utilisant le contenu de la plate-forme ou par des transmissions via des e-mails ou des pièces jointes reçues de FyndFit.",
+          li6:"Toutes les déclarations, garanties, conditions et autres termes qui, en l'absence du présent avis, auraient un effet."
       },
       nine:{
           title:'COMMUNICATIONS ÉLECTRONIQUES',
@@ -1213,9 +1213,9 @@ export const LANGUAGE = {
       ten:{
           title:' INDEMNISATION',
           text:"Vous acceptez de défendre et d'indemniser FyndFit contre toute réclamation, cause d'action, demande, recouvrement, perte, dommage, amende, pénalité ou autre coût ou dépense de quelque nature que ce soit, y compris, mais sans s'y limiter, les frais juridiques et comptables raisonnables, intentés par des tiers à la suite de :",
-          li:"●	Votre violation du présent accord ou des documents qui y sont mentionnés.",
-          li2:"●	Votre violation de toute loi ou des droits d'un tiers.",
-          li3:"●	Votre utilisation de la plateforme FyndFit."
+          li:"Votre violation du présent accord ou des documents qui y sont mentionnés.",
+          li2:"Votre violation de toute loi ou des droits d'un tiers.",
+          li3:"Votre utilisation de la plateforme FyndFit."
       },
       eleven:{
           title:'. MODIFICATIONS ET RÉSILIATION',
@@ -1332,160 +1332,161 @@ export const LANGUAGE = {
     },
     
     policy:{
-      title:'PRIVACY POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'(Hereinafter referred to as "FyndFit").',
-      text3:'FyndFit values your privacy and the protection of your data. This privacy policy describes what information we collect from you, how we collect it, how we use it, how we obtain your consent, how long we keep it in our databases and, if necessary, with whom we share it.',
-      text4:'By using the platform, you are accepting the practices described in this privacy policy. Your use of the platform is also subject to our terms of service. In this privacy policy, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
-      text5:'This privacy policy may change from time to time. Your continued use of the platform and website after we make changes to this privacy policy is deemed acceptance of those changes, so please check this policy periodically for updates. This privacy policy has been developed and is maintained following all applicable federal and international laws and regulations, in particular, the Data Protection Act 2018 (UK regulations) and the GDPR (General Data Protection Regulation - European regulations).',
+      title:'DATENSCHUTZBESTIMMUNGEN',
+      welcomeText:'Willkommen bei FyndFit!',
+      text:'FyndFit ist ein Unternehmen, das von AppBuildr Limited betrieben wird.',
+      text2:'(Im Folgenden als "FyndFit" bezeichnet).',
+      text3:'FyndFit legt Wert auf Ihre Privatsphäre und den Schutz Ihrer Daten. Diese Datenschutzbestimmungen beschreiben, welche Informationen wir von Ihnen sammeln, wie wir sie sammeln, wie wir sie verwenden, wie wir Ihre Zustimmung einholen, wie lange wir sie in unseren Datenbanken aufbewahren und, falls erforderlich, mit wem wir sie teilen.',
+      text4:'Durch die Nutzung der Plattform erklären Sie sich mit den in dieser Datenschutzbestimmung beschriebenen Praktiken einverstanden. Ihre Nutzung der Plattform unterliegt auch unseren Servicebedingungen. In dieser Datenschutzbestimmung bezieht sich "Plattform" auf die mobile Anwendung und die Website von FyndFit, "wir", "uns", "unser" und "FyndFit" beziehen sich auf FyndFit, und "Sie" und "Nutzer" beziehen sich auf Sie, den Nutzer von FyndFit.',
+      text5:'Diese Datenschutzbestimmungen können sich von Zeit zu Zeit ändern. Ihre fortgesetzte Nutzung der Plattform und der Website, nachdem wir Änderungen an dieser Datenschutzbestimmung vorgenommen haben, stellt Ihre Zustimmung zu diesen Änderungen dar. Diese Datenschutzbestimmungen wurden in Übereinstimmung mit allen anwendbaren bundesstaatlichen und internationalen Gesetzen und Vorschriften entwickelt und werden beibehalten, einschließlich und ohne Einschränkung des Data Protection Act 2018 (britische Vorschriften) und der GDPR (General Data Protection Regulation - europäische Vorschriften).',
       points:{
         one:{
-          title:'1. GENERAL INFORMATION',
-          text:'The personal data of users collected and processed through:',
-          li:'FyndFit mobile application (Available on Google Play and App Store).',
+          title:'ALLGEMEINE INFORMATIONEN',
+          text:'Die personenbezogenen Daten der Nutzer werden gesammelt und verarbeitet durch:',
+          li:'FyndFit Mobil-App (verfügbar auf Google Play und im App Store)',
           li2:'https://fyndfit.com',
-          text2:'Will be under the responsibility and in charge of:',
+          text2:'Verarbeitet werden sie unter der Verantwortung und im Auftrag von:',
           li3:'AppBuildr Limited. ',
           li4:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
         },
         two:{
-          title:'2. HOW DO YOU OBTAIN MY CONSENT?',
-          text:'By downloading and using the mobile application, using the functionalities available on the platform, contacting us through our contact information, and providing us with personal information to communicate with you, you consent to our collection, storage and use of your information on the terms contained in this privacy policy. You may withdraw your consent at any time by sending us your request through our contact information.'
+          title:'WIE ERHALTEN SIE MEINE ZUSTIMMUNG?',
+          text:'Durch das Herunterladen und die Nutzung der mobilen Anwendung, die Nutzung der auf der Plattform verfügbaren Funktionen, die Kontaktaufnahme mit uns über unsere Kontaktinformationen und das Senden persönlicher Daten an uns, um mit Ihnen zu kommunizieren, stimmen Sie der Sammlung, Speicherung und Nutzung Ihrer Daten zu den in dieser Datenschutzbestimmung enthaltenen Bedingungen zu. Sie können Ihre Zustimmung jederzeit widerrufen, indem Sie Ihre Anfrage über unsere Kontaktinformationen senden.'
         },
         three:{
-          title:'3. TYPES OF INFORMATION COLLECTED',
-          text:"Information you provide to us. You provide information when you use the functionalities available on the platform and/or communicate with us through our contact information or contact forms. As a result of those actions, you may provide us with the following information:",
+          title:'ARTEN DER GESAMMELTEN INFORMATIONEN',
+          text:"Die Informationen, die wir von unseren Nutzern sammeln, helfen uns, die Nutzererfahrung auf der Plattform kontinuierlich zu verbessern. Dies sind die Arten von Informationen, die wir sammeln: Informationen, die Sie uns zur Verfügung stellen. Sie stellen uns Informationen zur Verfügung, wenn Sie die auf der Plattform verfügbaren Funktionalitäten nutzen und/oder mit uns über unsere Kontaktinformationen oder Kontaktformulare kommunizieren. Als Ergebnis dieser Aktionen können Sie uns die folgenden Informationen zur Verfügung stellen:",
           li:'Name',
           li2:'E-mail address',
-          li3:'Any additional information related to you that you provide to us directly or indirectly through our platform.',
-          text2:'FyndFit will not collect any personally identifiable information about you unless you provide it.',
-          text3:'Information Collected Automatically: By accessing and using the platform, you automatically provide us with the following information:',
-          li4:"Your IP address ",
-          li5:'Your operating system',
-          li6:'Referrer URLs',
+          li3:'Alle weiteren Informationen, die Sie uns direkt oder indirekt über unsere Plattform zur Verfügung stellen.',
+          text2:'FyndFit sammelt keine persönlich identifizierbaren Informationen über Sie, es sei denn, Sie stellen diese zur Verfügung.',
+          text3:'Automatisch gesammelte Informationen: Indem Sie auf die Plattform zugreifen und diese nutzen, stellen Sie uns automatisch die folgenden Informationen zur Verfügung:',
+          li4:"Ihre IP-Adresse  ",
+          li5:'Ihr Betriebssystem',
+          li6:'Verweisende URLs',
           app:{
-            bold:' Firebase (Mobile app):' ,
-          normal:' We use Firebase Crashlytics and Firebase Analytics provided by Google, Inc. of the United States ("Google") and certain functionalities such as Firebase Crashlytics, Firebase Analytics, Google Analytics, Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication, etc. These tools and technologies collect and analyse certain types of information, such as feature usage metrics and statistics, usage history, unique device identifiers and other similar information. The information generated by Firebase may be transmitted to and stored by Google on servers in the United States. We use Firebase to improve our platform. '
+            bold:'Firebase (Mobil-App):' ,
+          normal:'  Wir verwenden Firebase Crashlytics und Firebase Analytics, die von Google, Inc. in den Vereinigten Staaten ("Google") bereitgestellt werden, sowie bestimmte Funktionen wie Firebase Crashlytics, Firebase Analytics, Google Analytics, Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication usw. Diese Tools und Technologien sammeln und analysieren bestimmte Arten von Informationen, wie Metriken und Statistiken zur Nutzung der Funktionen, den Nutzungsverlauf, eindeutige Gerätekennungen und andere ähnliche Informationen. Die von Firebase generierten Informationen können an Google übertragen und von Google auf Servern in den Vereinigten Staaten gespeichert werden. Wir verwenden Firebase, um unsere Plattform zu verbessern. '
         },
-        text4:"Please refer to Firebase's privacy policy: ",
+        text4:"Firebase (Mobil-App): ",
         link:'https://firebase.google.com/support/privacy.',
-        contact:{bold:'Contact information: ',normal:'We may access some personal information about the user, such as name and email address when the user or any third party communicates with us through our contact information. Personal information provided through our contact information is not stored on any FyndFit server and will be stored on the respective server of our email service.'},
+        contact:{bold:'Kontaktinformationen:',normal:': Wir können auf einige persönliche Daten des Nutzers, wie Name und E-Mail-Adresse, zugreifen, wenn der Nutzer oder ein Dritter mit uns über unsere Kontaktinformationen kommuniziert. Persönliche Daten, die über unsere Kontaktinformationen gesendet werden, werden nicht auf einem Server von FyndFit gespeichert, sondern auf dem jeweiligen Server unseres E-Mail-Services.'},
 
         },
         four:{
-          title:'4. HOW LONG WE KEEP YOUR DATA',
-          text:'Personal data provided by users through the platform and our services will be retained for as long as necessary to provide our plans and the functionalities available on the platform or until the user requests the deletion of his data. FyndFit may retain personal data for a longer period provided that the user has consented to such processing, as long as such consent is not withdrawn. In addition, FyndFit may be obliged to retain personal data for a longer period provided that this is required for compliance with a legal obligation or by order of an authority. Once the retention period has expired, the personal data will be deleted. Therefore, the right to access, the right of deletion, the right of rectification and the right to data portability cannot be asserted after the retention period has expired.'
+          title:'WIE LANGE WIR IHRE DATEN AUFBEWAHREN',
+          text:'Personenbezogene Daten, die von Nutzern über die Plattform und unsere Services bereitgestellt werden, werden so lange aufbewahrt, wie es für die Bereitstellung unserer Pläne und der auf der Plattform verfügbaren Funktionen erforderlich ist, oder bis der Nutzer die Löschung seiner Daten verlangt. FyndFit kann personenbezogene Daten länger aufbewahren, wenn der Nutzer in eine solche Verarbeitung eingewilligt hat, solange diese Einwilligung nicht widerrufen wird. Darüber hinaus kann FyndFit verpflichtet sein, personenbezogene Daten für einen längeren Zeitraum aufzubewahren, wenn dies zur Erfüllung einer gesetzlichen Verpflichtung oder auf Anordnung einer Behörde erforderlich ist. Nach Ablauf der Aufbewahrungsfrist werden die personenbezogenen Daten gelöscht. Das Recht auf Auskunft, Löschung, Berichtigung und Datenübertragbarkeit kann daher nach Ablauf der Aufbewahrungsfrist nicht mehr ausgeübt werden.'
         },
         five:{
-          title:'5. HOW WE USE YOUR INFORMATION. ',
-          text:"In general, we use the information we collect primarily to provide, maintain, protect and improve our platform and our current services. We use personal information collected through our platform as described below:",
-          li:'Provide the mobile application (Available on Google Play and App Store).',
-          li2:'Provide the functionalities available on the platform.',
-          li3:'Understand and improve your experience using our platform.',
-          li4:'Respond to your comments or questions through our contact information.',
-          li5:'Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.',
-          li6:'Communicate with you about upcoming events and news about FyndFit.',
-          li6:'FyndFit marketing purposes.',
-          li7:'Link or combine your information with other data we obtain from third parties to help us understand your needs and provide you with better service.',
-          li8:'Protect, investigate and deter fraudulent, unauthorised or illegal activities.',
+          title:'. WIE WIR IHRE INFORMATIONEN VERWENDEN ',
+          text:"Im Allgemeinen verwenden wir die von uns gesammelten Informationen in erster Linie, um unsere Plattform und unsere aktuellen Services bereitzustellen, zu pflegen, zu schützen und zu verbessern. Wir verwenden die über unsere Plattform gesammelten persönlichen Informationen wie unten beschrieben:",
+          li:'Bereitstellung der Mobil-App (verfügbar bei Google Play und im App Store)',
+          li2:'Bereitstellung der auf der Plattform verfügbaren Funktionen',
+          li3:'Verstehen und Verbessern Ihrer Erfahrung mit unserer Plattform',
+          li4:'Beantwortung Ihrer Kommentare oder Fragen über unsere Kontaktinformationen',
+          li5:'Zusendung von Informationen, einschließlich Bestätigungen, Rechnungen, technischen Hinweisen, Updates, Sicherheitswarnungen und Nachrichten an den Support und die Verwaltung',
+          li6:'Kommunikation mit Ihnen über bevorstehende Veranstaltungen und Neuigkeiten über FyndFit',
+          li6:'FyndFit Marketing-Zwecke',
+          li7:'Verknüpfung oder Kombination Ihrer Daten mit anderen Daten, die wir von Dritten erhalten, um Ihre Bedürfnisse besser zu verstehen und Ihnen einen besseren Service zu bieten',
+          li8:'Schutz, Untersuchung und Verhinderung von betrügerischen, unbefugten oder illegalen Aktivitäten',
 
         },
         six:{
-          title:'6. HOW WE SHARE INFORMATION',
-          text:'Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.',
+          title:'WIE WIR INFORMATIONEN TEILEN',
+          text:'Informationen über unsere Kunden sind ein wichtiger Teil unseres Geschäfts, und wir verkaufen sie nicht an Dritte. Wir teilen Kundeninformationen nur wie unten beschrieben.',
           providers:{
-          bold:'Third-Party Service Providers.',
-          normal:' We use third-party services to perform certain functions on our platform. Some of these functions and services are: Building and hosting the platform, performing tracking and analytics functions on the platform (Firebase Crashlytics, Firebase Analytics, Google Analytics), providing storage services (Cloud Firestore), providing authentication services (Firebase Authentication), providing performance and dynamic linking services (Firebase Performance Monitoring, Firebase Dynamic Links), displaying and personalising advertisements (Facebook, AppLovin), and providing CDN services (bunny.net). These third-party services and tools may have access to personal information needed to perform their functions, but may not use that information for other purposes. Information shared with these third-party services will be treated and stored by their respective privacy policies and our privacy policy.'
+          bold:'Drittanbieter von Services',
+          normal:'. Wir nutzen Services von Drittanbietern, um bestimmte Funktionen auf unserer Plattform auszuführen. Einige dieser Funktionen und Services umfassen: Aufbau und Hosting der Plattform, Durchführung von Tracking und Analysen auf der Plattform (Firebase Crashlytics, Firebase Analytics, Google Analytics), Bereitstellung von Speicherdiensten (Cloud Firestore), Bereitstellung von Authentifizierungsdiensten (Firebase Authentication), Bereitstellung von Performance- und dynamischen Verlinkungsdiensten (Firebase Performance Monitoring, Firebase Dynamic Links), Anzeige und Individualisierung von Werbung (Facebook, AppLovin) und Bereitstellung von CDN-Diensten (bunny.net).  Diese Services und Tools von Drittanbietern haben möglicherweise Zugriff auf personenbezogene Daten, die zur Ausführung ihrer Funktionen erforderlich sind, dürfen diese Daten jedoch nicht für andere Zwecke verwenden. Informationen, die mit diesen Services von Drittanbietern geteilt werden, werden in Übereinstimmung mit deren jeweiligen Datenschutzbestimmungen und unserer Datenschutzbestimmung behandelt und gespeichert.  '
         },
           business:{
-            bold:'Business Transfers. ',
-            normal:'In the event FyndFit creates, merges with, or is acquired by another entity, your information will likely be transferred. FyndFit will send you an email or post a prominent notice on our platform before your information becomes subject to another privacy policy.'
+            bold:'Geschäftsübertragungen.',
+            normal:'. Für den Fall, dass FyndFit ein anderes Unternehmen gründet, mit diesem fusioniert oder von diesem übernommen wird, werden Ihre Daten wahrscheinlich übertragen. FyndFit sendet Ihnen eine E-Mail oder veröffentlicht einen deutlichen Hinweis auf unserer Plattform, bevor Ihre Daten Gegenstand einer anderen Datenschutzrichtlinie werden.'
           },
           protection:{
-            bold:'Protection of FyndFit and Others. ',
-            normal:'We release personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and conditions and other agreements, or protect the rights, property, or safety of FyndFit, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.'
+            bold:'Schutz von FyndFit und anderen.  ',
+            normal:'Wir geben personenbezogene Daten frei, wenn wir der Meinung sind, dass die Freigabe angemessen ist, um das Gesetz einzuhalten, unsere AGBs und andere Vereinbarungen durchzusetzen oder anzuwenden oder die Rechte, das Eigentum oder die Sicherheit von FyndFit, unseren Benutzern oder anderen zu schützen. Dazu gehört auch das Teilen von Informationen mit anderen Unternehmen und Organisationen zum Schutz vor Betrug und zur Verringerung des Kreditrisikos.'
           } ,
           anonymous:{
-            bold:'Anonymous Information. ',
-            normal:'FyndFit uses anonymous browsing information collected automatically by our servers primarily to help us administer and improve the platform. We may also use aggregated anonymous information to provide information about the Platform to potential business partners and other unaffiliated entities. This information is not personally identifiable.'
+            bold:'Anonyme Informationen. ',
+            normal:' FyndFit verwendet anonyme Browsing-Informationen, die automatisch von unseren Servern gesammelt werden, in erster Linie, um uns bei der Verwaltung und Verbesserung der Plattform zu helfen. Wir können auch aggregierte anonyme Informationen verwenden, um potenziellen Geschäftspartnern und anderen nicht kooperierenden Unternehmen Informationen über die Plattform zur Verfügung zu stellen. Diese Informationen sind nicht persönlich identifizierbar. '
           } ,
         },
         seven:{
-          title:'7. PROTECTION OF YOUR INFORMATION',
-          text:'We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you provide through the website and platform. If transactions are processed on the website, transaction information is transmitted to and from the platform in encrypted form using industry-standard SSL connections to help protect such information from interception. We restrict authorised access to your personal information to those persons who have a legitimate need to know that information and to those persons you have authorised to have access to that information. FyndFit follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once FyndFit receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while FyndFit strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.',
+          title:'SCHUTZ IHRER INFORMATIONEN',
+          text:'Wir arbeiten daran, die Sicherheit Ihrer Daten während der Übertragung zu schützen, indem wir Secure Sockets Layer (SSL)-Software verwenden, die die von Ihnen über die Website und die Plattform übermittelten Daten verschlüsselt. Wenn Transaktionen über die Website durchgeführt werden, werden die Transaktionsdaten in verschlüsselter Form über dem Industriestandard entsprechende SSL-Verbindungen zur und von der Plattform übertragen, um diese Daten vor dem Abfangen zu schützen. Wir beschränken den autorisierten Zugriff auf Ihre persönlichen Daten auf die Personen, die einen legitimen Grund haben, diese Daten zu kennen, und auf die Personen, denen Sie Zugriff auf diese Daten gewährt haben. FyndFit hält sich an allgemein anerkannte Industriestandards, um an uns gesendete persönliche Daten sowohl während der Übertragung als auch nach dem Empfang durch FyndFit zu schützen. Keine Methode der Übertragung über das Internet und keine Methode der elektronischen Speicherung ist 100% sicher. Obwohl FyndFit alle Anstrengungen unternimmt, handelsübliche Mittel zum Schutz Ihrer persönlichen Daten einzusetzen, können wir daher keine absolute Sicherheit garantieren. Wir werden Ihre persönlichen Daten nicht an Dritte verkaufen, teilen oder vermieten, es sei denn, wir haben Ihre Erlaubnis oder sind gesetzlich dazu verpflichtet, dies zu tun.',
 
         },
         eight:{
-          title:'8. RIGHTS ',
-          text:'Users who provide information through our platform, as data subjects, have the right to access, rectify, download or delete their information, as well as to restrict and oppose certain processing of their information. While some of these rights apply generally, others only apply in certain limited circumstances. These rights are described below:',
+          title:'RECHTE  ',
+          text:'Nutzer, die Informationen über unsere Plattform zur Verfügung stellen, haben als betroffene Personen das Recht, auf ihre Informationen zuzugreifen, sie zu korrigieren, herunterzuladen oder zu löschen und bestimmte Verarbeitungen ihrer Informationen einzuschränken oder abzulehnen. Während einige dieser Rechte allgemein gelten, gelten andere nur unter bestimmten begrenzten Umständen. Diese Rechte werden im Folgenden beschrieben:',
           li:{
-            bold:'Access and portability: ',
-            normal:'to access and know what information is stored on our servers, you can send us your request through our contact information.'
+            bold:'	Zugang und Übertragbarkeit:',
+            normal:'● Wenn Sie wissen möchten, welche Informationen auf unseren Servern gespeichert sind, können Sie Ihre Anfrage über unsere Kontaktinformationen senden.'
           },
           li2:{
-            bold:'to access and know what information is stored on our servers, you can send us your request through our contact information.',
-            normal:'You may also rectify, restrict, limit or delete much of your information.'
+            bold:'Berichtigung, Einschränkung, Begrenzung und Löschung:',
+            normal:' Sie können auch einen großen Teil Ihrer Daten berichtigen, einschränken, begrenzen oder löschen.'
           },
           li3:{
-            bold:'Right to be informed: ',
-            normal:'Users of our platform will be informed, upon request, about what data we collect, how it is used, how long it is kept and whether it is shared with third parties.'
+            bold:'Auskunftsrecht:',
+            normal:' Nutzer unserer Plattform werden auf Anfrage darüber informiert, welche Daten wir sammeln, wie sie verwendet werden, wie lange sie aufbewahrt werden und ob sie mit Dritten geteilt werden.'
           },
           li4:{
-            bold:'Object: ',
-            normal:'Where we process your data based on our legitimate interests, as explained above, or in the public interest, you may object to this processing in certain circumstances. In such cases, we will stop processing your information unless we have legitimate grounds to continue processing it or where necessary for legal reasons.'
+            bold:'	Widerspruch: ',
+            normal:'● Wenn wir Ihre Daten auf der Grundlage unserer berechtigten Interessen, wie oben erläutert, oder im öffentlichen Interesse verarbeiten, können Sie dieser Verarbeitung unter bestimmten Umständen widersprechen. In solchen Fällen werden wir die Verarbeitung Ihrer Daten einstellen, es sei denn, wir haben legitime Gründe, sie weiter zu verarbeiten, oder sie ist aus rechtlichen Gründen erforderlich.'
           },
           li5:{
-            bold:'Withdraw consent: ',
-            normal:'Where you have previously given your consent, for example, to allow us to process and store your personal information, you have the right to withdraw your consent to the processing and storage of your information at any time. For example, you can withdraw your consent by updating your settings. In certain cases, we may continue to process your information after you have withdrawn your consent if we have a lawful basis for doing so or if your withdrawal of consent was limited to certain processing activities.'
+            bold:'	Entzug der Einwilligung: ',
+            normal:'● Wenn Sie zuvor Ihre Einwilligung gegeben haben, z.B. um uns zu erlauben, Ihre personenbezogenen Daten zu verarbeiten und zu speichern, haben Sie das Recht, Ihre Einwilligung zur Verarbeitung und Speicherung Ihrer Daten jederzeit zu widerrufen. Sie können Ihre Einwilligung widerrufen, indem Sie zum Beispiel Ihre Einstellungen aktualisieren. In bestimmten Fällen können wir Ihre Daten auch nach dem Widerruf Ihrer Einwilligung weiterverarbeiten, wenn wir eine rechtmäßige Grundlage dafür haben oder wenn Ihr Widerruf der Einwilligung auf bestimmte Verarbeitungstätigkeiten beschränkt war.'
           },
           li6:{
-            bold:'Complaint: ',
-            normal:'If you wish to complain about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority. Users may exercise all of these rights by contacting us via the contact information or contact page.'
+            bold:'Beanstandung: ',
+            normal:' Wenn Sie sich über die Verwendung Ihrer Daten durch uns beschweren möchten (und unbeschadet aller anderen Rechte, die Sie möglicherweise haben), haben Sie das Recht, dies bei Ihrer örtlichen Aufsichtsbehörde zu tun. Sie können alle diese Rechte ausüben, indem Sie sich über die Kontaktinformationen oder die Kontaktseite an uns wenden.'
           },
           li7:{
-            bold:'Rights related to automated decision-making, including profiling: ',
-            normal:'Users may request that we provide them with a copy of the automated processing activities we conduct if they believe that data is being unlawfully processed.'
+            bold:'Rechte im Zusammenhang mit der automatisierten Entscheidungsfindung, einschließlich Profiling: ',
+            normal:'Nutzer können von uns eine Kopie der von uns durchgeführten automatisierten Verarbeitung verlangen, wenn sie glauben, dass die Daten unrechtmäßig verarbeitet werden.'
           },
-          text2:'Users or owners of the personal data they provide through the platform can exercise these rights over their data at any time and without any limitation by sending us their requests through our contact information.'
+          text2:'Nutzer oder Inhaber der personenbezogenen Daten, die sie über die Plattform zur Verfügung stellen, können diese Rechte in Bezug auf ihre Daten jederzeit und ohne Einschränkung ausüben, indem sie uns ihre Anfragen über unsere Kontaktinformationen zusenden.'
         },
         nine:{
-          title:"9. PROTECTION OF CHILDREN'S ONLINE PRIVACY ",
-          text:"We comply with national and international regulations regarding the protection of children's personal information. We do not collect information from children under the age of 13. If we learn that a child under 13 has provided us with personal information, we will take immediate steps to delete that information."
+          title:"SCHUTZ DER ONLINE-PRIVATSPHÄRE VON KINDERN  ",
+          text:"Wir halten die nationalen und internationalen Vorschriften zum Schutz der persönlichen Daten von Kindern ein. Wir sammeln keine Informationen von Kindern unter 13 Jahren. Wenn wir erfahren, dass ein Kind unter 13 Jahren uns personenbezogene Daten zur Verfügung gestellt hat, ergreifen wir unverzüglich Maßnahmen, um diese Daten zu löschen."
         },
         ten:{
-          title:"10. THIRD PARTIES",
-          text:"Except as expressly included in this privacy policy, this document addresses only the use and disclosure of information FyndFit collects from you. If you disclose your information to others, whether other users or FyndFit vendors, different rules may apply to their use or disclosure of the information you disclose to them. FyndFit does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. FyndFit is not responsible for the privacy or security practices of other Internet platforms, including those linked to or from the FyndFit platform. FyndFit encourages you to ask questions before disclosing your personal information to others."
+          title:"DRITT-PARTEIEN",
+          text:"Sofern nicht ausdrücklich in dieser Datenschutzbestimmung angegeben, befasst sich dieses Dokument nur mit der Verwendung und Offenlegung von Informationen, die FyndFit von Ihnen sammelt. Wenn Sie Ihre Daten mit anderen teilen, sei es mit anderen Nutzern oder mit FyndFit-Anbietern, können für deren Nutzung oder Offenlegung der von Ihnen geteilten Daten andere Regeln gelten. FyndFit hat keine Kontrolle über die Datenschutzrichtlinien Dritter, und Sie unterliegen möglicherweise den Datenschutzrichtlinien dieser Dritten. FyndFit ist nicht verantwortlich für die Datenschutz- oder Sicherheitspraktiken anderer Internetplattformen, einschließlich derer, die mit der FyndFit-Plattform verlinkt sind oder von ihr ausgehen. FyndFit ermutigt Sie, Fragen zu stellen, bevor Sie Ihre persönlichen Daten mit Dritten teilen."
         },
         eleven:{
-          title:"11. CONTACT ",
-          text:"If you have questions or concerns about this privacy policy and the treatment and security of your data, please contact us using the contact information below:",
+          title:"KONTAKT",
+          text:"Wenn Sie Fragen oder Bedenken bezüglich dieser Datenschutzbestimmungen und der Behandlung und Sicherheit Ihrer Daten haben, wenden Sie sich bitte an uns unter den unten angegebenen Kontaktdaten:",
           copyright:'AppBuildr Limited - FyndFit.',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
       }
     },
+
     cookie:{
-      title:'COOKIE POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      title:'COOKIE-RICHTLINIE',
+      welcomeText:'Willkommen bei FyndFit!',
+      text:'FyndFit ist ein Unternehmen von AppBuildr Limited und wird von diesem betrieben.',
+      text2:'Diese Cookie-Richtlinie erklärt, wie und warum Cookies und andere ähnliche Technologien auf Ihrem Gerät gespeichert werden und wie Sie darauf zugreifen können, wenn Sie unseren Shop nutzen oder besuchen:',
       link:'https://fyndfit.com',
-      text3:'(Hereinafter referred to as “FyndFit”).',
-      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      text3:'(im Folgenden als "FyndFit" bezeichnet).',
+      text4:'Die durch Cookies gesammelten Informationen liegen in der Verantwortung und Zuständigkeit von:',
       li:'AppBuildr Limited.',
       li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
-      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
-      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      text5:'Diese Cookie-Richtlinie sollte in Verbindung mit unserer Datenschutzbestimmung und den Allgemeinen Geschäftsbedingungen gelesen werden.',
+      text6:' Durch die Nutzung der Website erklären Sie sich mit der Verwendung von Cookies durch FyndFit in Übereinstimmung mit den in dieser Richtlinie enthaltenen Bedingungen einverstanden. ',
       points:{
         one:{
-          title:'1. WHAT ARE COOKIES?',
-          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+          title:'WAS SIND COOKIES?',
+          text:'Cookies sind kleine Textdateien, die auf Ihrem Computer oder Mobilgerät gespeichert werden, wenn Sie eine Website besuchen. Sie ermöglichen es der Website, Ihr Gerät zu erkennen und sich zu merken, ob Sie die Website schon einmal besucht haben. Cookies sind eine weit verbreitete Webtechnologie; die meisten Websites verwenden Cookies, und das schon seit Jahren. Cookies werden häufig verwendet, um die Website effizienter zu gestalten. Cookies werden verwendet, um zu erfassen, welche Teile der Website von den Nutzern besucht werden, und um deren Erfahrungen zu individualisieren. Cookies liefern auch Informationen, die uns helfen, die Leistung der Website zu überwachen und zu verbessern.'
         },
         two:{
-          title:'2. COOKIE SETTINGS',
-          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
-          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          title:'COOKIE-EINSTELLUNGEN',
+          text:'Wenn Sie nicht möchten, dass Cookies auf Ihrem Gerät gespeichert werden, können Sie Ihren Internet-Browser so einstellen, dass er alle oder einige Cookies ablehnt und Sie warnt, wenn ein Cookie auf Ihrem Gerät gespeichert wird. Weitere Informationen hierzu finden Sie in der "Hilfe", im " Tool" oder im "Bearbeiten"-Bereich Ihres Browsers. Bitte beachten Sie, dass Sie, wenn Sie Ihren Browser so einstellen, dass er alle Cookies blockiert, auch solche, die unbedingt erforderlich sind, möglicherweise nicht auf alle oder einen Teil der Funktionen der Website zugreifen oder diese nutzen können.',
+          text2:'Wenn Sie zuvor gespeicherte Cookies entfernen möchten, können Sie die Cookies jederzeit manuell löschen. Dies wird jedoch nicht verhindern, dass die Website weitere Cookies auf Ihrem Gerät platziert, es sei denn, Sie passen die Einstellungen Ihres Internetbrowsers wie oben beschrieben an. Wir haben die Links zum Verwalten und Blockieren von Cookies je nach dem von Ihnen verwendeten Browser verlinkt: ',
           link1:{
             text:'Microsoft Edge:',
             link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
@@ -1496,40 +1497,39 @@ export const LANGUAGE = {
           link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
           link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
           link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
-          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+          text3:'Wenn Sie von einem iOS- oder Android-Mobilgerät auf die Website zugreifen, befolgen Sie bitte die nachstehenden Anweisungen zum Löschen oder Blockieren von Cookies auf Ihrem Gerät:'
         },
         three:{
-          title:'3. FIRST-PARTY COOKIES',
-          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+          title:'ERSTANBIETER-COOKIES',
+          text:'Wir verwenden Cookies, um die Leistung unserer Website zu verbessern und Ihr Online-Erlebnis zu individualisieren. Cookies helfen uns bei der Erhebung von Informationen darüber, wie Besucher unsere Website nutzen und welche Seiten sie besuchen. Sie ermöglichen es uns, die Anzahl der Besucher zu überwachen und die Nutzungsmuster und Trends der Website zu analysieren. Wir sammeln diese Informationen anonym, so dass sie niemanden als Individuum identifizieren, und es werden keine persönlichen Informationen in unseren Cookies gespeichert. Wir gehen stets verantwortungsbewusst mit Cookie-Daten um.'
         },
         fore:{
-          title:'4. THIRD-PARTY COOKIES',
-          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+          title:'COOKIES VON DRITTANBIETERN',
+          text:'Cookies von Drittanbietern können von Partnern oder Drittunternehmen stammen, die funktionale Webservices oder Tools für unsere Website und das optimale Funktionieren und den Betrieb unserer Dienste bereitstellen. Wir verwenden Cookies von Drittanbietern verantwortungsvoll und ausschließlich zu dem Zweck, das optimale Funktionieren der Plattform und der Services zu gewährleisten. Sie können diese Cookies ablehnen, indem Sie die in diesem Dokument enthaltenen Informationen zum Entfernen von Cookies oder die technischen Informationen des Browsers befolgen, den Sie für den Zugriff auf unsere Website und unsere Services verwenden.'
         },
         five:{
-          title:'5. PURPOSES OF OUR COOKIES',
-          text:'Our cookies are used for the following purposes:',
+          title:'VERWENDUNG UNSERER COOKIES',
+          text:'Unsere Cookies werden für die folgenden Zwecke verwendet:',
           strictlyNecessary:{
-            bold:'Strictly Necessary: ',
-            normal:'These cookies are essential for the website to perform its basic functions.'
+            bold:'Streng Notwendig:',
+            normal:' Diese Cookies sind essentiell, damit die Website ihre Grundfunktionen erfüllen kann.'
           } ,
           security:{
-            bold:'Security: ',
-            normal:'We use these cookies to help identify and prevent potential security risks.'
+            bold:'Sicherheit:',
+            normal:` Wir verwenden diese Cookies, um potenzielle Sicherheitsrisiken zu erkennen und zu verhindern.`
           } ,
           performance:{
-            bold:'Performance: ',
-            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+            bold:'Leistung:',
+            normal:' Leistungs-Cookies sammeln Informationen darüber, wie Nutzer mit unserer Website interagieren, einschließlich der am häufigsten besuchten Seiten, sowie andere analytische Daten. Wir verwenden diese Daten, um die Funktionsweise unserer Website zu verbessern und um zu verstehen, wie die Nutzer mit ihr interagieren.'
           },
           analytics:{
-            bold:'Analytics. ',
-            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+            bold:'Analytik. ',
+            normal:' Wir verwenden Google Analytics als Datenanalysetool. Diese Tools und Technologien sammeln und analysieren bestimmte Arten von Informationen, wie z. B. IP-Adressen, Geräte- und Softwarekennungen, verweisende und Ausgangs-URLs, Metriken und Statistiken zur Nutzung von Funktionen, MAC-Adressen (Media Access Control), eindeutige Kennungen von Mobilgeräten und andere ähnliche Informationen durch die Verwendung von Cookies. Wir verwenden die GOOGLE Analytics data collection, um unsere Plattformen und Services zu verbessern.'
           }
         },
         six:{
-          title:'6. CONTACT US',
-          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
-          copyright:'AppBuildr Limited - FyndFit.',
+          title:'. KONTAKTIEREN SIE UNS',
+          text:'Wenn Sie Fragen oder Bedenken bezüglich dieser Cookie-Richtlinie und der Verarbeitung und Sicherheit Ihrer Daten haben, wenden Sie sich bitte an uns unter den unten angegebenen Kontaktinformationen:',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
       }
@@ -1537,77 +1537,75 @@ export const LANGUAGE = {
     },
     
     terms: {
-      title:'TERMS AND CONDITIONS',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'These are the terms and conditions for: ',
-      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      title:'ALLGEMEINE GESCHÄFTSBEDINGUNGEN',
+      welcomeText:'Willkommen bei FyndFit!',
+      text:'FyndFit ist ein Unternehmen, das von AppBuildr Limited betrieben wird.',
+      text2:'Dies sind die Allgemeinen Geschäftsbedingungen (AGBs) für:  ',
+      li:'●	FyndFit Mobil-App (erhältlich bei Google Play und im App Store).',
       li2:'https://fyndfit.com',
-      text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
-      text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text3:'Durch die Nutzung der Plattform erklären Sie sich mit den vorliegenden Allgemeinen Geschäftsbedingungen und unserer Datenschutzbestimmung einverstanden. In diesen Allgemeinen Geschäftsbedingungen beziehen sich die Wörter "Plattform" auf die Mobil-App und die Website von FyndFit, "wir", "uns", "unser" und "FyndFit" auf FyndFit, und "Sie" und "Nutzer" auf Sie, den Nutzer von FyndFit.',
+      text4:'Die folgenden Bedingungen gelten für Ihre Nutzung der Plattform. Dies gilt auch für die mobile und die Tablet-Version sowie für jede andere Version von FyndFit, die über Desktop, Handy, Tablet, soziale Medien oder andere Geräte zugänglich ist.',
+      text5:'BITTE LESEN SIE DIESE BEDINGUNGEN SORGFÄLTIG DURCH, BEVOR SIE DIE AUF DER PLATTFORM VERFÜGBAREN FUNKTIONEN HERUNTERLADEN UND NUTZEN',
       
 
     points:{
       one:{
-        title:'1. ACCEPTANCE OF TERMS',
-        text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
-        text2:'Use of the platform is prohibited for children under the age of 13. In the case of children under 18 and over 13, it is the responsibility of parents and legal guardians to determine whether the use of the platform or any of the content and functionality available on the platform is appropriate for their child or minor in custody. ',
-          text3:'By using the platform, you represent and warrant that you have the full right, power and authority to enter into this agreement and to fully perform all of your obligations hereunder. You further represent and warrant that you are under no legal disability or contractual restriction that prevents you from entering into this agreement.'
+        title:'. AKZEPTANZ DER ALLGEMEINEN GESCHÄFTSBEDINGUNGEN',
+        text:'Durch die Nutzung der Plattform erklären Sie sich mit dieser Vereinbarung einverstanden. Wenn Sie die Bedingungen dieser Vereinbarung nicht akzeptieren, dürfen Sie die Plattform nicht nutzen und sollten die Nutzung der Plattform unverzüglich einstellen. Wir können diese Vereinbarung von Zeit zu Zeit ändern, und eine solche Änderung wird mit ihrer Veröffentlichung auf der Plattform wirksam. Wenn Sie FyndFit nach der Veröffentlichung einer solchen Änderung nutzen, erklären Sie sich damit einverstanden, an diese Änderungen gebunden zu sein, weshalb es wichtig ist, dass Sie diese Vereinbarung regelmäßig überprüfen.',
+        text2:'Kindern unter 13 Jahren ist die Nutzung der Plattform untersagt. Bei Kindern unter 18 und über 13 Jahren liegt es in der Verantwortung der Eltern und Erziehungsberechtigten zu entscheiden, ob die Nutzung der Plattform oder der auf der Plattform verfügbaren Inhalte und Funktionen für ihr Kind oder den Minderjährigen unter ihrer Aufsicht angemessen ist.  ',
+          text3:'Durch die Nutzung der Plattform erklären und garantieren Sie, dass Sie das volle Recht, die Macht und die Befugnis haben, diese Vereinbarung einzugehen und alle Ihre Verpflichtungen im Rahmen dieser Vereinbarung vollständig zu erfüllen. Sie sichern ferner zu und gewährleisten, dass Sie keinen rechtlichen oder vertraglichen Beschränkungen unterliegen, die Sie daran hindern, diese Vereinbarung zu schließen.'
       },
       two:{
-          title:'2. DISCLAIMER',
-          text:"By accessing the platform and the functionality available on the platform, the user accepts personal responsibility for the results of the use of the information and content available on the platform. The user accepts and represents that FyndFit does NOT guarantee any benefit or positive outcome from the use of the information the user obtains through the use of the platform. FyndFit provides the content for informational and educational purposes only. You acknowledge that your ultimate success or failure will be the result of your own efforts, your particular situation, and a variety of circumstances beyond FyndFit's control. Your use or misuse of any content or information obtained through the use of the platform is at your own risk and responsibility. FyndFit does not accept any claims for the use or misuse of information obtained through the use of the platform.",
-          text2:'By using the platform, you represent that you understand that physical exercise involves strenuous physical movements that may carry risks of physical injury. You understand that it is your responsibility to judge your physical capabilities for such activities. It is your responsibility to ensure that, when participating in the activities included in the content, you will not exceed your limits in performing such activities, and you will select the level of exertion appropriate to your capabilities and abilities, as well as any mental or physical conditions and/or limitations you may have. You understand that, from time to time, FyndFit may suggest exercises and fitness routines or the use of equipment, and it is your sole responsibility to determine whether such suggested exercises or equipment are appropriate for your level of physical and mental ability and condition. FyndFit is not responsible for any physical harm you may suffer as a result of your use of the content available on the platform. You expressly waive and release FyndFit from any and all liability or claims in the event that damage occurs as a result of your use of the information and content available on the platform. It is recommended that before engaging in any physical exercise suggested in the content available through our platform, you consult a healthcare professional to assess your physical condition.',
-          text3:'Please note that FyndFit does not provide medical advice. The information and content available on the platform is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. The information and content available on the platform are not intended to diagnose, treat, cure or prevent any disease.',
+          title:'HAFTUNGSAUSSCHLUSS',
+          text:"Durch den Zugriff auf die Plattform und die auf der Plattform verfügbaren Funktionen übernimmt der Nutzer die persönliche Verantwortung für die Ergebnisse der Nutzung der auf der Plattform verfügbaren Informationen und Inhalte. Der Nutzer akzeptiert und erklärt, dass FyndFit KEINE Garantie für irgendeinen Nutzen oder ein positives Ergebnis aus der Nutzung der Informationen übernimmt, die der Nutzer durch die Nutzung der Plattform erhält. FyndFit stellt die Inhalte nur zu Informations- und Bildungszwecken zur Verfügung. Sie erkennen an, dass Ihr endgültiger Erfolg oder Misserfolg das Ergebnis Ihrer eigenen Bemühungen, Ihrer besonderen Situation und einer Vielzahl von Umständen ist, die außerhalb der Kontrolle von FyndFit liegen. Die Nutzung oder der Missbrauch von Inhalten oder Informationen, die Sie durch die Nutzung der Plattform erhalten, erfolgt auf Ihr eigenes Risiko und Ihre eigene Verantwortung. FyndFit haftet nicht für die Nutzung oder den Missbrauch von Informationen, die Sie durch die Nutzung der Plattform erhalten haben.",
+          text2:'Durch die Nutzung der Plattform erklären Sie, dass Sie sich darüber im Klaren sind, dass körperliche Übungen anstrengende körperliche Bewegungen beinhalten, die ein Risiko für körperliche Verletzungen darstellen können. Sie verstehen, dass es in Ihrer Verantwortung liegt, Ihre körperlichen Fähigkeiten für solche Aktivitäten einzuschätzen. Es liegt in Ihrer Verantwortung sicherzustellen, dass Sie Ihre Grenzen nicht überschreiten, wenn Sie an den im Inhalt enthaltenen Aktivitäten teilnehmen, und dass Sie die für Ihre Fähigkeiten und Fertigkeiten sowie Ihre geistigen oder körperlichen Voraussetzungen und/oder Einschränkungen angemessene Stufe der Anstrengung wählen. Sie erkennen an, dass FyndFit von Zeit zu Zeit Übungen und Fitnessroutinen oder die Verwendung von Geräten vorschlägt, und dass es in Ihrer alleinigen Verantwortung liegt, festzustellen, ob solche vorgeschlagenen Übungen oder Geräte für Ihre Stufe der körperlichen und geistigen Fähigkeiten und Ihren Zustand geeignet sind. FyndFit ist nicht verantwortlich für körperliche Schäden, die Sie infolge der Nutzung der auf der Plattform verfügbaren Inhalte erleiden. Sie entbinden FyndFit ausdrücklich von jeglicher Haftung und allen Ansprüchen für den Fall, dass Sie infolge der Nutzung der auf der Plattform verfügbaren Informationen und Inhalte einen Schaden erleiden. Es wird empfohlen, dass Sie vor der Durchführung von körperlichen Übungen, die in den auf unserer Plattform verfügbaren Inhalten vorgeschlagen werden, einen Arzt konsultieren, um Ihre körperliche Verfassung zu beurteilen.',
+          text3:'Bitte beachten Sie, dass FyndFit keine medizinische Beratung anbietet. Die auf der Plattform verfügbaren Informationen und Inhalte sind nicht als Ersatz für eine professionelle medizinische Beratung, Diagnose oder Behandlung gedacht und können auch nicht als solcher ausgelegt werden. Die auf der Plattform verfügbaren Informationen und Inhalte sind nicht dazu gedacht, Krankheiten zu diagnostizieren, zu behandeln, zu heilen oder zu verhindern.',
   
       },
       three:{
-          title:'3. LICENSE TO USE THE PLATFORM',
-          text:'FyndFit grants you a personal, worldwide, royalty-free, non-assignable, non-exclusive license to use the Platform. This license is for the sole purpose of allowing you to use the features available on the platform in the manner permitted by these terms. You may not copy, modify, distribute, sell or lease any part of our platform or included software, nor may you reverse engineer or attempt to extract the source code of such software, unless such restrictions are prohibited by law, or you have our written permission.',
-          text2:"The user agrees not to use the platform and the services negligently, for fraudulent purposes or in an unlawful manner. Likewise, the user agrees not to partake in any conduct or action that could damage the image, interests, or rights of the FyndFit platform or third parties. FyndFit reserves the right to terminate your access immediately, with or without notice, and without liability to you, if FyndFit believes that you have violated any of these terms or interfered with the use of the platform by others. ",
+          title:'LIZENZ ZUR NUTZUNG DER PLATTFORM',
+          text:'FyndFit gewährt Ihnen eine persönliche, weltweite, gebührenfreie, nicht übertragbare, nicht exklusive Lizenz zur Nutzung der Plattform. Diese Lizenz dient ausschließlich dem Zweck, Ihnen die Nutzung der auf der Plattform verfügbaren Funktionen in der durch diese Bedingungen erlaubten Weise zu ermöglichen. Sie dürfen keinen Teil unserer Plattform oder der darin enthaltenen Software kopieren, modifizieren, vertreiben, verkaufen oder vermieten, noch dürfen Sie Reverse Engineering betreiben oder versuchen, den Quellcode dieser Software zu extrahieren, es sei denn, solche Einschränkungen sind gesetzlich verboten oder Sie haben unsere schriftliche Genehmigung.',
+          text2:"Der Nutzer erklärt sich damit einverstanden, die Plattform und die Services nicht fahrlässig, zu betrügerischen Zwecken oder auf ungesetzliche Weise zu nutzen. Ebenso verpflichtet sich der Nutzer, sich nicht an Handlungen zu beteiligen, die dem Bild, den Interessen oder Rechten der FyndFit-Plattform oder Dritter schaden könnten. FyndFit behält sich das Recht vor, Ihren Zugang sofort, mit oder ohne Vorankündigung und ohne Haftung Ihnen gegenüber zu sperren, wenn FyndFit der Ansicht ist, dass Sie gegen diese Bedingungen verstoßen haben oder die Nutzung der Plattform durch andere beeinträchtigen.  ",
   
       },
       four:{
-          title:'4. ADVERTISING',
-          text:'Through the content of the platform, FyndFit may make commercial and advertising information available to users, whether on its own or that of third parties, in accordance with good commercial practices. In these cases, FyndFit does not endorse, guarantee or undertake to respond to the services and/or products marketed by said third parties, as the platform serves as an advertising channel, but not as a tool for the provision of services. Consequently, it is the full responsibility of the users to access third-party sites, assuming the obligation to verify and know the conditions of the services and products offered by said third parties.',
+          title:'WERBUNG',
+          text:'FyndFit kann den Nutzern über den Inhalt der Plattform kommerzielle und werbliche Informationen zur Verfügung stellen, unabhängig davon, ob es sich dabei um eigene Informationen oder um von Dritten bereitgestellte Informationen handelt, in Übereinstimmung mit den guten Geschäftspraktiken. In diesen Fällen unterstützt, garantiert oder verpflichtet sich FyndFit nicht, auf die von diesen Dritten vermarkteten Dienstleistungen und/oder Produkte zu reagieren, da die Plattform als Werbekanal, nicht aber als Instrument für den Service dient. Folglich liegt es in der alleinigen Verantwortung der Nutzer, auf die Seiten Dritter zuzugreifen und sich zu verpflichten, die Bedingungen der von diesen Dritten angebotenen Services und Produkte zu überprüfen und zu kennen.',
           
       },
       five:{
-          title:'5. COPYRIGHT',
-          text:"All materials on FyndFit, including, without limitation, names, logos, trademarks, games, images, text, columns, graphics, videos, photographs, illustrations, software and other elements are protected by copyrights, trademarks and/or other intellectual property rights owned and controlled by FyndFit or by third parties that have licensed or otherwise provided their material to the platform. You acknowledge and agree that all Materials on FyndFit are made available for limited, non-commercial, personal use only. Except as specifically provided herein. No material may be copied, reproduced, republished, sold, downloaded, posted, transmitted, or distributed in any way, or otherwise used for any purpose, by any person or entity, without FyndFit's prior express written permission. You may not add, delete, distort, or otherwise modify the material. Any unauthorised attempt to modify any material, to defeat or circumvent any security features, or to utilise FyndFit or any part of the material for any purpose other than its intended purposes is strictly prohibited.",
+          title:'URHEBERRECHT',
+          text:"Alle Materialien auf FyndFit, einschließlich, aber nicht beschränkt auf Namen, Logos, Marken, Spiele, Bilder, Texte, Spalten, Grafiken, Videos, Fotografien, Illustrationen, Software und andere Elemente, sind durch Urheberrechte, Marken und/oder andere Rechte an geistigem Eigentum geschützt, die FyndFit oder Dritten gehören und von diesen kontrolliert werden, die ihre Materialien lizenziert oder anderweitig der Plattform zur Verfügung gestellt haben. Sie erkennen an und stimmen zu, dass alle Materialien auf FyndFit nur für eine begrenzte, nicht-kommerzielle und persönliche Nutzung bereitgestellt werden. Sofern hierin nicht ausdrücklich etwas anderes vorgesehen ist. Ohne die vorherige ausdrückliche schriftliche Genehmigung von FyndFit darf kein Material kopiert, reproduziert, neu veröffentlicht, verkauft, heruntergeladen, gepostet, übertragen oder in irgendeiner Weise verteilt oder anderweitig für irgendeinen Zweck verwendet werden. Sie dürfen das Material nicht hinzufügen, löschen, verfälschen oder anderweitig verändern. Jeder unbefugte Versuch, das Material zu verändern, Sicherheitsfunktionen zu umgehen oder FyndFit oder Teile des Materials für einen anderen als den vorgesehenen Zweck zu nutzen, ist strengstens untersagt.",
          
       },
       six:{
-          title:'6. COPYRIGHT INFRINGEMENT ',
-          text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"Your name, address, telephone number and email address.",
-          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          title:'VERLETZUNG DES URHEBERRECHTS  ',
+          text:'FyndFit wird auf alle Anfragen, Beschwerden und Ansprüche reagieren, die eine Verletzung der Bestimmungen des britischen und internationalen Urheberrechts und der Gesetze und Vorschriften zum Schutz des geistigen Eigentums betreffen. FyndFit respektiert das geistige Eigentum anderer und erwartet, dass die Nutzer dasselbe tun. Wenn Sie in gutem Glauben davon ausgehen, dass auf der Website von FyndFit bereitgestelltes Material Ihr Urheberrecht oder andere Rechte an geistigem Eigentum verletzt, senden Sie Ihre Anfrage bitte über unsere Kontaktinformationen mit den folgenden Angaben:   ',
+          li:'●	Angabe des geistigen Eigentumsrechts, das angeblich verletzt wurde. Alle relevanten Registrierungsnummern oder eine Erklärung über das Eigentum an dem Werk sollten beigefügt werden.',
+          li2:'●	Eine Erklärung, die den genauen Ort des verletzenden Materials angibt, und zwar so detailliert, dass FyndFit es auf der Plattform ausfindig machen kann. ',
+          li3:"●	Ihren Namen, Ihre Adresse, Telefonnummer und E-Mail-Adresse.",
+          li4:"●	Eine Erklärung von Ihnen, dass Sie in gutem Glauben davon ausgehen, dass die Nutzung des mutmaßlich rechtsverletzenden Materials nicht durch den Urheberrechtsinhaber, seine Makler oder das Gesetz genehmigt ist.",
+          li5:"●	Eine eidesstattliche Erklärung von Ihnen, dass die Informationen in Ihrer Meldung korrekt sind und dass Sie der Urheberrechtsinhaber sind oder befugt sind, im Namen des Urheberrechtsinhabers zu handeln.",
+          li6:"●	Eine elektronische oder physische Unterschrift des Urheberrechtsinhabers oder der Person, die befugt ist, im Namen des Urheberrechtsinhabers zu handeln"
       },
       seven:{
-          title:"7. PROHIBITED ACTIVITIES",
-          text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          title:". VERBOTENE AKTIVITÄTEN",
+          text:"Die auf der Plattform verfügbaren Inhalte und Informationen (einschließlich, aber nicht beschränkt auf Daten, Informationen, Texte, Musik, Ton, Fotos, Grafiken, Videos, Karten, Symbole oder anderes Material) sowie die Infrastruktur, die zur Bereitstellung dieser Inhalte und Informationen verwendet wird, sind Eigentum von FyndFit oder werden von Dritten in Lizenz zur Verfügung gestellt. Für alle Inhalte außer Ihren Inhalten erklären Sie sich damit einverstanden, Informationen, Software oder Dienste, die Sie von oder über die Plattform erhalten haben, nicht anderweitig zu ändern, zu kopieren, zu verteilen, zu übertragen, auszustellen, vorzuführen, zu reproduzieren, zu veröffentlichen, zu lizenzieren, abgeleitete Werke davon zu erstellen, zu übertragen oder zu verkaufen oder weiterzuverkaufen. Darüber hinaus sind die folgenden Aktivitäten verboten:",
+          li:"●	Auf Inhalte der Services zuzugreifen, sie zu überwachen, zu reproduzieren, zu verteilen, zu übertragen, auszustrahlen, anzuzeigen, zu verkaufen, zu lizenzieren, zu kopieren oder anderweitig zu verwerten, einschließlich, aber nicht beschränkt auf die Verwendung von Robotern, Spidern, Scrapern oder anderen automatisierten Mitteln oder manuellen Prozessen zu einem Zweck, der nicht mit dieser Vereinbarung übereinstimmt oder ohne unsere ausdrückliche schriftliche Genehmigung.",
+          li2:"●	Gegen Einschränkungen in den Kopfzeilen von Robotern auf den Services zu verstoßen oder andere Maßnahmen zur Verhinderung oder Einschränkung des Zugriffs auf die Services zu umgehen oder zu umgehen.",
+          li3:"●	Maßnahmen zu ergreifen, die nach unserem alleinigen Ermessen eine unangemessene oder unverhältnismäßig große Belastung unserer Infrastruktur darstellen oder darstellen können.",
+          li4:"●	Ohne unsere ausdrückliche schriftliche Genehmigung einen Deep-Link zu einem Teil der Services zu erstellen",
+          li5:`●	Einen Teil der Plattform ohne unsere vorherige schriftliche Genehmigung in eine andere Website oder einen anderen Service zu "framen", zu "spiegeln" oder anderweitig einzubinden.`,
+          li6:'●	Der Versuch, von FyndFit in Verbindung mit den Services verwendete Softwareprogramme zu verändern, zu übersetzen, anzupassen, zu bearbeiten, zu dekompilieren, zu disassemblieren oder Reverse Engineering vorzunehmen.',
+          li7:'●	Sicherheitsfunktionen der Plattform oder Funktionen, die die Nutzung oder das Kopieren von Inhalten verhindern oder einschränken, zu umgehen, zu deaktivieren oder anderweitig zu stören.'
       },
       eight:{
-          title:"8. DISCLAIMER OF WARRANTIES ",
-          text:`Because of the nature of the Internet FyndFit provides and maintains the platform on an "as is", and "as available" basis and makes no promise that the use of the platform will be uninterrupted or entirely error-free. We are not responsible to you if we are unable to provide our Internet services for any reason beyond our control.
-          Except as provided above we can give no other warranties, conditions or other terms, express or implied, statutory or otherwise and all such terms are hereby excluded to the maximum extent permitted by law.
-          `,
-          text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
-          text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
-          text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"Any incorrect or inaccurate information on the platform.",
+          title:"HAFTUNGSAUSSCHLUSS ",
+          text:`Aufgrund der Beschaffenheit des Internets stellt FyndFit die Plattform im Ist-Zustand und nach Verfügbarkeit zur Verfügung und garantiert nicht, dass die Nutzung der Plattform ununterbrochen oder vollständig fehlerfrei sein wird. Wir haften Ihnen gegenüber nicht, wenn wir unsere Internet Services aus einem Grund, der außerhalb unserer Kontrolle liegt, nicht bereitstellen können.`,
+          text2:"Mit Ausnahme der oben genannten Bestimmungen können wir keine weiteren ausdrücklichen oder stillschweigenden, gesetzlichen oder sonstigen Garantien, Bedingungen oder sonstigen Bestimmungen geben, und alle derartigen Bestimmungen werden hiermit im größtmöglichen gesetzlich zulässigen Umfang ausgeschlossen.",
+          text3:"Sie sind für jeden Verstoß gegen diese Bedingungen verantwortlich, und wenn Sie die Plattform unter Verstoß gegen diese Bedingungen nutzen, sind Sie gegenüber FyndFit haftbar und müssen FyndFit für alle daraus resultierenden Verluste oder Schäden entschädigen.",
+          text4:"FyndFit haftet nicht für die Nichterfüllung von Verpflichtungen aus diesem Vertrag, wenn diese Nichterfüllung auf unvorhergesehene Ereignisse zurückzuführen ist, die außerhalb der Kontrolle von FyndFit liegen, einschließlich, aber nicht beschränkt auf Internetausfälle, Kommunikationsausfälle, Feuer, Überschwemmung oder unkontrollierbare Naturereignisse. ",
+          li:"Diese Bedingungen haben keinen Einfluss auf die gesetzlichen Rechte, die Sie als Kunde haben.",
           li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
           li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
           li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
@@ -1654,9 +1652,7 @@ export const LANGUAGE = {
           address:"(Anthony Shittu, supoort@appbuildr.tech, +447557519129)"
       }
     }
-  
-  
-    },
+  }
   },
   HINDI: {
     header: {
