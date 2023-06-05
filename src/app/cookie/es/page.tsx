@@ -6,10 +6,10 @@ import Cookie from '../page';
 export default function page() {
   const [context, setContext]:any = useContext(AppContext);
     useEffect(() => {
-        setContext({...context,language:'ARABIC'})
+        setContext({...context,language:'SPANISH'})
     },[])
 
   return (
-    <Cookie select={1}/>
+    <Cookie select={10}/>
   )
 }

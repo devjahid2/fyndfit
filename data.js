@@ -1541,7 +1541,7 @@ export const LANGUAGE = {
       welcomeText:'Willkommen bei FyndFit!',
       text:'FyndFit ist ein Unternehmen, das von AppBuildr Limited betrieben wird.',
       text2:'Dies sind die Allgemeinen Geschäftsbedingungen (AGBs) für:  ',
-      li:'●	FyndFit Mobil-App (erhältlich bei Google Play und im App Store).',
+      li:'FyndFit Mobil-App (erhältlich bei Google Play und im App Store).',
       li2:'https://fyndfit.com',
       text3:'Durch die Nutzung der Plattform erklären Sie sich mit den vorliegenden Allgemeinen Geschäftsbedingungen und unserer Datenschutzbestimmung einverstanden. In diesen Allgemeinen Geschäftsbedingungen beziehen sich die Wörter "Plattform" auf die Mobil-App und die Website von FyndFit, "wir", "uns", "unser" und "FyndFit" auf FyndFit, und "Sie" und "Nutzer" auf Sie, den Nutzer von FyndFit.',
       text4:'Die folgenden Bedingungen gelten für Ihre Nutzung der Plattform. Dies gilt auch für die mobile und die Tablet-Version sowie für jede andere Version von FyndFit, die über Desktop, Handy, Tablet, soziale Medien oder andere Geräte zugänglich ist.',
@@ -1581,23 +1581,23 @@ export const LANGUAGE = {
       six:{
           title:'VERLETZUNG DES URHEBERRECHTS  ',
           text:'FyndFit wird auf alle Anfragen, Beschwerden und Ansprüche reagieren, die eine Verletzung der Bestimmungen des britischen und internationalen Urheberrechts und der Gesetze und Vorschriften zum Schutz des geistigen Eigentums betreffen. FyndFit respektiert das geistige Eigentum anderer und erwartet, dass die Nutzer dasselbe tun. Wenn Sie in gutem Glauben davon ausgehen, dass auf der Website von FyndFit bereitgestelltes Material Ihr Urheberrecht oder andere Rechte an geistigem Eigentum verletzt, senden Sie Ihre Anfrage bitte über unsere Kontaktinformationen mit den folgenden Angaben:   ',
-          li:'●	Angabe des geistigen Eigentumsrechts, das angeblich verletzt wurde. Alle relevanten Registrierungsnummern oder eine Erklärung über das Eigentum an dem Werk sollten beigefügt werden.',
-          li2:'●	Eine Erklärung, die den genauen Ort des verletzenden Materials angibt, und zwar so detailliert, dass FyndFit es auf der Plattform ausfindig machen kann. ',
-          li3:"●	Ihren Namen, Ihre Adresse, Telefonnummer und E-Mail-Adresse.",
-          li4:"●	Eine Erklärung von Ihnen, dass Sie in gutem Glauben davon ausgehen, dass die Nutzung des mutmaßlich rechtsverletzenden Materials nicht durch den Urheberrechtsinhaber, seine Makler oder das Gesetz genehmigt ist.",
-          li5:"●	Eine eidesstattliche Erklärung von Ihnen, dass die Informationen in Ihrer Meldung korrekt sind und dass Sie der Urheberrechtsinhaber sind oder befugt sind, im Namen des Urheberrechtsinhabers zu handeln.",
-          li6:"●	Eine elektronische oder physische Unterschrift des Urheberrechtsinhabers oder der Person, die befugt ist, im Namen des Urheberrechtsinhabers zu handeln"
+          li:'Angabe des geistigen Eigentumsrechts, das angeblich verletzt wurde. Alle relevanten Registrierungsnummern oder eine Erklärung über das Eigentum an dem Werk sollten beigefügt werden.',
+          li2:'Eine Erklärung, die den genauen Ort des verletzenden Materials angibt, und zwar so detailliert, dass FyndFit es auf der Plattform ausfindig machen kann. ',
+          li3:"Ihren Namen, Ihre Adresse, Telefonnummer und E-Mail-Adresse.",
+          li4:"Eine Erklärung von Ihnen, dass Sie in gutem Glauben davon ausgehen, dass die Nutzung des mutmaßlich rechtsverletzenden Materials nicht durch den Urheberrechtsinhaber, seine Makler oder das Gesetz genehmigt ist.",
+          li5:"Eine eidesstattliche Erklärung von Ihnen, dass die Informationen in Ihrer Meldung korrekt sind und dass Sie der Urheberrechtsinhaber sind oder befugt sind, im Namen des Urheberrechtsinhabers zu handeln.",
+          li6:"Eine elektronische oder physische Unterschrift des Urheberrechtsinhabers oder der Person, die befugt ist, im Namen des Urheberrechtsinhabers zu handeln"
       },
       seven:{
           title:". VERBOTENE AKTIVITÄTEN",
           text:"Die auf der Plattform verfügbaren Inhalte und Informationen (einschließlich, aber nicht beschränkt auf Daten, Informationen, Texte, Musik, Ton, Fotos, Grafiken, Videos, Karten, Symbole oder anderes Material) sowie die Infrastruktur, die zur Bereitstellung dieser Inhalte und Informationen verwendet wird, sind Eigentum von FyndFit oder werden von Dritten in Lizenz zur Verfügung gestellt. Für alle Inhalte außer Ihren Inhalten erklären Sie sich damit einverstanden, Informationen, Software oder Dienste, die Sie von oder über die Plattform erhalten haben, nicht anderweitig zu ändern, zu kopieren, zu verteilen, zu übertragen, auszustellen, vorzuführen, zu reproduzieren, zu veröffentlichen, zu lizenzieren, abgeleitete Werke davon zu erstellen, zu übertragen oder zu verkaufen oder weiterzuverkaufen. Darüber hinaus sind die folgenden Aktivitäten verboten:",
-          li:"●	Auf Inhalte der Services zuzugreifen, sie zu überwachen, zu reproduzieren, zu verteilen, zu übertragen, auszustrahlen, anzuzeigen, zu verkaufen, zu lizenzieren, zu kopieren oder anderweitig zu verwerten, einschließlich, aber nicht beschränkt auf die Verwendung von Robotern, Spidern, Scrapern oder anderen automatisierten Mitteln oder manuellen Prozessen zu einem Zweck, der nicht mit dieser Vereinbarung übereinstimmt oder ohne unsere ausdrückliche schriftliche Genehmigung.",
-          li2:"●	Gegen Einschränkungen in den Kopfzeilen von Robotern auf den Services zu verstoßen oder andere Maßnahmen zur Verhinderung oder Einschränkung des Zugriffs auf die Services zu umgehen oder zu umgehen.",
-          li3:"●	Maßnahmen zu ergreifen, die nach unserem alleinigen Ermessen eine unangemessene oder unverhältnismäßig große Belastung unserer Infrastruktur darstellen oder darstellen können.",
-          li4:"●	Ohne unsere ausdrückliche schriftliche Genehmigung einen Deep-Link zu einem Teil der Services zu erstellen",
-          li5:`●	Einen Teil der Plattform ohne unsere vorherige schriftliche Genehmigung in eine andere Website oder einen anderen Service zu "framen", zu "spiegeln" oder anderweitig einzubinden.`,
-          li6:'●	Der Versuch, von FyndFit in Verbindung mit den Services verwendete Softwareprogramme zu verändern, zu übersetzen, anzupassen, zu bearbeiten, zu dekompilieren, zu disassemblieren oder Reverse Engineering vorzunehmen.',
-          li7:'●	Sicherheitsfunktionen der Plattform oder Funktionen, die die Nutzung oder das Kopieren von Inhalten verhindern oder einschränken, zu umgehen, zu deaktivieren oder anderweitig zu stören.'
+          li:"Auf Inhalte der Services zuzugreifen, sie zu überwachen, zu reproduzieren, zu verteilen, zu übertragen, auszustrahlen, anzuzeigen, zu verkaufen, zu lizenzieren, zu kopieren oder anderweitig zu verwerten, einschließlich, aber nicht beschränkt auf die Verwendung von Robotern, Spidern, Scrapern oder anderen automatisierten Mitteln oder manuellen Prozessen zu einem Zweck, der nicht mit dieser Vereinbarung übereinstimmt oder ohne unsere ausdrückliche schriftliche Genehmigung.",
+          li2:"Gegen Einschränkungen in den Kopfzeilen von Robotern auf den Services zu verstoßen oder andere Maßnahmen zur Verhinderung oder Einschränkung des Zugriffs auf die Services zu umgehen oder zu umgehen.",
+          li3:"Maßnahmen zu ergreifen, die nach unserem alleinigen Ermessen eine unangemessene oder unverhältnismäßig große Belastung unserer Infrastruktur darstellen oder darstellen können.",
+          li4:"Ohne unsere ausdrückliche schriftliche Genehmigung einen Deep-Link zu einem Teil der Services zu erstellen",
+          li5:`Einen Teil der Plattform ohne unsere vorherige schriftliche Genehmigung in eine andere Website oder einen anderen Service zu "framen", zu "spiegeln" oder anderweitig einzubinden.`,
+          li6:'Der Versuch, von FyndFit in Verbindung mit den Services verwendete Softwareprogramme zu verändern, zu übersetzen, anzupassen, zu bearbeiten, zu dekompilieren, zu disassemblieren oder Reverse Engineering vorzunehmen.',
+          li7:'Sicherheitsfunktionen der Plattform oder Funktionen, die die Nutzung oder das Kopieren von Inhalten verhindern oder einschränken, zu umgehen, zu deaktivieren oder anderweitig zu stören.'
       },
       eight:{
           title:"HAFTUNGSAUSSCHLUSS ",

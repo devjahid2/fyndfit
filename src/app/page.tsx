@@ -15,7 +15,7 @@ export default function Home({select}:any) {
   
   return (
     <main className="">
-      <Nav select={select}/>
+      <Nav select={select||0}/>
       <Hero/>
       <Feature/>
       <Exercise/>
