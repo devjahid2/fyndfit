@@ -11,7 +11,7 @@ const AppStoreButton = () => {
               
               <a href="https://play.google.com/store/apps/details?id=com.appbuildr.fyndfit"><Image width={200} height={100} alt="app store" src={Lang[context.language].buttonImage.play}/></a>
 
-              <a href="https://apps.apple.com/us/app/fyndfit/id1602758207"><Image width={200} height={100} alt="app store" src={'/images/common/app_store.png'}/></a>
+              <a href="https://apps.apple.com/us/app/fyndfit/id1602758207"><Image className="w-55" width={200} height={53} alt="app store" src={Lang[context.language].buttonImage.apple}/></a>
             </div>
     );
 }

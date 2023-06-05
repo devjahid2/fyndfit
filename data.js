@@ -82,7 +82,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/english.png',
-      apple:''
+      apple:'/images/common/app_store.png'
     },
     cookie:{
       title:'COOKIE POLICY',
@@ -494,7 +494,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/arabic.png',
-      apple:''
+      apple:'/images/button/app-store/arabic.svg'
     },
     
     
@@ -900,7 +900,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/english.png',
-      apple:''
+      apple:'/images/button/app-store/french.svg'
     },
     policy: {
       title: "POLITIQUE DE CONFIDENTIALITÉ",
@@ -1057,26 +1057,26 @@ export const LANGUAGE = {
     },
     
     cookie:{
-      title:'COOKIE POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      title:'POLITIQUE EN MATIÈRE DE COOKIES',
+      welcomeText:'Bienvenue sur FyndFit !',
+      text:'FyndFit est détenu et exploité par AppBuildr Limited.',
+      text2:"La présente politique en matière de cookies explique comment et pourquoi des cookies et d'autres technologies similaires peuvent être stockés sur votre appareil et accessibles à partir de celui-ci lorsque vous utilisez ou visitez le site :",
       link:'https://fyndfit.com',
-      text3:'(Hereinafter referred to as “FyndFit”).',
-      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      text3:'(ci-après dénommée "FyndFit").',
+      text4:'Les informations collectées par le biais des cookies seront sous la responsabilité et à la charge de :',
       li:'AppBuildr Limited.',
       li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
-      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
-      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      text5:'La présente politique en matière de cookies doit être lue conjointement avec notre politique de confidentialité et nos conditions générales.',
+      text6:"En utilisant le site web, vous acceptez l'utilisation de cookies par FyndFit, dans les termes contenus dans cette politique.",
       points:{
         one:{
-          title:'1. WHAT ARE COOKIES?',
-          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+          title:"QU'EST-CE QU'UN COOKIE ?",
+          text:'Les cookies sont de petits fichiers texte qui sont stockés sur votre ordinateur ou votre appareil mobile lorsque vous visitez un site web. Ils permettent au site web de reconnaître votre appareil et de se souvenir si vous avez déjà visité le site web. Les cookies sont une technologie web très courante ; la plupart des sites web les utilisent depuis des années. Les cookies sont largement utilisés pour rendre le site web plus efficace. Les cookies sont utilisés pour mesurer les parties du site que les utilisateurs visitent et pour personnaliser leur expérience. Les cookies fournissent également des informations qui nous aident à contrôler et à améliorer les performances du site web.'
         },
         two:{
-          title:'2. COOKIE SETTINGS',
-          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
-          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          title:'PARAMÈTRES DES COOKIES',
+          text:`Si vous ne souhaitez pas que des cookies soient déposés sur votre appareil, vous pouvez configurer votre navigateur Internet de manière à refuser l'installation de tout ou partie des cookies et à vous alerter lorsqu'un cookie est placé sur votre appareil. Pour plus d'informations sur la manière de procéder, veuillez vous reporter à la section "Aide", "Outil" ou "Modifications" de votre navigateur. Veuillez noter que si vous utilisez les paramètres de votre navigateur pour bloquer tous les cookies, y compris les cookies strictement nécessaires, il se peut que vous ne puissiez pas accéder à tout ou partie des fonctionnalités du site web ou les utiliser`,
+          text2:"Si vous souhaitez supprimer des cookies stockés précédemment, vous pouvez à tout moment les supprimer manuellement. Toutefois, cela n'empêchera pas le site web de placer d'autres cookies sur votre appareil, à moins que vous ne modifiiez les paramètres de votre navigateur Internet comme décrit ci-dessus. Nous fournissons les liens pour la gestion et le blocage des cookies en fonction du navigateur que vous utilisez :",
           link1:{
             text:'Microsoft Edge:',
             link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
@@ -1087,45 +1087,46 @@ export const LANGUAGE = {
           link5:{text:'Opera: : : ',link:'https://help.opera.com/en/latest/web-preferences/'},
           link6:{text:'Android: : : : ',link:' https://support.google.com/answer/32050'},
           link7:{text:'iOS: : : ',link:'https://support.apple.com/en-us/HT201265'},
-          text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
+          text3:'Dans les cas où vous accédez au site web via un appareil mobile iOS ou Android, veuillez suivre les instructions ci-dessous pour supprimer ou bloquer les cookies sur votre appareil :'
         },
         three:{
-          title:'3. FIRST-PARTY COOKIES',
-          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+          title:'COOKIE INTERNE',
+          text:`Nous utilisons des cookies pour améliorer les performances de notre site web et personnaliser votre expérience en ligne. Les cookies nous aident à collecter des informations sur la manière dont les internautes utilisent notre site web et sur les pages qu'ils visitent. Ils nous permettent de contrôler le nombre de visiteurs et d'analyser les schémas et les tendances d'utilisation du site web. Nous collectons ces informations de manière anonyme, de sorte qu'elles n'identifient personne en tant qu'individu et qu'aucune information personnelle n'est stockée dans nos cookies. Nous utilisons toujours les données des cookies de manière responsable.`
         },
         fore:{
-          title:'4. THIRD-PARTY COOKIES',
-          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+          title:`  COOKIES DE TIERS`,
+          text:"Les cookies de tiers peuvent provenir de partenaires ou de sociétés tierces qui fournissent des services web fonctionnels ou des outils pour notre site web et le fonctionnement optimal de nos services. Nous utilisons les cookies de tiers de manière responsable et dans le seul but d'assurer un fonctionnement optimal de la plateforme et des services. Vous pouvez refuser ces cookies en suivant les informations relatives à la suppression des cookies contenues dans le présent document ou les informations techniques du navigateur à partir duquel vous accédez à notre site web et à nos services."
         },
         five:{
-          title:'5. PURPOSES OF OUR COOKIES',
-          text:'Our cookies are used for the following purposes:',
+          title:'OBJECTIFS DE NOS COOKIES',
+          text:'Nos cookies sont utilisés aux fins suivantes :',
           strictlyNecessary:{
-            bold:'Strictly Necessary: ',
-            normal:'These cookies are essential for the website to perform its basic functions.'
+            bold:'Strictement nécessaire :',
+            normal:' Ces cookies sont essentiels pour que le site web puisse remplir ses fonctions de base.'
           } ,
           security:{
-            bold:'Security: ',
-            normal:'We use these cookies to help identify and prevent potential security risks.'
+            bold:'Sécurité :',
+            normal:' Nous utilisons ces cookies pour aider à identifier et à prévenir les risques potentiels en matière de sécurité.'
           } ,
           performance:{
-            bold:'Performance: ',
-            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+            bold:'Performance : ',
+            normal:" Les cookies de performance collectent des informations sur la manière dont les utilisateurs interagissent avec notre site web, y compris les pages les plus visitées, ainsi que d'autres données analytiques. Nous utilisons ces informations pour améliorer le fonctionnement de notre site web et comprendre comment les utilisateurs interagissent avec lui."
           },
           analytics:{
-            bold:'Analytics. ',
-            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+            bold:'Analyse. ',
+            normal:` Nous utilisons Google Analytics comme outil d'analyse des données. Ces outils et technologies collectent et analysent certains types d'informations, tels que les adresses IP, les identifiants d'appareils et de logiciels, les URL de référence et de sortie, les mesures et statistiques d'utilisation des fonctionnalités, les adresses de contrôle d'accès aux médias (adresse MAC), les identifiants uniques d'appareils mobiles et d'autres informations similaires par le biais de l'utilisation de cookies. Nous utilisons la collecte de données de GOOGLE Analytics pour améliorer nos plateformes et nos services.`
           }
         },
         six:{
-          title:'6. CONTACT US',
-          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          title:'CONTACTEZ-NOUS',
+          text:'Si vous avez des questions ou des préoccupations concernant cette politique en matière de cookies et le traitement et la sécurité de vos données, veuillez nous contacter en utilisant les coordonnées ci-dessous :',
           copyright:'AppBuildr Limited - FyndFit.',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
       }
 
     },
+
   
     terms: {
       title:'TERMS AND CONDITIONS',
@@ -1327,7 +1328,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/german.png',
-      apple:''
+      apple:'/images/button/app-store/german.svg'
     },
     
     policy:{
@@ -1735,7 +1736,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/hindi.png',
-      apple:''
+      apple:'/images/button/app-store/hindi.svg'
     },
     
     cookie:{
@@ -2143,7 +2144,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/italian.png',
-      apple:''
+      apple:'/images/button/app-store/italian.svg'
     },
     
     cookie:{
@@ -2551,7 +2552,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/japanese.png',
-      apple:''
+      apple:'/images/button/app-store/japanese.svg'
     },
     
     cookie:{
@@ -2959,7 +2960,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/korean.png',
-      apple:''
+      apple:'/images/button/app-store/korean.svg'
     },
     
     cookie:{
@@ -3367,7 +3368,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/polish.png',
-      apple:''
+      apple:'/images/button/app-store/polish.svg'
     },
     
     cookie:{
@@ -3777,7 +3778,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/portuguese.png',
-      apple:''
+      apple:'/images/button/app-store/portuguese.svg'
     },
     
     cookie:{
@@ -4188,7 +4189,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/spanish.png',
-      apple:''
+      apple:'/images/button/app-store/spanish.svg'
     },
     
     cookie:{
@@ -4599,7 +4600,7 @@ export const LANGUAGE = {
     },
     buttonImage:{
       play:'/images/button/google-play/turkish.png',
-      apple:''
+      apple:'/images/button/app-store/turkish.svg'
     },
     
     cookie:{

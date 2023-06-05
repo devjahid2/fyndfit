@@ -1,9 +1,12 @@
 "use client";
 import "./globals.css";
-import { Lexend } from "next/font/google";
+import { IBM_Plex_Sans } from "next/font/google";
 import { createContext, useState } from "react";
 
-const inter = Lexend({ subsets: ["latin"] });
+const inter = IBM_Plex_Sans({
+  weight: "400",
+  preload: false,
+});
 
 // export const metadata = {
 //   title: "Fyndfit",
@@ -11,8 +14,11 @@ const inter = Lexend({ subsets: ["latin"] });
 // };
 export const AppContext = createContext({});
 
-export default function RootLayout({children,}: {children: React.ReactNode;}) {
-
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   const [context, setContext] = useState({
     language: "ENGLISH",
   });
@@ -23,11 +29,9 @@ export default function RootLayout({children,}: {children: React.ReactNode;}) {
         <title>Fyndfit</title>
         <meta name="description" content="This is multi language app" />
       </head>
-        <AppContext.Provider value={[context, setContext]}>
-          <body className={inter.className}>
-              {children}
-          </body>
-        </AppContext.Provider>
+      <AppContext.Provider value={[context, setContext]}>
+        <body className={inter.className}>{children}</body>
+      </AppContext.Provider>
     </html>
   );
 }

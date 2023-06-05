@@ -6,6 +6,7 @@ import Select from "react-select";
 
 const options = [
   {
+    // 0
     value: "ENGLISH",
     label: (
       <div className="flex gap-2">
@@ -20,6 +21,7 @@ const options = [
     ),
   },
   {
+    // 1
     value: "ARABIC",
     label: (
       <div className="flex gap-2">
@@ -34,6 +36,7 @@ const options = [
     ),
   },
   {
+    // 2
     value: "FRENCH",
     label: (
       <div className="flex gap-2">
@@ -48,6 +51,7 @@ const options = [
     ),
   },
   {
+    // 3
     value: "GERMAN",
     label: (
       <div className="flex gap-2">
@@ -62,6 +66,7 @@ const options = [
     ),
   },
   {
+    // 4
     value: "HINDI",
     label: (
       <div className="flex gap-2">
@@ -76,6 +81,7 @@ const options = [
     ),
   },
   {
+    // 5
     value: "ITAILIAN",
     label: (
       <div className="flex gap-2">
@@ -90,6 +96,7 @@ const options = [
     ),
   },
   {
+    // 6
     value: "JAPANESE",
     label: (
       <div className="flex gap-2">
@@ -104,6 +111,7 @@ const options = [
     ),
   },
   {
+    // 7
     value: "KOREAN",
     label: (
       <div className="flex gap-2">
@@ -118,6 +126,7 @@ const options = [
     ),
   },
   {
+    // 8
     value: "POLISH",
     label: (
       <div className="flex gap-2">
@@ -132,6 +141,7 @@ const options = [
     ),
   },
   {
+    // 9
     value: "PORTUGUESE",
     label: (
       <div className="flex gap-2">
@@ -147,6 +157,7 @@ const options = [
   },
   
   {
+    // 10
     value: "SPANISH",
     label: (
       <div className="flex gap-2">
@@ -161,6 +172,7 @@ const options = [
     ),
   },
   {
+    // 11
     value: "TURKISH",
     label: (
       <div className="flex gap-2">
@@ -176,14 +188,15 @@ const options = [
   },
 ];
 
-const Nav = () => {
+const Nav = ({select}:any) => {
     const [context,setContext]:any = useContext(AppContext);
-
+    // console.log(options[select])
     const handelLanguage = (lang:string|object|undefined) => {
         setContext({...context,language:lang})
     }
   return (
-    <div className="xl:container mx-auto px-4 xl:px-0">
+    <div className="sticky-top">
+      <div className="xl:container mx-auto px-4 xl:px-0">
         <div className="flex items-center justify-between">
       <a href="/"><Image
         className="logo-img"
@@ -193,7 +206,7 @@ const Nav = () => {
         src="/images/common/logo.png"
       /></a>
       <Select
-        defaultValue={options[0]}
+        defaultValue={options[select]}
         onChange={(lang) => handelLanguage(lang?.value)}
         options={options}
         theme={(theme) => ({
@@ -206,6 +219,7 @@ const Nav = () => {
           },
         })}
       />
+    </div>
     </div>
     </div>
   );
