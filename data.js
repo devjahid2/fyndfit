@@ -1541,7 +1541,7 @@ export const LANGUAGE = {
       welcomeText:'Willkommen bei FyndFit!',
       text:'FyndFit ist ein Unternehmen, das von AppBuildr Limited betrieben wird.',
       text2:'Dies sind die Allgemeinen Geschäftsbedingungen (AGBs) für:  ',
-      li:'FyndFit Mobil-App (erhältlich bei Google Play und im App Store).',
+      li:'●	FyndFit Mobil-App (erhältlich bei Google Play und im App Store).',
       li2:'https://fyndfit.com',
       text3:'Durch die Nutzung der Plattform erklären Sie sich mit den vorliegenden Allgemeinen Geschäftsbedingungen und unserer Datenschutzbestimmung einverstanden. In diesen Allgemeinen Geschäftsbedingungen beziehen sich die Wörter "Plattform" auf die Mobil-App und die Website von FyndFit, "wir", "uns", "unser" und "FyndFit" auf FyndFit, und "Sie" und "Nutzer" auf Sie, den Nutzer von FyndFit.',
       text4:'Die folgenden Bedingungen gelten für Ihre Nutzung der Plattform. Dies gilt auch für die mobile und die Tablet-Version sowie für jede andere Version von FyndFit, die über Desktop, Handy, Tablet, soziale Medien oder andere Geräte zugänglich ist.',
@@ -1581,23 +1581,23 @@ export const LANGUAGE = {
       six:{
           title:'VERLETZUNG DES URHEBERRECHTS  ',
           text:'FyndFit wird auf alle Anfragen, Beschwerden und Ansprüche reagieren, die eine Verletzung der Bestimmungen des britischen und internationalen Urheberrechts und der Gesetze und Vorschriften zum Schutz des geistigen Eigentums betreffen. FyndFit respektiert das geistige Eigentum anderer und erwartet, dass die Nutzer dasselbe tun. Wenn Sie in gutem Glauben davon ausgehen, dass auf der Website von FyndFit bereitgestelltes Material Ihr Urheberrecht oder andere Rechte an geistigem Eigentum verletzt, senden Sie Ihre Anfrage bitte über unsere Kontaktinformationen mit den folgenden Angaben:   ',
-          li:'Angabe des geistigen Eigentumsrechts, das angeblich verletzt wurde. Alle relevanten Registrierungsnummern oder eine Erklärung über das Eigentum an dem Werk sollten beigefügt werden.',
-          li2:'Eine Erklärung, die den genauen Ort des verletzenden Materials angibt, und zwar so detailliert, dass FyndFit es auf der Plattform ausfindig machen kann. ',
-          li3:"Ihren Namen, Ihre Adresse, Telefonnummer und E-Mail-Adresse.",
-          li4:"Eine Erklärung von Ihnen, dass Sie in gutem Glauben davon ausgehen, dass die Nutzung des mutmaßlich rechtsverletzenden Materials nicht durch den Urheberrechtsinhaber, seine Makler oder das Gesetz genehmigt ist.",
-          li5:"Eine eidesstattliche Erklärung von Ihnen, dass die Informationen in Ihrer Meldung korrekt sind und dass Sie der Urheberrechtsinhaber sind oder befugt sind, im Namen des Urheberrechtsinhabers zu handeln.",
-          li6:"Eine elektronische oder physische Unterschrift des Urheberrechtsinhabers oder der Person, die befugt ist, im Namen des Urheberrechtsinhabers zu handeln"
+          li:'●	Angabe des geistigen Eigentumsrechts, das angeblich verletzt wurde. Alle relevanten Registrierungsnummern oder eine Erklärung über das Eigentum an dem Werk sollten beigefügt werden.',
+          li2:'●	Eine Erklärung, die den genauen Ort des verletzenden Materials angibt, und zwar so detailliert, dass FyndFit es auf der Plattform ausfindig machen kann. ',
+          li3:"●	Ihren Namen, Ihre Adresse, Telefonnummer und E-Mail-Adresse.",
+          li4:"●	Eine Erklärung von Ihnen, dass Sie in gutem Glauben davon ausgehen, dass die Nutzung des mutmaßlich rechtsverletzenden Materials nicht durch den Urheberrechtsinhaber, seine Makler oder das Gesetz genehmigt ist.",
+          li5:"●	Eine eidesstattliche Erklärung von Ihnen, dass die Informationen in Ihrer Meldung korrekt sind und dass Sie der Urheberrechtsinhaber sind oder befugt sind, im Namen des Urheberrechtsinhabers zu handeln.",
+          li6:"●	Eine elektronische oder physische Unterschrift des Urheberrechtsinhabers oder der Person, die befugt ist, im Namen des Urheberrechtsinhabers zu handeln"
       },
       seven:{
           title:". VERBOTENE AKTIVITÄTEN",
           text:"Die auf der Plattform verfügbaren Inhalte und Informationen (einschließlich, aber nicht beschränkt auf Daten, Informationen, Texte, Musik, Ton, Fotos, Grafiken, Videos, Karten, Symbole oder anderes Material) sowie die Infrastruktur, die zur Bereitstellung dieser Inhalte und Informationen verwendet wird, sind Eigentum von FyndFit oder werden von Dritten in Lizenz zur Verfügung gestellt. Für alle Inhalte außer Ihren Inhalten erklären Sie sich damit einverstanden, Informationen, Software oder Dienste, die Sie von oder über die Plattform erhalten haben, nicht anderweitig zu ändern, zu kopieren, zu verteilen, zu übertragen, auszustellen, vorzuführen, zu reproduzieren, zu veröffentlichen, zu lizenzieren, abgeleitete Werke davon zu erstellen, zu übertragen oder zu verkaufen oder weiterzuverkaufen. Darüber hinaus sind die folgenden Aktivitäten verboten:",
-          li:"Auf Inhalte der Services zuzugreifen, sie zu überwachen, zu reproduzieren, zu verteilen, zu übertragen, auszustrahlen, anzuzeigen, zu verkaufen, zu lizenzieren, zu kopieren oder anderweitig zu verwerten, einschließlich, aber nicht beschränkt auf die Verwendung von Robotern, Spidern, Scrapern oder anderen automatisierten Mitteln oder manuellen Prozessen zu einem Zweck, der nicht mit dieser Vereinbarung übereinstimmt oder ohne unsere ausdrückliche schriftliche Genehmigung.",
-          li2:"Gegen Einschränkungen in den Kopfzeilen von Robotern auf den Services zu verstoßen oder andere Maßnahmen zur Verhinderung oder Einschränkung des Zugriffs auf die Services zu umgehen oder zu umgehen.",
-          li3:"Maßnahmen zu ergreifen, die nach unserem alleinigen Ermessen eine unangemessene oder unverhältnismäßig große Belastung unserer Infrastruktur darstellen oder darstellen können.",
-          li4:"Ohne unsere ausdrückliche schriftliche Genehmigung einen Deep-Link zu einem Teil der Services zu erstellen",
-          li5:`Einen Teil der Plattform ohne unsere vorherige schriftliche Genehmigung in eine andere Website oder einen anderen Service zu "framen", zu "spiegeln" oder anderweitig einzubinden.`,
-          li6:'Der Versuch, von FyndFit in Verbindung mit den Services verwendete Softwareprogramme zu verändern, zu übersetzen, anzupassen, zu bearbeiten, zu dekompilieren, zu disassemblieren oder Reverse Engineering vorzunehmen.',
-          li7:'Sicherheitsfunktionen der Plattform oder Funktionen, die die Nutzung oder das Kopieren von Inhalten verhindern oder einschränken, zu umgehen, zu deaktivieren oder anderweitig zu stören.'
+          li:"●	Auf Inhalte der Services zuzugreifen, sie zu überwachen, zu reproduzieren, zu verteilen, zu übertragen, auszustrahlen, anzuzeigen, zu verkaufen, zu lizenzieren, zu kopieren oder anderweitig zu verwerten, einschließlich, aber nicht beschränkt auf die Verwendung von Robotern, Spidern, Scrapern oder anderen automatisierten Mitteln oder manuellen Prozessen zu einem Zweck, der nicht mit dieser Vereinbarung übereinstimmt oder ohne unsere ausdrückliche schriftliche Genehmigung.",
+          li2:"●	Gegen Einschränkungen in den Kopfzeilen von Robotern auf den Services zu verstoßen oder andere Maßnahmen zur Verhinderung oder Einschränkung des Zugriffs auf die Services zu umgehen oder zu umgehen.",
+          li3:"●	Maßnahmen zu ergreifen, die nach unserem alleinigen Ermessen eine unangemessene oder unverhältnismäßig große Belastung unserer Infrastruktur darstellen oder darstellen können.",
+          li4:"●	Ohne unsere ausdrückliche schriftliche Genehmigung einen Deep-Link zu einem Teil der Services zu erstellen",
+          li5:`●	Einen Teil der Plattform ohne unsere vorherige schriftliche Genehmigung in eine andere Website oder einen anderen Service zu "framen", zu "spiegeln" oder anderweitig einzubinden.`,
+          li6:'●	Der Versuch, von FyndFit in Verbindung mit den Services verwendete Softwareprogramme zu verändern, zu übersetzen, anzupassen, zu bearbeiten, zu dekompilieren, zu disassemblieren oder Reverse Engineering vorzunehmen.',
+          li7:'●	Sicherheitsfunktionen der Plattform oder Funktionen, die die Nutzung oder das Kopieren von Inhalten verhindern oder einschränken, zu umgehen, zu deaktivieren oder anderweitig zu stören.'
       },
       eight:{
           title:"HAFTUNGSAUSSCHLUSS ",
@@ -1613,41 +1613,41 @@ export const LANGUAGE = {
           li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
       },
       nine:{
-          title:'9. ELECTRONIC COMMUNICATIONS',
-          text:"FyndFit will not accept any responsibility for failed, partial or garbled computer transmissions, for any breakdown, failure, connection or availability of a computer, telephone, network, electronic or Internet hardware or software, for Internet accessibility or availability or traffic congestion or for any unauthorised human acts, including any errors or mistakes."
+          title:'ELEKTRONISCHE KOMMUNIKATION',
+          text:"FyndFit übernimmt keine Verantwortung für fehlgeschlagene, unvollständige oder verstümmelte Computerübertragungen, für das Versagen, den Ausfall, die Verbindung oder die Verfügbarkeit von Computer-, Telefon-, Netzwerk-, elektronischer oder Internet-Hardware oder -Software, für die Zugänglichkeit oder Verfügbarkeit des Internets oder für Verkehrsstaus oder für unbefugte menschliche Aktivitäten, einschließlich jeglicher Fehler oder Irrtümer."
       },
       ten:{
-          title:'10. INDEMNIFICATION',
-          text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"Your breach of this agreement or the documents referenced herein.",
-          li2:"Your violation of any law or the rights of a third party",
-          li3:"Your use of the FyndFit platform."
+          title:'ENTSCHÄDIGUNG',
+          text:"Sie erklären sich damit einverstanden, FyndFit zu verteidigen, zu entschädigen und schadlos zu halten gegenüber allen Ansprüchen, Klagegründen, Forderungen, Rückforderungen, Verlusten, Schäden, Bußgeldern, Strafen oder anderen Kosten oder Ausgaben jeglicher Art, einschließlich, aber nicht beschränkt auf angemessene Anwalts- und Buchhaltungsgebühren, die von Dritten geltend gemacht werden aufgrund von:",
+          li:"●	Ihre Verletzung dieser Vereinbarung oder der hierin erwähnten Dokumente",
+          li2:"●	Ihr Verstoß gegen ein Gesetz oder die Rechte eines Dritten.",
+          li3:"●	Ihre Nutzung der FyndFit-Plattform."
       },
       eleven:{
-          title:'11. CHANGES AND TERMINATION',
-          text:"We may change the platform and these terms at any time, at our sole discretion and without notice to you. You are responsible for remaining knowledgeable about these terms. Your continued use of the platform constitutes your acceptance of any changes to these terms and any changes will supersede all previous versions of the terms. Unless otherwise specified herein, all changes to these terms apply to all users and take effect. Furthermore, we may terminate this agreement with you under these terms at any time by notifying you in writing (including by email) or without any warning."
+          title:'ÄNDERUNGEN UND KÜNDIGUNG',
+          text:"Wir können die Plattform und diese Bedingungen jederzeit nach unserem alleinigen Ermessen und ohne vorherige Benachrichtigung an Sie ändern. Sie sind selbst dafür verantwortlich, sich über diese Bedingungen zu informieren. Durch Ihre fortgesetzte Nutzung der Plattform erklären Sie sich mit allen Änderungen dieser Bedingungen einverstanden, und alle Änderungen ersetzen alle früheren Versionen der Bedingungen. Sofern hier nicht anders angegeben, gelten alle Änderungen dieser Bedingungen für alle Nutzer und treten in Kraft. Darüber hinaus können wir unsere Vereinbarung mit Ihnen im Rahmen dieser Bedingungen jederzeit durch schriftliche Mitteilung (einschließlich per E-Mail) oder fristlos kündigen."
       },
       twelve: {
-          title:'12. INTEGRATION CLAUSE',
-          text:"This agreement together with the privacy policy and any other legal notices published by FyndFit, shall constitute the entire agreement between you and FyndFit concerning and governs your use of the platform."
+          title:'INTEGRATIONSKLAUSEL',
+          text:"Diese Vereinbarung stellt zusammen mit der Datenschutzbestimmung und allen anderen von FyndFit veröffentlichten rechtlichen Hinweisen die gesamte Vereinbarung zwischen Ihnen und FyndFit dar und regelt Ihre Nutzung der Plattform."
       },
       thirteen:{
-          title:'13. DISPUTES',
-          text:"The user agrees that any dispute, claim or controversy arising out of or relating to these terms and conditions, or the breach, termination, enforcement, interpretation or validity thereof or the use of the platform, shall be resolved by binding arbitration between the user and FyndFit, provided that each party retains the right to bring an individual action in a court of competent jurisdiction.",
-          text2:"In the event that a dispute arises in connection with the use of the platform or breach of these terms and conditions, the parties agree to submit their dispute to arbitration resolution before a reputable arbitration organisation as mutually agreed by the parties and in accordance with applicable commercial arbitration rules.",
-          text3:"You agree to initiate a formal dispute proceeding by sending us a communication through our contact information. FyndFit may choose to send you a written offer after receiving your initial communication. If we offer and send you a settlement offer and you do not accept the offer, or we are unable to resolve your dispute satisfactorily and you wish to continue with the dispute process, you must initiate the dispute resolution process before an accredited arbitration organisation and file a separate Demand for Arbitration. Any award rendered by the arbitration tribunal shall be final and conclusive on the parties. ",
-          text4:"To the fullest extent permitted by law, you agree that you will not file, join or participate in any class action lawsuit in connection with any claim, dispute or controversy that may arise in connection with your use of the platform.",
-          text5:"The courts of the United Kingdom shall have jurisdiction over any dispute, controversy or claim relating to FyndFit and its business operations. Any such dispute or controversy shall be brought and resolved in the courts of the United Kingdom."
+          title:'STREITIGKEITEN',
+          text:"Der Nutzer erklärt sich damit einverstanden, dass alle Streitigkeiten, Ansprüche oder Meinungsverschiedenheiten, die sich aus oder im Zusammenhang mit diesen Allgemeinen Geschäftsbedingungen oder deren Verletzung, Beendigung, Durchsetzung, Auslegung oder Gültigkeit oder der Nutzung der Plattform ergeben, durch ein verbindliches Schiedsverfahren zwischen dem Nutzer und FyndFit beigelegt werden, wobei sich jede Partei das Recht vorbehält, eine individuelle Klage bei einem zuständigen Gericht einzureichen.",
+          text2:"Für den Fall, dass eine Streitigkeit im Zusammenhang mit der Nutzung der Plattform oder einem Verstoß gegen diese Bedingungen entsteht, vereinbaren die Parteien, ihre Streitigkeit zur Schlichtung an eine angesehene Schiedsorganisation zu senden, die von den Parteien in Übereinstimmung mit den geltenden Handelsschiedsregeln einvernehmlich bestimmt wird.",
+          text3:"Sie erklären sich damit einverstanden, ein formelles Streitverfahren einzuleiten, indem Sie uns eine Mitteilung über unsere Kontaktinformationen schicken. FyndFit kann Ihnen nach Erhalt Ihrer ersten Mitteilung ein schriftliches Angebot zusenden. Wenn wir ein Angebot zur Schlichtung unterbreiten und Sie dieses nicht annehmen, oder wenn wir Ihre Streitigkeit nicht zufriedenstellend lösen können und Sie das Verfahren fortsetzen möchten, müssen Sie das Schlichtungsverfahren vor einer anerkannten Schlichtungsstelle einleiten und einen separaten Antrag auf Schlichtung stellen. Jeder vom Paneel des Schiedsgerichts gefällte Schiedsspruch ist für die Parteien endgültig und bindend. ",
+          text4:"Soweit gesetzlich zulässig, erklären Sie sich damit einverstanden, im Zusammenhang mit Ansprüchen, Streitigkeiten oder Kontroversen, die in Verbindung mit Ihrer Nutzung der Plattform entstehen, keine Sammelklagen einzureichen, sich diesen anzuschließen oder an ihnen teilzunehmen.",
+          text5:"Die Gerichte des Vereinigten Königreichs sind für alle Streitigkeiten, Meinungsverschiedenheiten oder Ansprüche im Zusammenhang mit FyndFit und seinen Geschäftsaktivitäten zuständig. Alle derartigen Streitigkeiten oder Meinungsverschiedenheiten sind vor den Gerichten des Vereinigten Königreichs auszutragen und beizulegen."
       },
       fourteen:{
-          title:'14. FINAL PROVISIONS',
-          text:"These terms and conditions are governed by the laws of the United Kingdom. Use of the FyndFit platform is unauthorised in any jurisdiction that does not give effect to all provisions of these terms and conditions.",
-          text2:"Our performance of these terms is subject to existing laws and legal processes, and nothing contained in these terms limits our right to comply with law enforcement or other governmental or legal requests or requirements relating to your use of our platform or information provided to or gathered by us with respect to such use.",
-          text3:"If any part of these terms is found to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions will not in any way be affected or impaired. Our failure or delay in enforcing any provision of these terms at any time does not waive our right to enforce the same or any other provision(s) hereof in the future.Any rights not expressly granted herein are reserved."
+          title:'SCHLUSSBESTIMMUNGEN',
+          text:"Diese AGBs unterliegen den Gesetzen des Vereinigten Königreichs. Die Nutzung der FyndFit-Plattform ist in jeder Rechtsordnung rechtswidrig, die nicht alle Bestimmungen dieser Bedingungen in Kraft setzt.",
+          text2:"Die Einhaltung dieser Bedingungen unterliegt bestehenden Gesetzen und rechtlichen Verfahren, und nichts in diesen Bedingungen schränkt unser Recht ein, Strafverfolgungsbehörden oder anderen behördlichen oder rechtlichen Anfragen oder Anforderungen in Bezug auf Ihre Nutzung unserer Plattform oder Informationen, die uns im Zusammenhang mit einer solchen Nutzung zur Verfügung gestellt oder von uns gesammelt wurden, nachzukommen.",
+          text3:"Sollte sich ein Teil dieser Bedingungen als ungültig, rechtswidrig oder nicht durchsetzbar erweisen, wird die Gültigkeit, Rechtmäßigkeit und Durchsetzbarkeit der übrigen Bestimmungen in keiner Weise beeinträchtigt oder beeinträchtigt. Unser Versäumnis oder unsere Verzögerung, eine Bestimmung dieser Bedingungen zu irgendeinem Zeitpunkt durchzusetzen, bedeutet nicht, dass wir auf unser Recht verzichten, dieselbe oder eine oder mehrere andere Bestimmungen dieser Bedingungen in Zukunft durchzusetzen. Alle hier nicht ausdrücklich gewährten Rechte sind vorbehalten. "
       },
       fifteen:{
-          title:'15. CONTACT INFORMATION',
-          text:"If you have questions or concerns about these terms, please contact us using the contact information below:",
+          title:'KONTAKTINFORMATIONEN',
+          text:"Wenn Sie Fragen oder Bedenken zu diesen Bedingungen haben, wenden Sie sich bitte an die unten stehenden Kontaktinformationen:",
           copyright:"AppBuildr Limited - FyndFit.",
           address:"(Anthony Shittu, supoort@appbuildr.tech, +447557519129)"
       }
