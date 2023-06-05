@@ -1744,7 +1744,7 @@ export const LANGUAGE = {
       text3:'(इसके बाद " FyndFit " के रूप में संदर्भित)।',
       text4:'कुकीज़ के माध्यम से एकत्र की गई जानकारी निम्नलिखित के उत्तरदायित्व और प्रभार के अधीन होगी:',
       li:'AppBuildr Limited.',
-      li2:'•	(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)',
+      li2:'(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)',
       text5:'इस कुकी नीति को हमारी गोपनीयता नीति और हमारे नियमों और शर्तों के साथ पढ़ा जाना चाहिए।',
       text6:'वेबसाइट का उपयोग करके, आप इस नीति में निहित शर्तों के अनुसार, FyndFit द्वारा कुकीज़ के उपयोग को स्वीकार करते हैं।',
       points:{
@@ -1817,11 +1817,11 @@ export const LANGUAGE = {
         one:{
           title:'सामान्य जानकारी',
           text:'उपयोगकर्ताओं के व्यक्तिगत डेटा को निम्न से एकत्र और संसाधित किया जाता है:',
-          li:'•	FyndFit मोबाइल एप्लिकेशन (Google Play और App Store पर उपलब्ध)।',
+          li:'FyndFit मोबाइल एप्लिकेशन (Google Play और App Store पर उपलब्ध)।',
           li2:'https://fyndfit.com',
-          text2:'•	जिम्मेदारी और प्रभारी के अधीन होगा:',
+          text2:'जिम्मेदारी और प्रभारी के अधीन होगा:',
           li3:'AppBuildr Limited. ',
-          li4:'•	(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)',
+          li4:'(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)',
         },
         two:{
           title:'आप मेरी सहमति कैसे प्राप्त करते हैं?',
@@ -1830,18 +1830,18 @@ export const LANGUAGE = {
         three:{
           title:'एकत्रित जानकारी के प्रकार',
           text:"हमारे प्लेटफ़ॉर्म के उपयोगकर्ताओं से प्राप्त होने वाला डेटा हमें उपयोगकर्ता अनुभव को उत्तरोत्तर बढ़ाने में सक्षम बनाता है। हम निम्न प्रकार के डेटा एकत्र करते हैं: जानकारी जो आप हमें देते हैं। जब आप प्लेटफ़ॉर्म की क्षमताओं का उपयोग करते हैं और/या हमारे संपर्क विवरण या संपर्क फ़ॉर्म के माध्यम से हमसे संपर्क करते हैं, तो आप हमें अपने बारे में जानकारी देते हैं। उन कार्रवाइयों के परिणामस्वरूप आप हमें निम्नलिखित विवरण दे सकते हैं:",
-          li:'•	नाम',
-          li2:'•	मेल पता',
-          li3:'•	आपसे संबंधित कोई भी अतिरिक्त जानकारी जो आप हमें हमारे प्लेटफॉर्म के माध्यम से प्रत्यक्ष या अप्रत्यक्ष रूप से प्रदान करते हैं।',
+          li:'नाम',
+          li2:'मेल पता',
+          li3:'आपसे संबंधित कोई भी अतिरिक्त जानकारी जो आप हमें हमारे प्लेटफॉर्म के माध्यम से प्रत्यक्ष या अप्रत्यक्ष रूप से प्रदान करते हैं।',
           text2:'आपकी सहमति के बिना, FyndFit आपके बारे में कोई व्यक्तिगत पहचान योग्य डेटा संकलित नहीं करेगा।',
           text3:"स्वचालित रूप से एकत्रित जानकारी: आप प्लेटफ़ॉर्म का उपयोग करके और उस तक पहुँच कर स्वचालित रूप से हमें निम्न जानकारी प्रदान करते हैं:",
-          li5:'•	आपका आईपी पता',
-          li6:'•	आपका ऑपरेटिंग सिस्टम',
+          li5:'आपका आईपी पता',
+          li6:'आपका ऑपरेटिंग सिस्टम',
           app:{
-            bold:' •	Firebase (मोबाइल ऐप): ' ,
+            bold:' Firebase (मोबाइल ऐप): ' ,
           normal:' युनाइटेड स्टेट्स का Google, इंक. ("Google") Firebase Crashlytics और Firebase Analytics के साथ-साथ Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication आदि जैसी अन्य सुविधाएं प्रदान करता है। ये उपकरण और प्रौद्योगिकियां विशिष्ट प्रकार के डेटा को इकट्ठा और विश्लेषण करती हैं, जिसमें उपयोग मेट्रिक्स और आंकड़े, उपयोग पैटर्न, विशिष्ट उपकरण पहचानकर्ता और इसी तरह के अन्य डेटा शामिल हैं। Google के लिए Firebase द्वारा उत्पादित डेटा को अमेरिकी सर्वर पर भेजना और संग्रहीत करना संभव है। Firebase के इस्तेमाल से हम अपने प्लेटफॉर्म को बेहतर बना सकते हैं। '
         },
-        text4:"•	कृपया Firebase की गोपनीयता नीति देखें: ",
+        text4:"कृपया Firebase की गोपनीयता नीति देखें: ",
         link:'https://firebase.google.com/support/privacy.',
         contact:{bold:'संपर्क जानकारी: ',normal:' जब कोई उपयोगकर्ता या अन्य पक्ष हमारी संपर्क जानकारी का उपयोग करके हमसे संपर्क करता है, तो हम उस व्यक्ति के बारे में कुछ व्यक्तिगत रूप से पहचान योग्य जानकारी, जैसे नाम और ईमेल पता, तक पहुँचने में सक्षम हो सकते हैं। हमारी संपर्क जानकारी के माध्यम से दिया गया व्यक्तिगत डेटा हमारी ईमेल सेवा के सर्वर पर रखा जाता है, न कि किसी FyndFit सर्वर पर।'},
 
@@ -1853,15 +1853,15 @@ export const LANGUAGE = {
         five:{
           title:'हम आपकी जानकारी का उपयोग कैसे करते हैं। ',
           text:"सामान्यतया, हम मुख्य रूप से अपने प्लेटफॉर्म और हमारे द्वारा प्रदान की जाने वाली सेवाओं को वितरित करने, संरक्षित करने, सुरक्षित रखने और बढ़ाने के लिए एकत्र किए गए डेटा का उपयोग करते हैं। निम्नलिखित वर्णन करता है कि हम अपने प्लेटफॉर्म के माध्यम से प्राप्त होने वाली व्यक्तिगत जानकारी का उपयोग कैसे करते हैं:",
-          li:'•	मोबाइल एप्लिकेशन प्रदान करते है (Google Play और App Storeपर उपलब्ध )',
-          li2:'•	प्लेटफ़ॉर्म पर उपलब्ध कार्यप्रणाली प्रदान करते है।',
-          li3:'•	हमारे प्लेटफॉर्म का उपयोग करके आपके अनुभव को समझते और बेहतर बनाते है।',
-          li4:'•	हमारी संपर्क जानकारी के माध्यम से आपकी टिप्पणियों या प्रश्नों का उत्तर देते है।',
-          li5:'•	पुष्टिकरण, चालान, तकनीकी नोटिस, अपडेट, सुरक्षा अलर्ट, और समर्थन और प्रशासनिक संदेशों सहित आपको संबंधित जानकारी भेजते है।',
-          li6:'•	FYndFit के बारे में समाचारों के बारे में आपसे संवाद करते है।',
-          li6:'•	FyndFit के मार्केटिंग उद्देश्य के लिए।',
-          li7:'•	आपकी आवश्यकताओं को समझने और आपको बेहतर सेवा प्रदान करने में हमारी मदद करने के लिए हम तृतीय पक्षों से प्राप्त अन्य डेटा के साथ अपनी जानकारी को लिंक या संयोजित करते हैं।',
-          li8:'•	धोखाधड़ी, अनधिकृत या अवैध गतिविधियों की रक्षा, जांच और रोकथाम के लिए।',
+          li:'मोबाइल एप्लिकेशन प्रदान करते है (Google Play और App Storeपर उपलब्ध )',
+          li2:'प्लेटफ़ॉर्म पर उपलब्ध कार्यप्रणाली प्रदान करते है।',
+          li3:'हमारे प्लेटफॉर्म का उपयोग करके आपके अनुभव को समझते और बेहतर बनाते है।',
+          li4:'हमारी संपर्क जानकारी के माध्यम से आपकी टिप्पणियों या प्रश्नों का उत्तर देते है।',
+          li5:'पुष्टिकरण, चालान, तकनीकी नोटिस, अपडेट, सुरक्षा अलर्ट, और समर्थन और प्रशासनिक संदेशों सहित आपको संबंधित जानकारी भेजते है।',
+          li6:'FYndFit के बारे में समाचारों के बारे में आपसे संवाद करते है।',
+          li6:'FyndFit के मार्केटिंग उद्देश्य के लिए।',
+          li7:'आपकी आवश्यकताओं को समझने और आपको बेहतर सेवा प्रदान करने में हमारी मदद करने के लिए हम तृतीय पक्षों से प्राप्त अन्य डेटा के साथ अपनी जानकारी को लिंक या संयोजित करते हैं।',
+          li8:'धोखाधड़ी, अनधिकृत या अवैध गतिविधियों की रक्षा, जांच और रोकथाम के लिए।',
 
         },
         six:{
@@ -1894,31 +1894,31 @@ export const LANGUAGE = {
           text:'डेटा विषयों के रूप में, हमारे प्लेटफॉर्म के माध्यम से जानकारी जमा करने वाले उपयोगकर्ताओं को उस जानकारी तक पहुंचने, अपडेट करने, डाउनलोड करने या हटाने का अधिकार है। उन्हें अपनी जानकारी के प्रसंस्करण को प्रतिबंधित करने और उस जानकारी के विशेष प्रसंस्करण पर आपत्ति करने का भी अधिकार है। जबकि इनमें से कुछ अधिकार सार्वभौमिक हैं, अन्य केवल विशिष्ट, परिभाषित शर्तों के तहत ही लागू होते हैं। यहाँ इन अधिकारों का विवरण दिया गया है:',
           li:{
             bold:'पहुंच और सुवाह्यता: ',
-            normal:'•	 आप हमारी संपर्क जानकारी का उपयोग करके हमसे अनुरोध कर सकते हैं कि हमारे सर्वर पर कौन सी जानकारी रखी जाती है, उस तक पहुंच प्राप्त करें और जानें।'
+            normal:' आप हमारी संपर्क जानकारी का उपयोग करके हमसे अनुरोध कर सकते हैं कि हमारे सर्वर पर कौन सी जानकारी रखी जाती है, उस तक पहुंच प्राप्त करें और जानें।'
           },
           li2:{
             bold:'सुधार, प्रतिबंध, सीमा और विलोपन: ',
-            normal:'•	आपकी बहुत सी जानकारी को ठीक किया जा सकता है, प्रतिबंधित किया जा सकता है, सीमित किया जा सकता है या हटाया जा सकता है।'
+            normal:'आपकी बहुत सी जानकारी को ठीक किया जा सकता है, प्रतिबंधित किया जा सकता है, सीमित किया जा सकता है या हटाया जा सकता है।'
           },
           li3:{
             bold:'सूचित किए जाने का अधिकार:  ',
-            normal:'•	हमारे प्लेटफॉर्म के उपयोगकर्ताओं को हमारे द्वारा एकत्र किए गए डेटा के बारे में जानकारी मांगने का अधिकार है, हम इसका उपयोग कैसे करते हैं, हम इसे कब तक रखते हैं, और क्या हम इसे बाहरी पार्टियों के साथ साझा करते हैं।'
+            normal:'हमारे प्लेटफॉर्म के उपयोगकर्ताओं को हमारे द्वारा एकत्र किए गए डेटा के बारे में जानकारी मांगने का अधिकार है, हम इसका उपयोग कैसे करते हैं, हम इसे कब तक रखते हैं, और क्या हम इसे बाहरी पार्टियों के साथ साझा करते हैं।'
           },
           li4:{
             bold:'	वस्तु: ',
-            normal:'• कुछ स्थितियों में, आप अपने डेटा के प्रसंस्करण पर आपत्ति कर सकते हैं, जब यह जनहित में या हमारे वैध हितों के आधार पर किया जाता है, जैसा कि ऊपर बताया गया है। यदि ऐसा होता है, तो हम आपकी जानकारी को तब तक संसाधित करना बंद कर देंगे जब तक कि हमारे पास ऐसा करने का कोई कानूनी औचित्य न हो या कानूनी आवश्यकताओं के लिए यह आवश्यक न हो।'
+            normal:'कुछ स्थितियों में, आप अपने डेटा के प्रसंस्करण पर आपत्ति कर सकते हैं, जब यह जनहित में या हमारे वैध हितों के आधार पर किया जाता है, जैसा कि ऊपर बताया गया है। यदि ऐसा होता है, तो हम आपकी जानकारी को तब तक संसाधित करना बंद कर देंगे जब तक कि हमारे पास ऐसा करने का कोई कानूनी औचित्य न हो या कानूनी आवश्यकताओं के लिए यह आवश्यक न हो।'
           },
           li5:{
             bold:'सहमति वापस लेना :',
-            normal:'•	 ऐसी स्थितियों में जहां आपने पहले ही हमें अपनी व्यक्तिगत जानकारी को संसाधित करने और संग्रहीत करने की अनुमति दे दी है, उदाहरण के लिए, आपको किसी भी समय अपनी सहमति वापस लेने का अधिकार है। उदाहरण के लिए, आप अपनी सहमति रद्द करने के लिए अपनी सेटिंग बदल सकते हैं। यदि हमारे पास ऐसा करने का कोई वैध कारण है या यदि आपकी सहमति वापस लेना विशिष्ट प्रसंस्करण गतिविधियों तक सीमित था, तो कुछ परिस्थितियों में, आपके द्वारा इसे वापस लेने के बाद भी हम आपकी जानकारी का उपयोग कर सकते हैं।'
+            normal:' ऐसी स्थितियों में जहां आपने पहले ही हमें अपनी व्यक्तिगत जानकारी को संसाधित करने और संग्रहीत करने की अनुमति दे दी है, उदाहरण के लिए, आपको किसी भी समय अपनी सहमति वापस लेने का अधिकार है। उदाहरण के लिए, आप अपनी सहमति रद्द करने के लिए अपनी सेटिंग बदल सकते हैं। यदि हमारे पास ऐसा करने का कोई वैध कारण है या यदि आपकी सहमति वापस लेना विशिष्ट प्रसंस्करण गतिविधियों तक सीमित था, तो कुछ परिस्थितियों में, आपके द्वारा इसे वापस लेने के बाद भी हम आपकी जानकारी का उपयोग कर सकते हैं।'
           },
           li6:{
             bold:'शिकायत: ',
-            normal:'•	आपके पास आपके किसी अन्य अधिकार को प्रभावित किए बिना व्यक्तिगत जानकारी के हमारे उपयोग के संबंध में अपने स्थानीय पर्यवेक्षी प्राधिकरण के पास शिकायत दर्ज करने का अधिकार है। उपयोगकर्ता हमसे संपर्क करने और इन सभी अधिकारों का प्रयोग करने के लिए संपर्क जानकारी या संपर्क पृष्ठ का उपयोग कर सकते हैं।'
+            normal:'आपके पास आपके किसी अन्य अधिकार को प्रभावित किए बिना व्यक्तिगत जानकारी के हमारे उपयोग के संबंध में अपने स्थानीय पर्यवेक्षी प्राधिकरण के पास शिकायत दर्ज करने का अधिकार है। उपयोगकर्ता हमसे संपर्क करने और इन सभी अधिकारों का प्रयोग करने के लिए संपर्क जानकारी या संपर्क पृष्ठ का उपयोग कर सकते हैं।'
           },
           li7:{
             bold:'	प्रोफाइलिंग सहित स्वचालित निर्णय लेने से संबंधित अधिकार:',
-            normal:'• यदि उपयोगकर्ताओं को संदेह है कि उनका डेटा गैरकानूनी रूप से संसाधित किया जा रहा है, तो वे हमारे द्वारा की जाने वाली स्वचालित प्रसंस्करण गतिविधियों की एक प्रति मांग सकते हैं। '
+            normal:'यदि उपयोगकर्ताओं को संदेह है कि उनका डेटा गैरकानूनी रूप से संसाधित किया जा रहा है, तो वे हमारे द्वारा की जाने वाली स्वचालित प्रसंस्करण गतिविधियों की एक प्रति मांग सकते हैं। '
           },
           text2:'हमारी संपर्क जानकारी के माध्यम से हमें अपने अनुरोध देकर, प्लेटफ़ॉर्म के माध्यम से आपूर्ति किए गए व्यक्तिगत डेटा के उपयोगकर्ता या मालिक किसी भी समय और बिना किसी प्रतिबंध के अपने डेटा पर इन अधिकारों का प्रयोग कर सकते हैं।'
         },
@@ -1934,126 +1934,124 @@ export const LANGUAGE = {
           title:"संपर्क करें ",
           text:"यदि आपके पास इस गोपनीयता नीति के बारे में कोई प्रश्न या चिंता है, आपका डेटा कैसे प्रबंधित किया जाता है, या यह कैसे सुरक्षित है, तो कृपया नीचे दिए गए विवरण का उपयोग करके हमसे संपर्क करें।",
           copyright:'AppBuildr Limited - FyndFit.',
-          address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
+          address:'(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)'
         }
       }
     },
     terms: {
-      title:'TERMS AND CONDITIONS',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'These are the terms and conditions for: ',
-      li:'FyndFit mobile application (Available on Google Play and App Store).',
+      title:'नियम और शर्तें',
+      welcomeText:'FyndFit में आपका स्वागत है!',
+      text:'FyndFit का स्वामित्व और संचालन AppBuildr Limited के पास है।',
+      text2:'ये नियम व शर्तें निम्न के लिए हैं: ',
+      li:'	FyndFit मोबाइल एप्लिकेशन (Google Play और App Store पर उपलब्ध)।',
       li2:'https://fyndfit.com',
-      text3:'By using the platform, you agree to be bound by these terms and conditions and our privacy policy. In these terms and conditions, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
-      text4:'The following terms and conditions apply to your use of the platform. This includes mobile and tablet versions, as well as any other version of FyndFit accessible via desktop, mobile, tablet, social media or other devices.',
-      text5:'PLEASE READ THESE CONDITIONS CAREFULLY BEFORE DOWNLOADING AND USING THE FUNCTIONALITIES AVAILABLE ON THE PLATFORM.',
+      text3:'प्लेटफ़ॉर्म का उपयोग करके, आप इन नियमों और गोपनीयता पर हमारी नीति का पालन करने के लिए सहमत होते हैं। इन नियमों और शर्तों में, "प्लेटफार्म" का मतलब FyndFit मोबाइल ऐप और वेबसाइट से है, "हम", "हमें", "हमारे", और "FyndFit" का मतलब FyndFit से है, और "आप" और "यूज़र" का मतलब आप से है जो FyndFit के उपयोगकर्ता है।',
+      text4:'जब तक आप निम्नलिखित नियमों से सहमत हैं तब तक आप प्लेटफार्म का उपयोग कर सकते हैं। इसमें फोन और टैबलेट के संस्करणों के साथ-साथ FyndFit का कोई अन्य संस्करण भी शामिल है जिसका उपयोग कंप्यूटर, फोन, टैबलेट, सोशल मीडिया या अन्य डिवाइस पर किया जा सकता है।',
+      text5:'प्लेटफ़ॉर्म के किसी भी प्रकार्य को डाउनलोड करने और उसका उपयोग करने से पहले कृपया इन शर्तों को सावधानीपूर्वक पढ़ें।',
       
 
     points:{
       one:{
-        title:'1. ACCEPTANCE OF TERMS',
-        text:'By using the platform, you agree to be bound by this agreement. If you do not accept the terms of this agreement, you should not use the platform and discontinue use of the platform immediately. We may modify this agreement from time to time, and such modification shall be effective upon its posting on the platform. You agree to be bound by any modification to these terms and conditions when you use FyndFit after any such modification is posted; it is, therefore, important that you review this Agreement regularly.',
-        text2:'Use of the platform is prohibited for children under the age of 13. In the case of children under 18 and over 13, it is the responsibility of parents and legal guardians to determine whether the use of the platform or any of the content and functionality available on the platform is appropriate for their child or minor in custody. ',
-          text3:'By using the platform, you represent and warrant that you have the full right, power and authority to enter into this agreement and to fully perform all of your obligations hereunder. You further represent and warrant that you are under no legal disability or contractual restriction that prevents you from entering into this agreement.'
+        title:'शर्तों की स्वीकृति',
+        text:'जब आप प्लेटफार्म का उपयोग करते हैं तो आप इस समझौते से बाध्य होने के लिए सहमत होते हैं। यदि आप इस समझौते की शर्तों से सहमत नहीं हैं, तो प्लेटफार्म का उपयोग न करें और तुरंत इसका उपयोग करना बंद कर दें। हम किसी भी समय इस समझौते को बदल सकते हैं, और प्लेटफार्म पर पोस्ट किए जाने पर परिवर्तन प्रभावी होंगे। जब आप इन नियमों और शर्तों में बदलाव के बाद FyndFit का उपयोग करते हैं, तो आप इससे बाध्य होने के लिए सहमत होते हैं। इस वजह से, यह महत्वपूर्ण है कि आप इस समझौते को अक्सर पढ़ें।',
+        text2:'13 वर्ष से कम उम्र के बच्चों को ऐप का उपयोग करने की अनुमति नहीं है। 18 वर्ष से कम और 13 वर्ष से अधिक उम्र के बच्चों के लिए यह तय करना उनके माता-पिता या कानूनी अभिभावकों पर निर्भर करता है कि प्लेटफॉर्म या प्लेटफॉर्म पर कोई सामग्री या विशेषताएं उनके बच्चे या उनकी देखभाल में नाबालिग के लिए उपयुक्त हैं या नहीं। ',
+          text3:'मंच का उपयोग करके, आप प्रतिनिधित्व करते हैं और गारंटी देते हैं कि आपके पास इस समझौते में प्रवेश करने और इसके तहत अपने सभी कर्तव्यों को पूरा करने का पूर्ण अधिकार, शक्ति और क्षमता है। आप यह भी वादा और गारंटी देते हैं कि आप कानूनी रूप से अक्षम नहीं हैं या किसी ऐसे अनुबंध से बंधे नहीं हैं जो आपको इस समझौते पर हस्ताक्षर करने से रोकता है।'
       },
       two:{
-          title:'2. DISCLAIMER',
-          text:"By accessing the platform and the functionality available on the platform, the user accepts personal responsibility for the results of the use of the information and content available on the platform. The user accepts and represents that FyndFit does NOT guarantee any benefit or positive outcome from the use of the information the user obtains through the use of the platform. FyndFit provides the content for informational and educational purposes only. You acknowledge that your ultimate success or failure will be the result of your own efforts, your particular situation, and a variety of circumstances beyond FyndFit's control. Your use or misuse of any content or information obtained through the use of the platform is at your own risk and responsibility. FyndFit does not accept any claims for the use or misuse of information obtained through the use of the platform.",
-          text2:'By using the platform, you represent that you understand that physical exercise involves strenuous physical movements that may carry risks of physical injury. You understand that it is your responsibility to judge your physical capabilities for such activities. It is your responsibility to ensure that, when participating in the activities included in the content, you will not exceed your limits in performing such activities, and you will select the level of exertion appropriate to your capabilities and abilities, as well as any mental or physical conditions and/or limitations you may have. You understand that, from time to time, FyndFit may suggest exercises and fitness routines or the use of equipment, and it is your sole responsibility to determine whether such suggested exercises or equipment are appropriate for your level of physical and mental ability and condition. FyndFit is not responsible for any physical harm you may suffer as a result of your use of the content available on the platform. You expressly waive and release FyndFit from any and all liability or claims in the event that damage occurs as a result of your use of the information and content available on the platform. It is recommended that before engaging in any physical exercise suggested in the content available through our platform, you consult a healthcare professional to assess your physical condition.',
-          text3:'Please note that FyndFit does not provide medical advice. The information and content available on the platform is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. The information and content available on the platform are not intended to diagnose, treat, cure or prevent any disease.',
+          title:'अस्वीकरण',
+          text:"प्लेटफ़ॉर्म और उस पर उपलब्ध कार्यक्षमता तक पहुँचने के द्वारा, उपयोगकर्ता प्लेटफ़ॉर्म पर उपलब्ध जानकारी और सामग्री के उपयोग के परिणामों के लिए व्यक्तिगत जिम्मेदारी स्वीकार करता है। उपयोगकर्ता स्वीकार करता है और प्रतिनिधित्व करता है कि FyndFit प्लेटफ़ॉर्म के उपयोग के माध्यम से उपयोगकर्ता द्वारा प्राप्त जानकारी के उपयोग से किसी भी लाभ या सकारात्मक परिणाम की गारंटी नहीं देता है। FyndFit केवल सूचनात्मक और शैक्षिक उद्देश्यों के लिए सामग्री प्रदान करता है। आप स्वीकार करते हैं कि आपकी अंतिम सफलता या असफलता आपके स्वयं के प्रयासों, आपकी विशेष स्थिति, और विभिन्न प्रकार की परिस्थितियों का परिणाम होगी जो FyndFit के नियंत्रण से बाहर हैं। प्लेटफ़ॉर्म के उपयोग के माध्यम से प्राप्त किसी भी सामग्री या जानकारी का आपका उपयोग या दुरुपयोग आपके अपने जोखिम और जिम्मेदारी पर है। FyndFit प्लेटफॉर्म के उपयोग के माध्यम से प्राप्त जानकारी के उपयोग या दुरुपयोग के किसी भी दावे को स्वीकार नहीं करता है।",
+          text2:'मंच का उपयोग करके, आप कह रहे हैं कि आप जानते हैं कि व्यायाम में कठिन शारीरिक गतिविधियां शामिल हैं जो शारीरिक नुकसान पहुंचा सकती हैं। आप जानते हैं कि यह तय करना आपके ऊपर है कि आपका शरीर इस प्रकार की गतिविधियों को संभाल सकता है या नहीं। यह सुनिश्चित करना आप पर निर्भर है कि जब आप सामग्री में गतिविधियाँ करते हैं, तो आप अपनी सीमाओं से परे नहीं जाते हैं और प्रयास के उस स्तर का चयन करते हैं जो आपके कौशल, क्षमताओं और किसी भी मानसिक या शारीरिक स्थिति या सीमा के अनुकूल हो। आप समझते हैं कि FyndFit समय-समय पर व्यायाम, फ़िटनेस रूटीन या उपकरणों के उपयोग की पेशकश कर सकता है। यह तय करना आपके ऊपर है कि व्यायाम या उपकरण आपके शारीरिक और मानसिक क्षमता और स्थिति के स्तर के लिए सही हैं या नहीं। FyndFit प्लेटफ़ॉर्म पर जानकारी का उपयोग करने से आपको होने वाली किसी भी शारीरिक क्षति के लिए ज़िम्मेदार नहीं है। यदि आप प्लेटफ़ॉर्म पर जानकारी और सामग्री का उपयोग करते हैं और इसके कारण कुछ बुरा होता है, तो आप FyndFit को किसी भी और सभी दावों या उत्तरदायित्व से मुक्त कर देते हैं। इससे पहले कि आप हमारे प्लेटफॉर्म पर सामग्री में उल्लिखित किसी भी अभ्यास को आजमाएं, आपको यह पता लगाने के लिए कि आपका शरीर कैसा कर रहा है, एक चिकित्सा पेशेवर से बात करनी चाहिए।',
+          text3:'कृपया ध्यान रखें कि FyndFit चिकित्सीय सलाह नहीं देता है। प्लेटफॉर्म पर दी गई जानकारी और सामग्री का मतलब किसी चिकित्सक की चिकित्सा सलाह, निदान या उपचार के प्रतिस्थापन के लिए नहीं है। मंच की सामग्री और सामग्री रोगों का निदान, उपचार, इलाज या रोकथाम के लिए नहीं है।',
   
       },
       three:{
-          title:'3. LICENSE TO USE THE PLATFORM',
-          text:'FyndFit grants you a personal, worldwide, royalty-free, non-assignable, non-exclusive license to use the Platform. This license is for the sole purpose of allowing you to use the features available on the platform in the manner permitted by these terms. You may not copy, modify, distribute, sell or lease any part of our platform or included software, nor may you reverse engineer or attempt to extract the source code of such software, unless such restrictions are prohibited by law, or you have our written permission.',
-          text2:"The user agrees not to use the platform and the services negligently, for fraudulent purposes or in an unlawful manner. Likewise, the user agrees not to partake in any conduct or action that could damage the image, interests, or rights of the FyndFit platform or third parties. FyndFit reserves the right to terminate your access immediately, with or without notice, and without liability to you, if FyndFit believes that you have violated any of these terms or interfered with the use of the platform by others. ",
+          title:'प्लेटफॉर्म का उपयोग करने के लिए लाइसेंस',
+          text:'FyndFit आपको प्लेटफॉर्म का उपयोग करने का लाइसेंस देता है जो व्यक्तिगत, वैश्विक, रॉयल्टी-मुक्त, गैर-हस्तांतरणीय और अनन्य नहीं है। यह लाइसेंस केवल आपको इन शर्तों द्वारा अनुमत तरीकों से प्लेटफॉर्म की सुविधाओं का उपयोग करने देने के उद्देश्य से है। आप हमारे प्लेटफॉर्म या इसके साथ आने वाले सॉफ़्टवेयर के किसी भी हिस्से को कॉपी, बदल, साझा, बेच या किराए पर नहीं ले सकते। जब तक यह कानून के खिलाफ न हो या हम आपको ऐसा करने की लिखित अनुमति न दें, तब तक आप उस सॉफ़्टवेयर को रिवर्स इंजीनियर करने या उसका स्रोत कोड प्राप्त करने का प्रयास नहीं कर सकते।',
+          text2:"उपयोगकर्ता इस बात से सहमत है कि वह प्लेटफ़ॉर्म और सेवाओं का लापरवाही से, धोखे से या इस तरह से उपयोग नहीं करेगा जो कानून के विरुद्ध हो। साथ ही, उपयोगकर्ता सहमत है कि वह ऐसा कुछ भी नहीं करेगा या नहीं करेगा जिससे FyndFit या तीसरे पक्ष की प्रतिष्ठा, रुचियों या अधिकारों को ठेस पहुँचे। अगर FyndFit को लगता है कि आपने इनमें से कोई भी नियम तोड़ा है या प्लेटफ़ॉर्म का उपयोग करने वाले अन्य लोगों के रास्ते में आया है, तो FyndFit के पास किसी भी समय, चेतावनी के साथ या उसके बिना, और आपको कुछ भी भुगतान किए बिना आपकी पहुंच को काटने का अधिकार है। ",
   
       },
       four:{
-          title:'4. ADVERTISING',
-          text:'Through the content of the platform, FyndFit may make commercial and advertising information available to users, whether on its own or that of third parties, in accordance with good commercial practices. In these cases, FyndFit does not endorse, guarantee or undertake to respond to the services and/or products marketed by said third parties, as the platform serves as an advertising channel, but not as a tool for the provision of services. Consequently, it is the full responsibility of the users to access third-party sites, assuming the obligation to verify and know the conditions of the services and products offered by said third parties.',
+          title:'विज्ञापन',
+          text:'FyndFit प्लेटफॉर्म की सामग्री के माध्यम से उपयोगकर्ताओं के साथ वाणिज्यिक और विज्ञापन जानकारी साझा कर सकता है, चाहे वह स्वयं की हो या किसी तीसरे पक्ष की। यह अच्छी व्यावसायिक प्रथाओं के अनुरूप है। इन स्थितियों में, FyndFit उन सेवाओं और/या उत्पादों का समर्थन, गारंटी या जवाब देने का वादा नहीं करता है, जिन्हें ये तृतीय पक्ष बेच रहे हैं, क्योंकि प्लेटफ़ॉर्म केवल विज्ञापन देने का एक तरीका है और सेवाएं प्रदान करने का तरीका नहीं है। इसलिए, यह उपयोगकर्ताओं पर निर्भर है कि वे तृतीय-पक्ष साइटों पर जाएं, और यह उन पर निर्भर है कि वे उन तृतीय पक्षों द्वारा प्रदान की जाने वाली सेवाओं और उत्पादों की शर्तों को देखें और समझें।',
           
       },
       five:{
-          title:'5. COPYRIGHT',
-          text:"All materials on FyndFit, including, without limitation, names, logos, trademarks, games, images, text, columns, graphics, videos, photographs, illustrations, software and other elements are protected by copyrights, trademarks and/or other intellectual property rights owned and controlled by FyndFit or by third parties that have licensed or otherwise provided their material to the platform. You acknowledge and agree that all Materials on FyndFit are made available for limited, non-commercial, personal use only. Except as specifically provided herein. No material may be copied, reproduced, republished, sold, downloaded, posted, transmitted, or distributed in any way, or otherwise used for any purpose, by any person or entity, without FyndFit's prior express written permission. You may not add, delete, distort, or otherwise modify the material. Any unauthorised attempt to modify any material, to defeat or circumvent any security features, or to utilise FyndFit or any part of the material for any purpose other than its intended purposes is strictly prohibited.",
+          title:'कॉपीराइट',
+          text:"FyndFit पर सभी सामग्री, जिनमें नाम, लोगो, ट्रेडमार्क, गेम, इमेज, टेक्स्ट, कॉलम, ग्राफिक्स, वीडियो, फोटो, चित्र, सॉफ्टवेयर और अन्य तत्व शामिल हैं, लेकिन इन्हीं तक सीमित नहीं है, कॉपीराइट, ट्रेडमार्क और अन्य तत्वों द्वारा सुरक्षित है। /या अन्य बौद्धिक संपदा अधिकारों का स्वामित्व और नियंत्रण FyndFit या तृतीय पक्षों के पास है जिन्होंने प्लेटफ़ॉर्म को लाइसेंस दिया है या अन्यथा अपनी सामग्री दी है। आप समझते हैं और सहमत हैं कि आप केवल व्यक्तिगत, गैर-व्यावसायिक उपयोग के लिए FyndFit पर सामग्री का उपयोग कर सकते हैं। सिवाय इसके कि इस दस्तावेज़ में ऐसा कहाँ कहा गया है। FyndFit की लिखित अनुमति के बिना, कोई भी या संगठन किसी भी तरह से किसी भी सामग्री की कॉपी, पुनरुत्पादन, पुनर्प्रकाशन, बिक्री, डाउनलोड, पोस्ट, ट्रांसमिट या प्रसार नहीं कर सकता है या किसी अन्य उद्देश्य के लिए इसका उपयोग नहीं कर सकता है। आप जानकारी में कुछ भी जोड़ नहीं सकते, हटा नहीं सकते, बदल नहीं सकते या कुछ और नहीं कर सकते। अनुमति के बिना, सामग्री को बदलने, सुरक्षा सुविधाओं से बचने का कोई भी प्रयास, या FyndFit या सामग्री के किसी भी हिस्से का उपयोग इसके अलावा किसी अन्य चीज़ के लिए करना, जिसके लिए इसे बनाया गया था, कानून के विरुद्ध है।",
          
       },
       six:{
-          title:'6. COPYRIGHT INFRINGEMENT ',
-          text:'FyndFit will respond to all enquiries, complaints and claims relating to alleged infringement by breach or violation of the provisions contained in UK and international copyright and intellectual property laws and regulations. FyndFit respects the intellectual property of others and expects users to do the same. If you believe, in good faith, that any material provided on the FyndFit website infringes your copyright or other intellectual property rights, please submit your request via our contact information, with the following information:  ',
-          li:'Identification of the intellectual property right that is allegedly infringed. All relevant registration numbers or a statement regarding ownership of the work should be included.',
-          li2:'A statement that specifically identifies the location of the infringing material, in sufficient detail so that FyndFit can find it on the platform. ',
-          li3:"Your name, address, telephone number and email address.",
-          li4:"A statement by you that you have a good faith belief that the use of the allegedly infringing material is not authorised by the copyright owner, its agents, or by law.",
-          li5:"A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or authorised to act on its behalf.",
-          li6:"An electronic or physical signature of the copyright owner or of the person authorised to act on the copyright owner's behalf."
+          title:'कॉपीराइट का उल्लंघन ',
+          text:'FyndFit यूके और अंतरराष्ट्रीय कॉपीराइट और बौद्धिक संपदा कानूनों और विनियमों में निहित प्रावधानों के भंग या उल्लंघन से संबंधित सभी पूछताछ, शिकायतों और दावों का जवाब देगा। FyndFit दूसरों की बौद्धिक संपदा का सम्मान करता है और उम्मीद करता है कि उपयोगकर्ता भी ऐसा ही करें। यदि आप नेकनीयती से मानते हैं कि FyndFit वेबसाइट पर प्रदान की गई कोई भी सामग्री आपके कॉपीराइट या अन्य बौद्धिक संपदा अधिकारों का उल्लंघन करती है, तो कृपया निम्नलिखित जानकारी के साथ हमारी संपर्क जानकारी के माध्यम से अपना अनुरोध सबमिट करें:',
+          li:'	बौद्धिक संपदा अधिकार जिसका उल्लंघन किया गया है। सभी आवश्यक पंजीकरण संख्याएँ या कार्य के स्वामी के बारे में एक विवरण शामिल करें।',
+          li2:'	एक बयान जो FyndFit को बताता है कि प्लेटफॉर्म पर अवैध सामग्री कहां है और इसे खोजने के लिए पर्याप्त जानकारी देता है।',
+          li3:"	आपका नाम, पता, ईमेल पता और फोन नंबर।",
+          li4:"	आपकी ओर से एक बयान जिसमें कहा गया है कि आपको सद्भावना से विश्वास है कि कॉपीराइट स्वामी, उसके एजेंट या कानून आपको कथित रूप से उल्लंघन करने वाली सामग्री का उपयोग करने की अनुमति नहीं देते हैं।",
+          li5:"	झूठी गवाही के दंड के तहत दिया गया आपका एक बयान, कि आपके नोटिस में दी गई जानकारी सत्य है और आप कॉपीराइट के स्वामी हैं या इसकी ओर से कार्य करने की अनुमति है।",
+          li6:"	कॉपीराइट के स्वामी या उस व्यक्ति का कंप्यूटर या भौतिक हस्ताक्षर जिसके पास कॉपीराइट के स्वामी की ओर से कार्य करने की अनुमति है।"
       },
       seven:{
-          title:"7. PROHIBITED ACTIVITIES",
-          text:"The content and information available on the platform (including, but not limited to, data, information, text, music, sound, photos, graphics, video, maps, icons or other material), as well as the infrastructure used to provide such content and information, is proprietary to FyndFit or licensed to the FyndFit by third parties. For all content other than your content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software or services obtained from or through the platform. In addition, the following activities are prohibited:",
-          li:"Access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any content of the services, including but not limited to, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this agreement or without our express written permission.",
-          li2:"Violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services.",
-          li3:"Take any action that imposes, or may impose, at our discretion, an unreasonable or disproportionately large load on our infrastructure.",
-          li4:"Deep-link to any portion of the services for any purpose without our express written permission.",
-          li5:`"Frame", "mirror" or otherwise incorporate any part of the platform into any other websites or service without our prior written authorisation.`,
-          li6:'Attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by FyndFit in connection with the services.',
-          li7:'Circumvent, disable or otherwise interfere with security-related features of the platform or features that prevent or restrict the use or copying of any content.'
+          title:"निषिद्ध गतिविधियाँ",
+          text:"प्लेटफ़ॉर्म पर सभी डेटा, जानकारी, पाठ, संगीत, ध्वनि, फ़ोटो, ग्राफ़िक्स, वीडियो, मानचित्र, आइकन और अन्य सामग्री, साथ ही साथ यह डेटा और जानकारी प्रदान करने के लिए उपयोग की जाने वाली अवसंरचना, FyndFit से संबंधित है या उसे लाइसेंस दिया गया है किसी तीसरे पक्ष द्वारा FyndFit को। आप प्लेटफ़ॉर्म से या उसके माध्यम से प्राप्त होने वाली किसी भी जानकारी, सॉफ़्टवेयर या सेवाओं को बदलने, कॉपी करने, वितरित करने, प्रसारित करने, दिखाने, प्रदर्शन करने, पुन: पेश करने, प्रकाशित करने, लाइसेंस देने, व्युत्पन्न कार्य करने, स्थानांतरित करने, बेचने या फिर से बेचने के लिए सहमत नहीं हैं। आपकी अपनी सामग्री को छोड़कर। इसके अलावा, निम्नलिखित गतिविधियां प्रतिबंधित हैं:",
+          li:"	किसी भी रोबोट, स्पाइडर, स्क्रेपर, या का उपयोग करते हुए सेवाओं से किसी भी सामग्री तक पहुंच, निगरानी, प्रतिलिपि, पुनरुत्पादन, वितरण, प्रसारण, प्रसारण, प्रदर्शन, बिक्री, लाइसेंस, कॉपी, या किसी अन्य तरीके से उपयोग करें, लेकिन इस तक सीमित नहीं है। अन्य स्वचालित साधन या किसी भी उद्देश्य के लिए कोई मैन्युअल प्रक्रिया जो इस समझौते के अनुरूप या हमारी लिखित अनुमति के बिना नहीं है।",
+          li2:"	आप सेवाओं पर किसी भी रोबोट बहिष्करण शीर्षलेख में नियमों को नहीं तोड़ सकते हैं या लोगों को सेवाओं का उपयोग करने से रोकने या उनके उपयोग को सीमित करने के लिए अन्य साधनों को प्राप्त नहीं कर सकते हैं।",
+          li3:"	ऐसा कुछ भी करें जो हमारे निर्णय पर हमारे बुनियादी ढांचे पर अनुचित या अनुपातहीन रूप से बड़ा भार डालता हो या डाल सकता हो।",
+          li4:"	हमारी हस्ताक्षरित अनुमति के बिना, आप किसी भी कारण से सेवाओं के किसी भी भाग से डीप-लिंक नहीं कर सकते।",
+          li5:`	हमारी विशिष्ट अनुमति के बिना, आप "फ्रेम," "मिरर" नहीं कर सकते हैं या अन्यथा किसी अन्य वेबसाइट या सेवा में प्लेटफ़ॉर्म का कोई हिस्सा नहीं जोड़ सकते हैं।`,
+          li6:'	सेवाओं के संबंध में FyndFit द्वारा उपयोग किए जाने वाले किसी भी सॉफ़्टवेयर प्रोग्राम को बदलने, अनुवाद करने, अनुकूलित करने, संपादित करने, डिकोड करने, अलग करने या रिवर्स इंजीनियर करने का प्रयास करें।',
+          li7:'	प्लेटफ़ॉर्म की सुरक्षा सुविधाओं या सामग्री का उपयोग या कॉपी करने के तरीके को रोकने या सीमित करने वाली सुविधाओं के साथ इधर-उधर हो जाएं, बंद कर दें या अन्यथा गड़बड़ कर दें।'
       },
       eight:{
-          title:"8. DISCLAIMER OF WARRANTIES ",
-          text:`Because of the nature of the Internet FyndFit provides and maintains the platform on an "as is", and "as available" basis and makes no promise that the use of the platform will be uninterrupted or entirely error-free. We are not responsible to you if we are unable to provide our Internet services for any reason beyond our control.
-          Except as provided above we can give no other warranties, conditions or other terms, express or implied, statutory or otherwise and all such terms are hereby excluded to the maximum extent permitted by law.
-          `,
-          text2:"You will be responsible for any breach of these terms by you and if you use the platform in breach of these terms you will be liable to and will reimburse FyndFit for any loss or damage caused as a result.",
-          text3:"FyndFit shall not be liable for any amount for failure to perform any obligation under this Agreement if such failure is due to the occurrence of any unforeseen event beyond its reasonable control, including, without limitation, Internet outages, communications outages, fire, flood, or any uncontrollable act of nature.",
-          text4:"These terms do not affect your statutory rights as a consumer which are available to you. Subject as aforesaid, to the maximum extent permitted by law, FyndFit excludes liability for any loss or damage of any kind howsoever arising, including without limitation any direct, indirect or consequential loss whether or not such arises out of any problem you notify to FyndFit and FyndFit shall have no liability to pay any money by way of compensation, including without limitation all liability in relation to:",
-          li:"Any incorrect or inaccurate information on the platform.",
-          li2:'The infringement by any person of any Intellectual Property Rights of any third party caused by their use of the platform.',
-          li3:"Any loss or damage resulting from your use or the inability to use the platform or resulting from unauthorised access to, or alteration of your transmissions or data in circumstances which are beyond our control.",
-          li4:"Any loss of profit, wasted expenditure, corruption or destruction of data or any other loss which does not directly result from something we have done wrong.",
-          li5:"Any amount or kind of loss or damage due to viruses or other malicious software that may infect a user's computer equipment, software, data or other property caused by persons accessing or using content from the platform or from transmissions via emails or attachments received from FyndFit.",
-          li6:"All representations, warranties, conditions and other terms which but for this notice would have an effect."
+          title:"वारंटियों का अस्वीकरण ",
+          text:`इंटरनेट कैसे काम करता है, इस वजह से FyndFit प्लेटफ़ॉर्म "जैसा है" और "जैसा उपलब्ध है" प्रदान करता है और उसका रखरखाव करता है। यह इस बात की गारंटी नहीं देता है कि प्लेटफॉर्म त्रुटि मुक्त होगा या यह हमेशा काम करेगा। अगर हम किसी कारण से आपको अपनी इंटरनेट सेवाएं नहीं दे सकते हैं, जिसे हम नियंत्रित नहीं कर सकते हैं, तो हम आपके लिए जिम्मेदार नहीं हैं।`,
+          text2:"ऊपर कही गई बातों के अलावा, हम कोई अन्य वारंटी, शर्तें, या अन्य शर्तें नहीं दे सकते, चाहे वे बताई गई हों या निहित हों, वैधानिक हों या नहीं, और हम ऐसी सभी शर्तों को कानून द्वारा अनुमत पूर्ण सीमा तक बाहर कर रहे हैं। यदि आप इन नियमों को तोड़ते हैं तो आप जिम्मेदार हैं, और यदि आप प्लेटफॉर्म का इस तरह से उपयोग करते हैं जो इन नियमों को तोड़ता है, तो इसके परिणामस्वरूप होने वाले किसी भी नुकसान या क्षति के लिए आप जिम्मेदार होंगे और इसके लिए FyndFit को भुगतान करेंगे। ",
+          text3:"FyndFit किसी भी चीज़ के लिए ज़िम्मेदार नहीं है अगर वह इस समझौते के तहत अपने नियंत्रण से बाहर किसी चीज़ के कारण किसी दायित्व को पूरा नहीं करता है। इसमें इंटरनेट आउटेज, संचार आउटेज, आग, बाढ़, या प्रकृति का कोई अन्य कार्य शामिल है, लेकिन यह इतनी ही सीमित नहीं है, जिसे रोका नहीं जा सकता है। उपभोक्ता के रूप में आपके कानूनी अधिकार इन नियमों से प्रभावित नहीं होते हैं। ",
+          text4:"उपरोक्त के अधीन, और कानून द्वारा अनुमत पूर्ण सीमा तक, FyndFit किसी भी प्रकार के नुकसान या क्षति के लिए ज़िम्मेदार नहीं है, चाहे वह कैसे भी हुआ हो। इसमें कोई भी प्रत्यक्ष, अप्रत्यक्ष, या परिणामी नुकसान शामिल है, भले ही यह उस समस्या के कारण हुआ हो या नहीं जिसके बारे में आपने FyndFit को बताया था। FyndFit आपको मुआवजे के रूप में किसी भी पैसे का भुगतान करने के लिए ज़िम्मेदार नहीं है, जिसमें निम्नलिखित से संबंधित सभी देयताएं शामिल हैं, लेकिन इन तक सीमित नहीं हैं:",
+          li:"	प्लेटफॉर्म पर कोई भी गलत या गलत जानकारी।",
+          li2:'	मंच के उनके उपयोग के कारण किसी भी तीसरे पक्ष के बौद्धिक संपदा अधिकारों के किसी भी व्यक्ति द्वारा उल्लंघन।',
+          li3:"	आपके उपयोग या प्लेटफॉर्म का उपयोग करने में असमर्थता के परिणामस्वरूप होने वाली कोई भी हानि या क्षति या हमारे नियंत्रण से बाहर की परिस्थितियों में आपके प्रसारण या डेटा में अनधिकृत पहुंच या परिवर्तन के परिणामस्वरूप।",
+          li4:"	लाभ का कोई नुकसान, व्यर्थ व्यय, भ्रष्टाचार या डेटा का विनाश या कोई अन्य नुकसान जो सीधे तौर पर हमारे द्वारा किए गए किसी गलत काम का परिणाम नहीं है।",
+          li5:"	वायरस या अन्य दुर्भावनापूर्ण सॉफ़्टवेयर के कारण कोई भी राशि या प्रकार की हानि या क्षति जो किसी उपयोगकर्ता के कंप्यूटर उपकरण, सॉफ़्टवेयर, डेटा या अन्य संपत्ति को प्लेटफॉर्म से सामग्री तक पहुँचने या उपयोग करने या ईमेल या FyndFit से प्राप्त अनुलग्नकों के माध्यम से प्रसारण के कारण अन्य संपत्ति को संक्रमित कर सकती है ।",
+          li6:"	सभी अभ्यावेदन, वारंटी, शर्तें और अन्य शर्तें जो इस नोटिस के बिना प्रभावी होंगी।"
       },
       nine:{
-          title:'9. ELECTRONIC COMMUNICATIONS',
-          text:"FyndFit will not accept any responsibility for failed, partial or garbled computer transmissions, for any breakdown, failure, connection or availability of a computer, telephone, network, electronic or Internet hardware or software, for Internet accessibility or availability or traffic congestion or for any unauthorised human acts, including any errors or mistakes."
+          title:'इलेक्ट्रॉनिक संचार',
+          text:"FyndFit कंप्यूटर, टेलीफोन, नेटवर्क, इलेक्ट्रॉनिक या इंटरनेट हार्डवेयर या सॉफ़्टवेयर की किसी भी खराबी, विफलता, कनेक्शन या उपलब्धता के लिए विफल, आंशिक या विकृत कंप्यूटर प्रसारण के लिए कोई जिम्मेदारी स्वीकार नहीं करेगा, इंटरनेट पहुंच या उपलब्धता या यातायात की भीड़ के लिए या किसी के लिए किसी भी त्रुटि या गलती सहित अनधिकृत मानव कार्य।"
       },
       ten:{
-          title:'10. INDEMNIFICATION',
-          text:"You agree to defend and indemnify FyndFit from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:",
-          li:"Your breach of this agreement or the documents referenced herein.",
-          li2:"Your violation of any law or the rights of a third party",
-          li3:"Your use of the FyndFit platform."
+          title:' क्षतिपूर्ति',
+          text:"आप किसी भी तीसरे पक्ष के दावों, कार्यों, मांगों, वसूली, नुकसान, नुकसान, जुर्माना, दंड, या किसी भी प्रकार या प्रकृति के अन्य लागत या व्यय से और उसके खिलाफ FyndFit को हानिरहित रखने और सुरक्षित रखने के लिए सहमति देते हैं, जिसमें उचित कानूनी और सीमित नहीं है। लेखांकन शुल्क, जो इसके संबंध में बनाए गए हैं:",
+          li:"•	आप इस समझौते या किसी भी अन्य कागजात को तोड़ रहे हैं जो इसे संदर्भित करता है।",
+          li2:"•	कोई भी कानून जिसे आप तोड़ते हैं या किसी और के अधिकारों को आप ठेस पहुँचाते हैं।",
+          li3:"•	आप FyndFit के टूल का उपयोग कैसे करते हैं।"
       },
       eleven:{
-          title:'11. CHANGES AND TERMINATION',
-          text:"We may change the platform and these terms at any time, at our sole discretion and without notice to you. You are responsible for remaining knowledgeable about these terms. Your continued use of the platform constitutes your acceptance of any changes to these terms and any changes will supersede all previous versions of the terms. Unless otherwise specified herein, all changes to these terms apply to all users and take effect. Furthermore, we may terminate this agreement with you under these terms at any time by notifying you in writing (including by email) or without any warning."
+          title:'परिवर्तन और समाप्ति',
+          text:"हम जब चाहें और आपको बताए बिना प्लेटफॉर्म और इन नियमों को बदल सकते हैं। आप यह जानने के लिए जिम्मेदार हैं कि इन शब्दों का क्या अर्थ है। यदि आप प्लेटफ़ॉर्म का उपयोग करना जारी रखते हैं, तो आप इन शर्तों में किसी भी परिवर्तन के लिए सहमत होते हैं, और कोई भी परिवर्तन शर्तों के सभी पिछले संस्करणों को बदल देगा। जब तक अन्यथा न कहा जाए, इन शर्तों में कोई भी परिवर्तन सभी उपयोगकर्ताओं पर लागू होता है और लागू होता है। साथ ही, हम आपके साथ इस सौदे को किसी भी समय समाप्त कर सकते हैं यदि हम आपको लिखित में (ईमेल सहित) बताते हैं या यदि हम आपको कोई नोटिस नहीं देते हैं।"
       },
       twelve: {
-          title:'12. INTEGRATION CLAUSE',
-          text:"This agreement together with the privacy policy and any other legal notices published by FyndFit, shall constitute the entire agreement between you and FyndFit concerning and governs your use of the platform."
+          title:'एकीकरण खंड',
+          text:"यह समझौता, गोपनीयता नीति और FyndFit द्वारा पोस्ट किए गए किसी भी अन्य कानूनी नोटिस के साथ, आपके और FyndFit के बीच की पूरी समझ है कि आप प्लेटफ़ॉर्म का उपयोग कैसे करते हैं और यह कैसे काम करता है।"
       },
       thirteen:{
-          title:'13. DISPUTES',
-          text:"The user agrees that any dispute, claim or controversy arising out of or relating to these terms and conditions, or the breach, termination, enforcement, interpretation or validity thereof or the use of the platform, shall be resolved by binding arbitration between the user and FyndFit, provided that each party retains the right to bring an individual action in a court of competent jurisdiction.",
-          text2:"In the event that a dispute arises in connection with the use of the platform or breach of these terms and conditions, the parties agree to submit their dispute to arbitration resolution before a reputable arbitration organisation as mutually agreed by the parties and in accordance with applicable commercial arbitration rules.",
-          text3:"You agree to initiate a formal dispute proceeding by sending us a communication through our contact information. FyndFit may choose to send you a written offer after receiving your initial communication. If we offer and send you a settlement offer and you do not accept the offer, or we are unable to resolve your dispute satisfactorily and you wish to continue with the dispute process, you must initiate the dispute resolution process before an accredited arbitration organisation and file a separate Demand for Arbitration. Any award rendered by the arbitration tribunal shall be final and conclusive on the parties. ",
-          text4:"To the fullest extent permitted by law, you agree that you will not file, join or participate in any class action lawsuit in connection with any claim, dispute or controversy that may arise in connection with your use of the platform.",
-          text5:"The courts of the United Kingdom shall have jurisdiction over any dispute, controversy or claim relating to FyndFit and its business operations. Any such dispute or controversy shall be brought and resolved in the courts of the United Kingdom."
+          title:'विवाद',
+          text:"उपयोगकर्ता इस बात से सहमत है कि इन नियमों और शर्तों से उत्पन्न होने वाले किसी भी विवाद, दावे, या विवाद, या उल्लंघन, समाप्ति, प्रवर्तन, व्याख्या, या वैधता, या मंच के उपयोग, के बीच बाध्यकारी मध्यस्थता द्वारा सुलझाया जाएगा। उपयोगकर्ता और FyndFit, जब तक कि प्रत्येक पक्ष के पास सक्षम क्षेत्राधिकार वाले न्यायालय में एक व्यक्तिगत कार्रवाई करने का अधिकार है।",
+          text2:"मंच के उपयोग या इन नियमों और शर्तों के उल्लंघन पर विवाद की स्थिति में, पक्ष इस बात से सहमत हैं कि विवाद को एक प्रतिष्ठित मध्यस्थता संगठन के समक्ष मध्यस्थता द्वारा सुलझाया जाएगा, जिस पर दोनों पक्ष सहमत हों और जो वाणिज्यिक मध्यस्थता के नियमों का पालन करता हो।",
+          text3:"आप हमारी संपर्क जानकारी का उपयोग करके हमें एक संदेश भेजकर कानूनी विवाद शुरू करने के लिए सहमत हैं। आपका पहला संदेश मिलने के बाद, FyndFit आपको एक लिखित प्रस्ताव भेजने का निर्णय ले सकता है। यदि हम आपको एक समाधान प्रस्ताव देते हैं और भेजते हैं और आप इसे स्वीकार नहीं करते हैं, या यदि हम आपकी संतुष्टि के अनुसार आपके विवाद को हल नहीं कर सकते हैं और आप विवाद प्रक्रिया को जारी रखना चाहते हैं, तो आपको किसी मान्यता प्राप्त से पहले विवाद समाधान प्रक्रिया शुरू करनी होगी मध्यस्थता संगठन और मध्यस्थता के लिए एक अलग मांग फ़ाइल करें। मध्यस्थता पैनल द्वारा किया गया कोई भी निर्णय अंतिम और दोनों पक्षों के लिए बाध्यकारी होगा। ",
+          text4:"आप इस बात से सहमत हैं कि, जितना कानून अनुमति देता है, आप किसी भी दावे, असहमति, या विवाद पर एक क्लास एक्शन मुकदमा दर्ज नहीं करेंगे, इसमें शामिल नहीं होंगे, या मंच के आपके उपयोग के कारण उत्पन्न होने वाले विवाद में भाग नहीं लेंगे।",
+          text5:"FyndFit और इसके व्यवसाय करने के तरीके के बारे में कोई भी असहमति, विवाद या दावा यूनाइटेड किंगडम की अदालतों द्वारा सुना जाएगा। ऐसी किसी भी असहमति या विवाद को निपटाने के लिए यूनाइटेड किंगडम की अदालतों में ले जाया जाना चाहिए।"
       },
       fourteen:{
-          title:'14. FINAL PROVISIONS',
-          text:"These terms and conditions are governed by the laws of the United Kingdom. Use of the FyndFit platform is unauthorised in any jurisdiction that does not give effect to all provisions of these terms and conditions.",
-          text2:"Our performance of these terms is subject to existing laws and legal processes, and nothing contained in these terms limits our right to comply with law enforcement or other governmental or legal requests or requirements relating to your use of our platform or information provided to or gathered by us with respect to such use.",
-          text3:"If any part of these terms is found to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions will not in any way be affected or impaired. Our failure or delay in enforcing any provision of these terms at any time does not waive our right to enforce the same or any other provision(s) hereof in the future.Any rights not expressly granted herein are reserved."
+          title:'अंतिम प्रावधान',
+          text:"यूनाइटेड किंगडम के कानून इन नियमों और शर्तों का मार्गदर्शन करते हैं। ऐसे किसी भी देश में FyndFit प्लेटफ़ॉर्म के उपयोग की अनुमति नहीं है जो इन सभी नियमों और शर्तों का पालन नहीं करता है।",
+          text2:"इन शर्तों का पालन करने की हमारी क्षमता उन कानूनों और कानूनी प्रक्रियाओं के अधीन है जो पहले से मौजूद हैं, और इन शर्तों में कुछ भी कानून प्रवर्तन या अन्य सरकारी या कानूनी अनुरोधों या आपके द्वारा हमारे प्लेटफॉर्म या जानकारी का उपयोग करने से संबंधित आवश्यकताओं का पालन करने की हमारी क्षमता को सीमित नहीं करता है। आप हमें देते हैं या हम इकट्ठा करते हैं कि आप इसका उपयोग कैसे करते हैं।",
+          text3:"यदि इन शर्तों का कोई भी हिस्सा अमान्य, अवैध, या लागू करने योग्य नहीं पाया जाता है, तो इससे अन्य भागों की वैधता, वैधता या प्रवर्तनीयता में किसी भी तरह का परिवर्तन नहीं होगा। अगर हम इनमें से किसी भी शर्त को तुरंत लागू नहीं करते हैं या ऐसा करने में लंबा समय लेते हैं, तो इसका मतलब यह नहीं है कि हम भविष्य में उन्हें लागू नहीं कर पाएंगे. कोई भी अधिकार जो यहां स्पष्ट रूप से प्रदान नहीं किए गए हैं वे आरक्षित हैं।"
       },
       fifteen:{
-          title:'15. CONTACT INFORMATION',
-          text:"If you have questions or concerns about these terms, please contact us using the contact information below:",
-          copyright:"AppBuildr Limited - FyndFit.",
-          address:"(Anthony Shittu, supoort@appbuildr.tech, +447557519129)"
+          title:'संपर्क जानकारी',
+          text:"यदि आपके पास इन शर्तों के बारे में प्रश्न या समस्याएं हैं, तो कृपया हमसे संपर्क करने के लिए नीचे दी गई जानकारी का उपयोग करें:",
+          copyright:"ऐपबिल्डर लिमिटेड - FyndFit।",
+          address:"(एंथनी शिट्टू, supoort@appbuildr.tech, +447557519129)"
       }
     }
   
