@@ -1,7 +1,7 @@
 'use client'
 import { AppContext } from '@/app/layout';
 import React, { useContext, useEffect } from 'react'
-import Cookie from '../page';
+import Terms from '../page';
 
 export default function page() {
   const [context, setContext]:any = useContext(AppContext);
@@ -10,6 +10,6 @@ export default function page() {
     },[])
 
   return (
-    <Cookie select={3}/>
+    <Terms select={3}/>
   )
 }

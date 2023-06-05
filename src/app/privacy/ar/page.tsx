@@ -1,15 +1,15 @@
 'use client'
 import { AppContext } from '@/app/layout';
 import React, { useContext, useEffect } from 'react'
-import Cookie from '../page';
+import Policy from '../page';
 
 export default function page() {
   const [context, setContext]:any = useContext(AppContext);
     useEffect(() => {
-        setContext({...context,language:'ARABIC'})
+        setContext({...context,language:'ENGLISH'})
     },[])
 
   return (
-    <Cookie select={1}/>
+    <Policy select={1}/>
   )
 }

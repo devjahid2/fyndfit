@@ -5,13 +5,13 @@ import { AppContext } from "../layout";
 import { LANGUAGE } from "../../../data";
 import Footer from "@/components/Footer";
 import Copyright from "@/components/Copyright";
-const Terms = () => {
+const Terms = ({select}:any) => {
     const [context, setContext]:any = useContext(AppContext);
     const Lang:any = LANGUAGE;
     return(
         <>
             <div className={`cookie mb-80 xl:container mx-auto px-4 xl:px-0 ${context.language === "ARABIC" ? 'text-end':''}`}>
-            <Nav select={0}/>
+            <Nav  middleware={'terms'} select={select||0}/>
             <div className="header mt-10 mb-80">
                 <h2>{Lang[context.language].terms.title}</h2>
             </div>
