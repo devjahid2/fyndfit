@@ -1736,26 +1736,25 @@ export const LANGUAGE = {
     },
     
     cookie:{
-      title:'COOKIE POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'This cookie policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit:',
+      title:'कूकी नीति',
+      welcomeText:'FyndFit में आपका स्वागत है !',
+      text:'FyndFit का स्वामित्व और संचालन AppBuildr Limited  (ऐपबिल्डर लिमिटेड) के पास है।',
+      text2:'यह कुकी नीति बताती है कि जब आप उपयोग करते हैं या विज़िट करते हैं तो कुकीज़ और अन्य समान तकनीकों को कैसे और क्यों आपके डिवाइस पर संग्रहीत और एक्सेस किया जा सकता है:',
       link:'https://fyndfit.com',
-      text3:'(Hereinafter referred to as “FyndFit”).',
-      text4:'The information collected through cookies will be under the responsibility and charge of:',
+      text3:'(इसके बाद " FyndFit " के रूप में संदर्भित)।',
+      text4:'कुकीज़ के माध्यम से एकत्र की गई जानकारी निम्नलिखित के उत्तरदायित्व और प्रभार के अधीन होगी:',
       li:'AppBuildr Limited.',
-      li2:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
-      text5:'This cookie policy should be read together with our privacy policy and our terms and conditions.',
-      text6:'By using the website, you accept the use of cookies by FyndFit, in the terms contained in this policy.',
+      li2:'•	(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)',
+      text5:'इस कुकी नीति को हमारी गोपनीयता नीति और हमारे नियमों और शर्तों के साथ पढ़ा जाना चाहिए।',
+      text6:'वेबसाइट का उपयोग करके, आप इस नीति में निहित शर्तों के अनुसार, FyndFit द्वारा कुकीज़ के उपयोग को स्वीकार करते हैं।',
       points:{
         one:{
-          title:'1. WHAT ARE COOKIES?',
-          text:'Cookies are small text files that are stored on your computer or mobile device when you visit a website. They allow the website to recognise your device and remember if you have been to the website before. Cookies are a very common web technology; most websites use cookies and have done so for years. Cookies are widely used to make the website work more efficiently. Cookies are used to measure which parts of the website users visit and to personalise their experience. Cookies also provide information that helps us monitor and improve the performance of the website.'
+          title:'कुकीज क्या हैं?',
+          text:'जब आप किसी वेबसाइट पर जाते हैं, तो कुकी नामक एक छोटी टेक्स्ट फ़ाइल आपके कंप्यूटर या मोबाइल डिवाइस पर सहेजी जाती है। वे वेबसाइट को आपके डिवाइस को पहचानने और पिछली यात्राओं पर नज़र रखने में सक्षम बनाते हैं। अधिकांश वेबसाइटें कुकीज़ का उपयोग करती हैं, और उन्होंने ऐसा कई वर्षों से किया है। कुकीज़ एक अपेक्षाकृत व्यापक वेब तकनीक है। वेबसाइट के प्रदर्शन को बेहतर बनाने के लिए कुकीज़ का अक्सर उपयोग किया जाता है। कुकीज़ का उपयोग वेबसाइट पर उपयोगकर्ता के व्यवहार को ट्रैक करने और उनके अनुभव को अनुकूल बनाने के लिए किया जाता है। इसके अतिरिक्त, कुकीज़ हमें डेटा देती हैं जो हमें वेबसाइट की कार्यक्षमता को ट्रैक करने और बढ़ाने में सक्षम बनाती हैं।'
         },
         two:{
-          title:'2. COOKIE SETTINGS',
-          text:'If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’, ‘tool’, or ‘edit’ section. Please note that if you use your browser settings to block all cookies, including strictly necessary cookies, you may not be able to access or use all or parts of the functionalities of the website.',
-          text2:'If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the website from placing further cookies on your device unless and until you adjust your Internet browser setting as described above. We provide the links for the management and blocking of cookies depending on the browser you use:',
+          title:'कुकी सेटिंग',
+          text:"आप अपने इंटरनेट ब्राउज़र को सभी या कुछ कुकीज़ की सेटिंग को अस्वीकार करने के लिए सक्षम कर सकते हैं और यदि आप कुकीज़ को उस पर नहीं गिराना चाहते हैं तो आपके डिवाइस पर कुकी रखे जाने पर आपको सूचित कर सकते हैं। ऐसा करने के तरीके के बारे में अधिक जानकारी के लिए कृपया अपने ब्राउज़र के 'सहायता', 'उपकरण', या 'संपादन' अनुभाग देखें। कृपया ध्यान रखें कि यदि आप अपने ब्राउज़र को सभी कुकीज़ को ब्लॉक करने के लिए सेट करते हैं, यहां तक कि सख्त आवश्यक कुकीज़ को भी, तो आप वेबसाइट की सभी क्षमताओं तक पहुंच या उपयोग करने में सक्षम नहीं हो सकते हैं। यदि आप चाहें तो पहले से संग्रहीत कुकीज़ को मैन्युअल रूप से हटा सकते हैं। जब तक आप अपने इंटरनेट ब्राउज़र सेटिंग्स में उपरोक्त परिवर्तन नहीं करते हैं, तब तक वेबसाइट आपके डिवाइस पर और कुकीज़ रख सकेगी। आपके द्वारा उपयोग किए जाने वाले ब्राउज़र के आधार पर, हम कुकीज़ को प्रबंधित करने और ब्लॉक करने के लिए लिंक देते हैं:",
           link1:{
             text:'Microsoft Edge:',
             link:' https://support.microsoft.com/en-us/office/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09?ui=en-us&rs=en-us&ad=us'
@@ -1769,36 +1768,36 @@ export const LANGUAGE = {
           text3:'In cases where you access the website through an iOS or Android mobile device, please follow the instructions below to delete or block cookies on your device:'
         },
         three:{
-          title:'3. FIRST-PARTY COOKIES',
-          text:'We use cookies to enhance the performance of our website and personalise your online experience. Cookies help us to collect information on how people use our website and which pages they visit. They enable us to monitor the number of visitors and to analyse website usage patterns and trends. We collect this information anonymously, so it does not identify anyone as an individual and no personal information is stored in our cookies. We always responsibly use cookie data.'
+          title:'प्रथम-पक्ष कुकीज़',
+          text:'हम अपनी वेबसाइट को बेहतर काम करने और आपके ऑनलाइन अनुभव को और अधिक व्यक्तिगत बनाने के लिए कुकीज़ का उपयोग करते हैं। कुकीज से हमें यह पता चलता है कि लोग हमारी वेबसाइट का उपयोग कैसे करते हैं और वे किन पेजों को देखते हैं। वे हमें उपयोगकर्ताओं की संख्या को ट्रैक करने देते हैं और लोगों द्वारा साइट का उपयोग करने के पैटर्न और रुझानों को देखते हैं। यह जानकारी गुमनाम रूप से एकत्र की जाती है, इसलिए इसका उपयोग यह पता लगाने के लिए नहीं किया जा सकता कि कोई कौन है, और हमारी कुकीज़ लोगों के बारे में कोई व्यक्तिगत जानकारी संग्रहीत नहीं करती हैं। हम हमेशा कुकी जानकारी का उपयोग स्मार्ट तरीके से करते हैं।'
         },
         fore:{
-          title:'4. THIRD-PARTY COOKIES',
-          text:'Third-party cookies may come from partners or third-party companies that provide functional web services or tools for our website and the optimal functioning and operation of our services. We use third-party cookies responsibly and for the sole purpose of providing optimal functioning of the platform and services. You may opt out of these cookies by following the cookie removal information contained in this document or the technical information of the browser from which you access our website and services.'
+          title:'तृतीय-पक्ष कुकीज़',
+          text:'तृतीय-पक्ष कुकीज़ भागीदारों या अन्य तृतीय-पक्ष कंपनियों से आ सकती हैं जो वेब सेवाएँ या उपकरण प्रदान करती हैं जो हमारी वेबसाइट और सेवाओं को अच्छी तरह से काम करने में मदद करती हैं। हम तृतीय पक्षों से कुकीज़ का उपयोग एक जिम्मेदार तरीके से करते हैं और केवल यह सुनिश्चित करने के लिए करते हैं कि प्लेटफॉर्म और सेवाएं यथासंभव अच्छी तरह से काम करें। आप इस पृष्ठ में कुकीज़ को हटाने के निर्देशों का पालन करके या हमारी वेबसाइट और सेवाओं तक पहुँचने के लिए आपके द्वारा उपयोग किए जाने वाले ब्राउज़र के निर्देशों का पालन करके इन कुकीज़ को अपने कंप्यूटर पर संग्रहीत होने से रोक सकते हैं।'
         },
         five:{
-          title:'5. PURPOSES OF OUR COOKIES',
-          text:'Our cookies are used for the following purposes:',
+          title:'हमारी कुकीज़ का उद्देश्य',
+          text:'हमारे कुकीज़ का उपयोग निम्नलिखित उद्देश्यों के लिए किया जाता है:',
           strictlyNecessary:{
-            bold:'Strictly Necessary: ',
-            normal:'These cookies are essential for the website to perform its basic functions.'
+            bold:'सख्ती से आवश्यक ',
+            normal:'ये कुकीज़ वेबसाइट के बुनियादी कार्यों को करने के लिए आवश्यक हैं।'
           } ,
           security:{
-            bold:'Security: ',
-            normal:'We use these cookies to help identify and prevent potential security risks.'
+            bold:'सुरक्षा: ',
+            normal:'हम संभावित सुरक्षा जोखिमों की पहचान करने और उन्हें रोकने में मदद के लिए इन कुकीज़ का उपयोग करते हैं।'
           } ,
           performance:{
-            bold:'Performance: ',
-            normal:'Performance cookies collect information on how users interact with our website, including what pages are visited most, as well as other analytical data. We use these details to improve how our website functions and to understand how users interact with them.'
+            bold:'प्रदर्शन:',
+            normal:' प्रदर्शन कुकीज़ ट्रैक करती हैं कि लोग हमारी वेबसाइट का उपयोग कैसे करते हैं, जैसे कि कौन से पृष्ठ सबसे लोकप्रिय हैं, साथ ही साथ अन्य विश्लेषणात्मक जानकारी भी। हम इस जानकारी का उपयोग हमारी वेबसाइटों के काम करने के तरीके को बेहतर बनाने और यह जानने के लिए करते हैं कि लोग उनका उपयोग कैसे करते हैं।'
           },
           analytics:{
-            bold:'Analytics. ',
-            normal:'We use Google Analytics as a data analysis tool. These tools and technologies collect and analyse certain types of information, such as IP addresses, device and software identifiers, referring and exit URLs, feature usage metrics and statistics, media access control addresses (MAC address), unique mobile device identifiers and other similar information through the use of cookies. We use GOOGLE Analytics data collection to improve our platforms and services.'
+            bold:'विश्लेषिकी: ',
+            normal:' Google Analytics एक उपकरण है जिसका उपयोग हम डेटा देखने के लिए करते हैं। ये उपकरण और प्रौद्योगिकियां आईपी पते, डिवाइस और सॉफ़्टवेयर पहचानकर्ताओं, URL का संदर्भ देने और बाहर निकलने, फीचर उपयोग मेट्रिक्स और आंकड़े, मीडिया एक्सेस कंट्रोल एड्रेस (MAC एड्रेस), अद्वितीय मोबाइल डिवाइस पहचानकर्ता और अन्य समान जानकारी जैसी जानकारी एकत्र करने और उसका विश्लेषण करने के लिए कुकीज़ का उपयोग करती हैं। हम अपने प्लेटफॉर्म और सेवाओं के बारे में डेटा एकत्र करने के लिए GOOGLE Analytics का उपयोग करते हैं ताकि हम उन्हें बेहतर बना सकें।'
           }
         },
         six:{
-          title:'6. CONTACT US',
-          text:'If you have any questions or concerns about this cookie policy and the processing and security of your data, please contact us using the contact information below:',
+          title:'हमसे संपर्क करें',
+          text:'यदि आपके पास इस कुकी नीति या आपके डेटा का उपयोग या सुरक्षित रखने के तरीके के बारे में कोई प्रश्न या समस्या है, तो कृपया नीचे दी गई जानकारी का उपयोग करके हमसे संपर्क करें:',
           copyright:'AppBuildr Limited - FyndFit.',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
@@ -1807,134 +1806,133 @@ export const LANGUAGE = {
     },
     
     policy:{
-      title:'PRIVACY POLICY',
-      welcomeText:'Welcome to FyndFit!',
-      text:'FyndFit is owned and operated by AppBuildr Limited.',
-      text2:'(Hereinafter referred to as "FyndFit").',
-      text3:'FyndFit values your privacy and the protection of your data. This privacy policy describes what information we collect from you, how we collect it, how we use it, how we obtain your consent, how long we keep it in our databases and, if necessary, with whom we share it.',
-      text4:'By using the platform, you are accepting the practices described in this privacy policy. Your use of the platform is also subject to our terms of service. In this privacy policy, the words "platform" refers to the FyndFit mobile application and website together, "we", "us", "our" and "FyndFit" refers to FyndFit and "you" and "user" refers to you, the user of FyndFit.',
-      text5:'This privacy policy may change from time to time. Your continued use of the platform and website after we make changes to this privacy policy is deemed acceptance of those changes, so please check this policy periodically for updates. This privacy policy has been developed and is maintained following all applicable federal and international laws and regulations, in particular, the Data Protection Act 2018 (UK regulations) and the GDPR (General Data Protection Regulation - European regulations).',
+      title:'गोपनीयता नीति',
+      welcomeText:'FyndFit में आपका स्वागत है !',
+      text:'FyndFit का स्वामित्व और संचालन AppBuildr Limited (ऐपबिल्डर लिमिटेड) के पास है।',
+      text2:'(इसके बाद " FyndFit " के रूप में संदर्भित)।',
+      text3:'FyndFit आपकी गोपनीयता और आपके डेटा की सुरक्षा को महत्व देता है। यह गोपनीयता नीति बताती है कि हम आपसे कौन सी जानकारी एकत्र करते हैं, हम इसे कैसे एकत्र करते हैं, हम इसका उपयोग कैसे करते हैं, हम आपकी सहमति कैसे प्राप्त करते हैं, हम इसे अपने डेटाबेस में कब तक रखते हैं और यदि आवश्यक हो, तो हम इसे किसके साथ साझा करते हैं।',
+      text4:'प्लेटफ़ॉर्म का उपयोग करके, आप इस गोपनीयता नीति में वर्णित प्रथाओं को स्वीकार कर रहे हैं। प्लेटफ़ॉर्म का आपका उपयोग भी हमारी सेवा की शर्तों के अधीन है। इस गोपनीयता नीति में, "प्लेटफ़ॉर्म" शब्द FyndFit मोबाइल एप्लिकेशन और वेबसाइट को एक साथ संदर्भित करता है, "हम", "हमें", "हमारा" और "FyndFit" यह FyndFit को संदर्भित करता है और "आप" और "उपयोगकर्ता" FyndFit के उपयोगकर्ताओं को संदर्भित करता है।',
+      text5:'यह गोपनीयता नीति समय-समय पर बदल सकती है। हमारे द्वारा इस गोपनीयता नीति में परिवर्तन किए जाने के बाद भी आपके द्वारा प्लेटफ़ॉर्म और वेबसाइट का निरंतर उपयोग उन परिवर्तनों की स्वीकृति माना जाता है, इसलिए कृपया अपडेट के लिए समय-समय पर इस नीति की जाँच करें। यह गोपनीयता नीति सभी लागू संघीय और अंतर्राष्ट्रीय कानूनों और विनियमों, विशेष रूप से, डेटा संरक्षण अधिनियम 2018 (UK के नियमों) और GDPR (सामान्य डेटा संरक्षण विनियमन - यूरोपीय नियमों) का पालन करते हुए विकसित और बनाए रखी गई है।',
       points:{
         one:{
-          title:'1. GENERAL INFORMATION',
-          text:'The personal data of users collected and processed through:',
-          li:'FyndFit mobile application (Available on Google Play and App Store).',
+          title:'सामान्य जानकारी',
+          text:'उपयोगकर्ताओं के व्यक्तिगत डेटा को निम्न से एकत्र और संसाधित किया जाता है:',
+          li:'•	FyndFit मोबाइल एप्लिकेशन (Google Play और App Store पर उपलब्ध)।',
           li2:'https://fyndfit.com',
-          text2:'Will be under the responsibility and in charge of:',
+          text2:'•	जिम्मेदारी और प्रभारी के अधीन होगा:',
           li3:'AppBuildr Limited. ',
-          li4:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)',
+          li4:'•	(एंथनी शिट्टू , supoort@appbuildr.tech, +447557519129)',
         },
         two:{
-          title:'2. HOW DO YOU OBTAIN MY CONSENT?',
-          text:'By downloading and using the mobile application, using the functionalities available on the platform, contacting us through our contact information, and providing us with personal information to communicate with you, you consent to our collection, storage and use of your information on the terms contained in this privacy policy. You may withdraw your consent at any time by sending us your request through our contact information.'
+          title:'आप मेरी सहमति कैसे प्राप्त करते हैं?',
+          text:'आप इस गोपनीयता कथन में उल्लिखित शर्तों के अनुसार हमारे द्वारा आपकी जानकारी के संग्रह, भंडारण और उपयोग के लिए सहमत हैं, मोबाइल एप्लिकेशन को डाउनलोड करके और उपयोग करके, प्लेटफ़ॉर्म की कार्यक्षमताओं का उपयोग करके, हमारी संपर्क जानकारी के माध्यम से हमसे संपर्क करके, और हमें व्यक्तिगत जानकारी प्रदान करके आपके साथ संवाद करने के लिए जानकारी। हमारी संपर्क जानकारी का उपयोग करके हमें अपना अनुरोध ईमेल करके, आप किसी भी समय अपनी सहमति रद्द कर सकते हैं।'
         },
         three:{
-          title:'3. TYPES OF INFORMATION COLLECTED',
-          text:"Information you provide to us. You provide information when you use the functionalities available on the platform and/or communicate with us through our contact information or contact forms. As a result of those actions, you may provide us with the following information:",
-          li:'Name',
-          li2:'E-mail address',
-          li3:'Any additional information related to you that you provide to us directly or indirectly through our platform.',
-          text2:'FyndFit will not collect any personally identifiable information about you unless you provide it.',
-          text3:'Information Collected Automatically: By accessing and using the platform, you automatically provide us with the following information:',
-          li4:"Your IP address ",
-          li5:'Your operating system',
-          li6:'Referrer URLs',
+          title:'एकत्रित जानकारी के प्रकार',
+          text:"हमारे प्लेटफ़ॉर्म के उपयोगकर्ताओं से प्राप्त होने वाला डेटा हमें उपयोगकर्ता अनुभव को उत्तरोत्तर बढ़ाने में सक्षम बनाता है। हम निम्न प्रकार के डेटा एकत्र करते हैं: जानकारी जो आप हमें देते हैं। जब आप प्लेटफ़ॉर्म की क्षमताओं का उपयोग करते हैं और/या हमारे संपर्क विवरण या संपर्क फ़ॉर्म के माध्यम से हमसे संपर्क करते हैं, तो आप हमें अपने बारे में जानकारी देते हैं। उन कार्रवाइयों के परिणामस्वरूप आप हमें निम्नलिखित विवरण दे सकते हैं:",
+          li:'•	नाम',
+          li2:'•	मेल पता',
+          li3:'•	आपसे संबंधित कोई भी अतिरिक्त जानकारी जो आप हमें हमारे प्लेटफॉर्म के माध्यम से प्रत्यक्ष या अप्रत्यक्ष रूप से प्रदान करते हैं।',
+          text2:'आपकी सहमति के बिना, FyndFit आपके बारे में कोई व्यक्तिगत पहचान योग्य डेटा संकलित नहीं करेगा।',
+          text3:"स्वचालित रूप से एकत्रित जानकारी: आप प्लेटफ़ॉर्म का उपयोग करके और उस तक पहुँच कर स्वचालित रूप से हमें निम्न जानकारी प्रदान करते हैं:",
+          li5:'•	आपका आईपी पता',
+          li6:'•	आपका ऑपरेटिंग सिस्टम',
           app:{
-            bold:' Firebase (Mobile app):' ,
-          normal:' We use Firebase Crashlytics and Firebase Analytics provided by Google, Inc. of the United States ("Google") and certain functionalities such as Firebase Crashlytics, Firebase Analytics, Google Analytics, Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication, etc. These tools and technologies collect and analyse certain types of information, such as feature usage metrics and statistics, usage history, unique device identifiers and other similar information. The information generated by Firebase may be transmitted to and stored by Google on servers in the United States. We use Firebase to improve our platform. '
+            bold:' •	Firebase (मोबाइल ऐप): ' ,
+          normal:' युनाइटेड स्टेट्स का Google, इंक. ("Google") Firebase Crashlytics और Firebase Analytics के साथ-साथ Cloud Firestore, Firebase Performance Monitoring, Firebase Dynamic Links, Firebase Authentication आदि जैसी अन्य सुविधाएं प्रदान करता है। ये उपकरण और प्रौद्योगिकियां विशिष्ट प्रकार के डेटा को इकट्ठा और विश्लेषण करती हैं, जिसमें उपयोग मेट्रिक्स और आंकड़े, उपयोग पैटर्न, विशिष्ट उपकरण पहचानकर्ता और इसी तरह के अन्य डेटा शामिल हैं। Google के लिए Firebase द्वारा उत्पादित डेटा को अमेरिकी सर्वर पर भेजना और संग्रहीत करना संभव है। Firebase के इस्तेमाल से हम अपने प्लेटफॉर्म को बेहतर बना सकते हैं। '
         },
-        text4:"Please refer to Firebase's privacy policy: ",
+        text4:"•	कृपया Firebase की गोपनीयता नीति देखें: ",
         link:'https://firebase.google.com/support/privacy.',
-        contact:{bold:'Contact information: ',normal:'We may access some personal information about the user, such as name and email address when the user or any third party communicates with us through our contact information. Personal information provided through our contact information is not stored on any FyndFit server and will be stored on the respective server of our email service.'},
+        contact:{bold:'संपर्क जानकारी: ',normal:' जब कोई उपयोगकर्ता या अन्य पक्ष हमारी संपर्क जानकारी का उपयोग करके हमसे संपर्क करता है, तो हम उस व्यक्ति के बारे में कुछ व्यक्तिगत रूप से पहचान योग्य जानकारी, जैसे नाम और ईमेल पता, तक पहुँचने में सक्षम हो सकते हैं। हमारी संपर्क जानकारी के माध्यम से दिया गया व्यक्तिगत डेटा हमारी ईमेल सेवा के सर्वर पर रखा जाता है, न कि किसी FyndFit सर्वर पर।'},
 
         },
         four:{
-          title:'4. HOW LONG WE KEEP YOUR DATA',
-          text:'Personal data provided by users through the platform and our services will be retained for as long as necessary to provide our plans and the functionalities available on the platform or until the user requests the deletion of his data. FyndFit may retain personal data for a longer period provided that the user has consented to such processing, as long as such consent is not withdrawn. In addition, FyndFit may be obliged to retain personal data for a longer period provided that this is required for compliance with a legal obligation or by order of an authority. Once the retention period has expired, the personal data will be deleted. Therefore, the right to access, the right of deletion, the right of rectification and the right to data portability cannot be asserted after the retention period has expired.'
+          title:'हम आपका डेटा कब तक रखते हैं',
+          text:'प्लेटफ़ॉर्म और हमारी सेवाओं के माध्यम से सबमिट की गई उपयोगकर्ताओं की व्यक्तिगत जानकारी को तब तक फ़ाइल में रखा जाएगा जब तक कि वे अपने डेटा को हटाने के लिए नहीं कहते हैं, या जब हमारी योजनाओं और प्लेटफ़ॉर्म की कार्यक्षमता को वितरित करने की आवश्यकता नहीं होती है। यदि उपयोगकर्ता ने अपने व्यक्तिगत डेटा के प्रसंस्करण के लिए सहमति दी है और उस सहमति को रद्द नहीं किया है, तो FyndFit डेटा को अधिक समय तक बनाए रख सकता है। इसके अतिरिक्त, यदि कानूनी कर्तव्य या प्राधिकरण के निर्देश के अनुसार पालन करना आवश्यक है, तो FyndFit व्यक्तिगत डेटा को अधिक समय तक रखने के लिए बाध्य हो सकता है। निर्दिष्ट प्रतिधारण अवधि बीत जाने के बाद व्यक्तिगत डेटा मिटा दिया जाएगा। नतीजतन, जब अवधारण समय बीत चुका है, पहुंच, विलोपन, सुधार, या डेटा पोर्टेबिलिटी के अधिकारों के संबंध में कोई दावा नहीं किया जा सकता है।'
         },
         five:{
-          title:'5. HOW WE USE YOUR INFORMATION. ',
-          text:"In general, we use the information we collect primarily to provide, maintain, protect and improve our platform and our current services. We use personal information collected through our platform as described below:",
-          li:'Provide the mobile application (Available on Google Play and App Store).',
-          li2:'Provide the functionalities available on the platform.',
-          li3:'Understand and improve your experience using our platform.',
-          li4:'Respond to your comments or questions through our contact information.',
-          li5:'Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.',
-          li6:'Communicate with you about upcoming events and news about FyndFit.',
-          li6:'FyndFit marketing purposes.',
-          li7:'Link or combine your information with other data we obtain from third parties to help us understand your needs and provide you with better service.',
-          li8:'Protect, investigate and deter fraudulent, unauthorised or illegal activities.',
+          title:'हम आपकी जानकारी का उपयोग कैसे करते हैं। ',
+          text:"सामान्यतया, हम मुख्य रूप से अपने प्लेटफॉर्म और हमारे द्वारा प्रदान की जाने वाली सेवाओं को वितरित करने, संरक्षित करने, सुरक्षित रखने और बढ़ाने के लिए एकत्र किए गए डेटा का उपयोग करते हैं। निम्नलिखित वर्णन करता है कि हम अपने प्लेटफॉर्म के माध्यम से प्राप्त होने वाली व्यक्तिगत जानकारी का उपयोग कैसे करते हैं:",
+          li:'•	मोबाइल एप्लिकेशन प्रदान करते है (Google Play और App Storeपर उपलब्ध )',
+          li2:'•	प्लेटफ़ॉर्म पर उपलब्ध कार्यप्रणाली प्रदान करते है।',
+          li3:'•	हमारे प्लेटफॉर्म का उपयोग करके आपके अनुभव को समझते और बेहतर बनाते है।',
+          li4:'•	हमारी संपर्क जानकारी के माध्यम से आपकी टिप्पणियों या प्रश्नों का उत्तर देते है।',
+          li5:'•	पुष्टिकरण, चालान, तकनीकी नोटिस, अपडेट, सुरक्षा अलर्ट, और समर्थन और प्रशासनिक संदेशों सहित आपको संबंधित जानकारी भेजते है।',
+          li6:'•	FYndFit के बारे में समाचारों के बारे में आपसे संवाद करते है।',
+          li6:'•	FyndFit के मार्केटिंग उद्देश्य के लिए।',
+          li7:'•	आपकी आवश्यकताओं को समझने और आपको बेहतर सेवा प्रदान करने में हमारी मदद करने के लिए हम तृतीय पक्षों से प्राप्त अन्य डेटा के साथ अपनी जानकारी को लिंक या संयोजित करते हैं।',
+          li8:'•	धोखाधड़ी, अनधिकृत या अवैध गतिविधियों की रक्षा, जांच और रोकथाम के लिए।',
 
         },
         six:{
-          title:'6. HOW WE SHARE INFORMATION',
-          text:'Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.',
+          title:'हम जानकारी कैसे साझा करते हैं',
+          text:'चूंकि क्लाइंट की जानकारी हमारे व्यवसाय का एक महत्वपूर्ण घटक है, इसलिए हम इसे तीसरे पक्ष को बेचने के लिए बाजार में नहीं हैं। हम ग्राहक डेटा को केवल नीचे बताए गए तरीकों से प्रकट करते हैं। तृतीय-पक्ष सेवा प्रदाता। हम अपने प्लेटफॉर्म पर कुछ कार्य करने के लिए तृतीय-पक्ष सेवाओं का उपयोग करते हैं। इनमें से कुछ कार्य और सेवाएं हैं: प्लेटफ़ॉर्म बनाना और होस्ट करना, प्लेटफ़ॉर्म पर ट्रैकिंग और एनालिटिक्स फ़ंक्शंस करना (Firebase Crashlytics, Firebase Analytics, Google Analytics), स्टोरेज सेवाएँ प्रदान करना (Cloud Firestore), प्रमाणीकरण सेवाएँ प्रदान करना (Firebase Authentication), प्रदान करना प्रदर्शन और गतिशील लिंकिंग सेवाएं (Firebase प्रदर्शन मॉनिटरिंग, Firebase डायनेमिक लिंक्स), विज्ञापनों को प्रदर्शित करना और वैयक्तिकृत करना (Facebook, AppLovin), और CDN सेवाएं (bunny.net) प्रदान करना।',
           providers:{
-          bold:'Third-Party Service Providers.',
-          normal:' We use third-party services to perform certain functions on our platform. Some of these functions and services are: Building and hosting the platform, performing tracking and analytics functions on the platform (Firebase Crashlytics, Firebase Analytics, Google Analytics), providing storage services (Cloud Firestore), providing authentication services (Firebase Authentication), providing performance and dynamic linking services (Firebase Performance Monitoring, Firebase Dynamic Links), displaying and personalising advertisements (Facebook, AppLovin), and providing CDN services (bunny.net). These third-party services and tools may have access to personal information needed to perform their functions, but may not use that information for other purposes. Information shared with these third-party services will be treated and stored by their respective privacy policies and our privacy policy.'
+          bold:' ',
+          normal:'हालांकि कुछ तृतीय-पक्ष सेवाओं और उपकरणों के पास अपने कार्यों को पूरा करने के लिए आवश्यक व्यक्तिगत डेटा तक पहुंच हो सकती है, लेकिन उन्हें उस डेटा को अन्य उद्देश्यों के लिए उपयोग करने की अनुमति नहीं है। साझा की गई जानकारी को हमारी गोपनीयता नीति और तृतीय-पक्ष सेवाओं की गोपनीयता नीतियों के अनुसार संभाला और संग्रहीत किया जाएगा। '
         },
           business:{
-            bold:'Business Transfers. ',
-            normal:'In the event FyndFit creates, merges with, or is acquired by another entity, your information will likely be transferred. FyndFit will send you an email or post a prominent notice on our platform before your information becomes subject to another privacy policy.'
+            bold:'व्यापर हस्तांतरण।',
+            normal:' यदि FyndFit किसी अन्य संगठन के साथ विलय करता है, या उसके द्वारा अधिग्रहित किया जाता है, तो आपकी जानकारी स्थानांतरित की जा सकती है। आपकी जानकारी को किसी अन्य गोपनीयता नीति द्वारा नियंत्रित किए जाने से पहले, FyndFit आपको ईमेल के माध्यम से या हमारी साइट पर प्रमुखता से नोटिस पोस्ट करके सूचित करेगा।'
           },
           protection:{
-            bold:'Protection of FyndFit and Others. ',
-            normal:'We release personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and conditions and other agreements, or protect the rights, property, or safety of FyndFit, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.'
+            bold:'FyndFit और अन्य की सुरक्षा जब कानून का पालन करना ',
+            normal:', हमारे नियमों और शर्तों और अन्य अनुबंधों को लागू करना या लागू करना आवश्यक होता है, या FyndFit, हमारे उपयोगकर्ताओं या अन्य लोगों के अधिकारों, संपत्ति या सुरक्षा की रक्षा करना आवश्यक होता है, तो हम व्यक्तिगत जानकारी जारी करते हैं। धोखाधड़ी और कम क्रेडिट जोखिम को रोकने के लिए, अन्य व्यवसायों और संगठनों के साथ जानकारी साझा की जाती है।'
           } ,
           anonymous:{
-            bold:'Anonymous Information. ',
-            normal:'FyndFit uses anonymous browsing information collected automatically by our servers primarily to help us administer and improve the platform. We may also use aggregated anonymous information to provide information about the Platform to potential business partners and other unaffiliated entities. This information is not personally identifiable.'
+            bold:'अनाम जानकारी।',
+            normal:' FyndFit ज्यादातर अनाम ब्राउज़र डेटा का उपयोग करता है जो प्लेटफॉर्म को संचालित करने और बढ़ाने के लिए स्वचालित रूप से हमारे सर्वर द्वारा एकत्र किया जाता है। प्लेटफ़ॉर्म के बारे में संभावित व्यावसायिक भागीदारों और अन्य असंबद्ध संस्थाओं को सूचित करने के लिए, हम समेकित अनाम जानकारी का भी उपयोग कर सकते हैं। इस डेटा का उपयोग किसी विशिष्ट व्यक्ति की पहचान करने के लिए नहीं किया जा सकता है।'
           } ,
         },
         seven:{
-          title:'7. PROTECTION OF YOUR INFORMATION',
-          text:'We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you provide through the website and platform. If transactions are processed on the website, transaction information is transmitted to and from the platform in encrypted form using industry-standard SSL connections to help protect such information from interception. We restrict authorised access to your personal information to those persons who have a legitimate need to know that information and to those persons you have authorised to have access to that information. FyndFit follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once FyndFit receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while FyndFit strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.',
+          title:'आपकी जानकारी का संरक्षण',
+          text:'हम सिक्योर सॉकेट लेयर (एसएसएल) सॉफ्टवेयर का उपयोग करते हैं, जो आपके द्वारा वेबसाइट और प्लेटफॉर्म के माध्यम से आपूर्ति की जाने वाली जानकारी को एन्क्रिप्ट करता है, ताकि प्रसारण के दौरान आपकी जानकारी की सुरक्षा की रक्षा की जा सके। यदि वेबसाइट लेन-देन की प्रक्रिया करती है, तो जानकारी को इंटरसेप्ट होने से रोकने में मदद करने के लिए उद्योग-मानक एसएसएल कनेक्शन का उपयोग करके एन्क्रिप्टेड रूप में प्लेटफ़ॉर्म से लेन-देन की जानकारी भेजी जाती है। हम केवल उन लोगों को अनुमति देते हैं जिन्हें आपकी व्यक्तिगत जानकारी जानने की वैध आवश्यकता है और जिन लोगों को आपने इसे एक्सेस करने की अनुमति दी है, वे इसे अधिकृत एक्सेस कर सकते हैं। FyndFit हमें सबमिट की गई व्यक्तिगत जानकारी की सुरक्षा के लिए आम तौर पर स्वीकृत उद्योग मानकों का पालन करता है, प्रसारण के दौरान और एक बार FyndFit द्वारा इसे प्राप्त करने के बाद। इंटरनेट के माध्यम से इलेक्ट्रॉनिक भंडारण या प्रसारण का कोई पूरी तरह से सुरक्षित तरीका नहीं है। FyndFit कानूनी रूप से अनुमत तरीकों का उपयोग करके आपकी व्यक्तिगत जानकारी को सुरक्षित रखने का प्रयास करता है, लेकिन हम इसकी पूर्ण सुरक्षा सुनिश्चित नहीं कर सकते। आपकी सहमति के बिना या जब तक कानून द्वारा बाध्य न किया जाए, हम आपकी व्यक्तिगत जानकारी को अन्य पक्षों को नहीं बेचेंगे, वितरित नहीं करेंगे, या पट्टे पर नहीं देंगे।',
 
         },
         eight:{
-          title:'8. RIGHTS ',
-          text:'Users who provide information through our platform, as data subjects, have the right to access, rectify, download or delete their information, as well as to restrict and oppose certain processing of their information. While some of these rights apply generally, others only apply in certain limited circumstances. These rights are described below:',
+          title:'अधिकार ',
+          text:'डेटा विषयों के रूप में, हमारे प्लेटफॉर्म के माध्यम से जानकारी जमा करने वाले उपयोगकर्ताओं को उस जानकारी तक पहुंचने, अपडेट करने, डाउनलोड करने या हटाने का अधिकार है। उन्हें अपनी जानकारी के प्रसंस्करण को प्रतिबंधित करने और उस जानकारी के विशेष प्रसंस्करण पर आपत्ति करने का भी अधिकार है। जबकि इनमें से कुछ अधिकार सार्वभौमिक हैं, अन्य केवल विशिष्ट, परिभाषित शर्तों के तहत ही लागू होते हैं। यहाँ इन अधिकारों का विवरण दिया गया है:',
           li:{
-            bold:'Access and portability: ',
-            normal:'to access and know what information is stored on our servers, you can send us your request through our contact information.'
+            bold:'पहुंच और सुवाह्यता: ',
+            normal:'•	 आप हमारी संपर्क जानकारी का उपयोग करके हमसे अनुरोध कर सकते हैं कि हमारे सर्वर पर कौन सी जानकारी रखी जाती है, उस तक पहुंच प्राप्त करें और जानें।'
           },
           li2:{
-            bold:'to access and know what information is stored on our servers, you can send us your request through our contact information.',
-            normal:'You may also rectify, restrict, limit or delete much of your information.'
+            bold:'सुधार, प्रतिबंध, सीमा और विलोपन: ',
+            normal:'•	आपकी बहुत सी जानकारी को ठीक किया जा सकता है, प्रतिबंधित किया जा सकता है, सीमित किया जा सकता है या हटाया जा सकता है।'
           },
           li3:{
-            bold:'Right to be informed: ',
-            normal:'Users of our platform will be informed, upon request, about what data we collect, how it is used, how long it is kept and whether it is shared with third parties.'
+            bold:'सूचित किए जाने का अधिकार:  ',
+            normal:'•	हमारे प्लेटफॉर्म के उपयोगकर्ताओं को हमारे द्वारा एकत्र किए गए डेटा के बारे में जानकारी मांगने का अधिकार है, हम इसका उपयोग कैसे करते हैं, हम इसे कब तक रखते हैं, और क्या हम इसे बाहरी पार्टियों के साथ साझा करते हैं।'
           },
           li4:{
-            bold:'Object: ',
-            normal:'Where we process your data based on our legitimate interests, as explained above, or in the public interest, you may object to this processing in certain circumstances. In such cases, we will stop processing your information unless we have legitimate grounds to continue processing it or where necessary for legal reasons.'
+            bold:'	वस्तु: ',
+            normal:'• कुछ स्थितियों में, आप अपने डेटा के प्रसंस्करण पर आपत्ति कर सकते हैं, जब यह जनहित में या हमारे वैध हितों के आधार पर किया जाता है, जैसा कि ऊपर बताया गया है। यदि ऐसा होता है, तो हम आपकी जानकारी को तब तक संसाधित करना बंद कर देंगे जब तक कि हमारे पास ऐसा करने का कोई कानूनी औचित्य न हो या कानूनी आवश्यकताओं के लिए यह आवश्यक न हो।'
           },
           li5:{
-            bold:'Withdraw consent: ',
-            normal:'Where you have previously given your consent, for example, to allow us to process and store your personal information, you have the right to withdraw your consent to the processing and storage of your information at any time. For example, you can withdraw your consent by updating your settings. In certain cases, we may continue to process your information after you have withdrawn your consent if we have a lawful basis for doing so or if your withdrawal of consent was limited to certain processing activities.'
+            bold:'सहमति वापस लेना :',
+            normal:'•	 ऐसी स्थितियों में जहां आपने पहले ही हमें अपनी व्यक्तिगत जानकारी को संसाधित करने और संग्रहीत करने की अनुमति दे दी है, उदाहरण के लिए, आपको किसी भी समय अपनी सहमति वापस लेने का अधिकार है। उदाहरण के लिए, आप अपनी सहमति रद्द करने के लिए अपनी सेटिंग बदल सकते हैं। यदि हमारे पास ऐसा करने का कोई वैध कारण है या यदि आपकी सहमति वापस लेना विशिष्ट प्रसंस्करण गतिविधियों तक सीमित था, तो कुछ परिस्थितियों में, आपके द्वारा इसे वापस लेने के बाद भी हम आपकी जानकारी का उपयोग कर सकते हैं।'
           },
           li6:{
-            bold:'Complaint: ',
-            normal:'If you wish to complain about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority. Users may exercise all of these rights by contacting us via the contact information or contact page.'
+            bold:'शिकायत: ',
+            normal:'•	आपके पास आपके किसी अन्य अधिकार को प्रभावित किए बिना व्यक्तिगत जानकारी के हमारे उपयोग के संबंध में अपने स्थानीय पर्यवेक्षी प्राधिकरण के पास शिकायत दर्ज करने का अधिकार है। उपयोगकर्ता हमसे संपर्क करने और इन सभी अधिकारों का प्रयोग करने के लिए संपर्क जानकारी या संपर्क पृष्ठ का उपयोग कर सकते हैं।'
           },
           li7:{
-            bold:'Rights related to automated decision-making, including profiling: ',
-            normal:'Users may request that we provide them with a copy of the automated processing activities we conduct if they believe that data is being unlawfully processed.'
+            bold:'	प्रोफाइलिंग सहित स्वचालित निर्णय लेने से संबंधित अधिकार:',
+            normal:'• यदि उपयोगकर्ताओं को संदेह है कि उनका डेटा गैरकानूनी रूप से संसाधित किया जा रहा है, तो वे हमारे द्वारा की जाने वाली स्वचालित प्रसंस्करण गतिविधियों की एक प्रति मांग सकते हैं। '
           },
-          text2:'Users or owners of the personal data they provide through the platform can exercise these rights over their data at any time and without any limitation by sending us their requests through our contact information.'
+          text2:'हमारी संपर्क जानकारी के माध्यम से हमें अपने अनुरोध देकर, प्लेटफ़ॉर्म के माध्यम से आपूर्ति किए गए व्यक्तिगत डेटा के उपयोगकर्ता या मालिक किसी भी समय और बिना किसी प्रतिबंध के अपने डेटा पर इन अधिकारों का प्रयोग कर सकते हैं।'
         },
         nine:{
-          title:"9. PROTECTION OF CHILDREN'S ONLINE PRIVACY ",
-          text:"We comply with national and international regulations regarding the protection of children's personal information. We do not collect information from children under the age of 13. If we learn that a child under 13 has provided us with personal information, we will take immediate steps to delete that information."
+          title:"बच्चों की ऑनलाइन गोपनीयता का संरक्षण ",
+          text:"बच्चों की व्यक्तिगत जानकारी की सुरक्षा के संबंध में, हम स्थानीय, राज्य और संघीय कानूनों का पालन करते हैं। 13 वर्ष से कम आयु के बच्चे हमारे डेटा संग्रह का विषय नहीं हैं। 13 साल से कम उम्र के किसी बच्चे ने हमें जो भी व्यक्तिगत जानकारी दी है, उसे हटाने के लिए हम तुरंत कार्रवाई करेंगे।"
         },
         ten:{
-          title:"10. THIRD PARTIES",
-          text:"Except as expressly included in this privacy policy, this document addresses only the use and disclosure of information FyndFit collects from you. If you disclose your information to others, whether other users or FyndFit vendors, different rules may apply to their use or disclosure of the information you disclose to them. FyndFit does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. FyndFit is not responsible for the privacy or security practices of other Internet platforms, including those linked to or from the FyndFit platform. FyndFit encourages you to ask questions before disclosing your personal information to others."
+          title:"तृतीय पक्ष",
+          text:"जब तक इस गोपनीयता नीति में अन्यथा न कहा गया हो, यह दस्तावेज़ विशेष रूप से FyndFit द्वारा आपसे एकत्रित की जाने वाली जानकारी के उपयोग और प्रकटीकरण को संबोधित करता है। आपके द्वारा प्रकट की गई जानकारी को दूसरे कैसे उपयोग या साझा करते हैं, इस पर अलग-अलग नियम लागू हो सकते हैं, चाहे वे अन्य उपयोगकर्ता हों  या FyndFit विक्रेता। जहां भी प्रासंगिक हो, आप ऐसे तृतीय पक्षों के गोपनीयता नियमों के अधीन हैं क्योंकि FyndFit का उनके कार्यों पर कोई नियंत्रण नहीं है। अन्य इंटरनेट प्लेटफ़ॉर्म की गोपनीयता और सुरक्षा नीतियाँ, जिनमें FyndFit प्लेटफ़ॉर्म से या उसके माध्यम से लिंक किए गए प्लेटफ़ॉर्म भी शामिल हैं, FyndFit की ज़िम्मेदारी नहीं है। अपनी व्यक्तिगत जानकारी दूसरों के सामने प्रकट करने से पहले, FyndFit आपको पूछताछ करने की सलाह देता है।"
         },
         eleven:{
-          title:"11. CONTACT ",
-          text:"If you have questions or concerns about this privacy policy and the treatment and security of your data, please contact us using the contact information below:",
+          title:"संपर्क करें ",
+          text:"यदि आपके पास इस गोपनीयता नीति के बारे में कोई प्रश्न या चिंता है, आपका डेटा कैसे प्रबंधित किया जाता है, या यह कैसे सुरक्षित है, तो कृपया नीचे दिए गए विवरण का उपयोग करके हमसे संपर्क करें।",
           copyright:'AppBuildr Limited - FyndFit.',
           address:'(Anthony Shittu, supoort@appbuildr.tech, +447557519129)'
         }
